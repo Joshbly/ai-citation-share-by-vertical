@@ -1,0 +1,62 @@
+vertical,model_name,rootdomain,channel_group,weeks_in_top10,rank_week4,citation_share_week1_pct,citation_share_week2_pct,citation_share_week3_pct,citation_share_week4_pct,change_week1_to_week4_pts
+Developer Tools,ChatGPT,github.com,Top 10,4,1,7.53,6.83,6.46,6.63,-0.90
+Developer Tools,ChatGPT,microsoft.com,Top 10,4,2,4.59,4.33,4.44,3.97,-0.62
+Developer Tools,ChatGPT,itechguides.com,Top 10,4,3,2.40,2.87,3.06,3.77,1.37
+Developer Tools,ChatGPT,amazon.com,Top 10,4,4,2.19,2.22,2.01,2.17,-0.02
+Developer Tools,ChatGPT,jetbrains.com,Top 10,4,5,2.15,1.76,2.43,2.02,-0.13
+Developer Tools,ChatGPT,gitlab.com,Top 10,4,6,1.62,1.61,1.87,1.74,0.12
+Developer Tools,ChatGPT,zapier.com,Top 10,2,7,1.33,1.27,1.51,1.51,0.18
+Developer Tools,ChatGPT,visualstudio.com,Top 10,4,8,2.13,1.99,1.73,1.48,-0.65
+Developer Tools,ChatGPT,google.com,Top 10,4,9,2.12,2.07,1.72,1.47,-0.65
+Developer Tools,ChatGPT,hashicorp.com,Top 10,1,10,1.00,1.19,1.19,1.24,0.24
+Developer Tools,ChatGPT,cursor.com,Top 10,2,11,1.60,1.43,1.23,1.22,-0.38
+Developer Tools,ChatGPT,figma.com,Top 10,1,13,1.34,1.32,1.13,1.16,-0.18
+Developer Tools,ChatGPT,ciopages.com,Top 10,1,14,1.20,1.37,1.16,1.15,-0.05
+Developer Tools,ChatGPT,datadoghq.com,Top 10,1,18,0.82,1.24,1.26,0.93,0.11
+Developer Tools,ChatGPT,reddit.com,Pinned social,0,,0.00,0.00,0.01,0.00,0.00
+Developer Tools,Google AI Mode,youtube.com,Both,4,1,4.79,4.37,17.60,16.35,11.56
+Developer Tools,Google AI Mode,reddit.com,Both,4,2,5.86,6.11,7.82,7.36,1.50
+Developer Tools,Google AI Mode,medium.com,Top 10,4,3,3.12,3.12,2.28,2.41,-0.71
+Developer Tools,Google AI Mode,gartner.com,Top 10,4,4,2.01,2.81,2.04,1.86,-0.15
+Developer Tools,Google AI Mode,github.com,Top 10,4,5,2.53,2.74,1.76,1.75,-0.78
+Developer Tools,Google AI Mode,facebook.com,Both,3,6,1.02,1.35,1.47,1.64,0.62
+Developer Tools,Google AI Mode,dev.to,Top 10,4,7,1.49,2.19,1.19,1.41,-0.08
+Developer Tools,Google AI Mode,microsoft.com,Top 10,2,8,0.87,0.97,1.06,1.12,0.25
+Developer Tools,Google AI Mode,google.com,Top 10,4,9,1.30,1.32,0.93,0.95,-0.35
+Developer Tools,Google AI Mode,zapier.com,Top 10,3,10,1.75,1.32,0.94,0.84,-0.91
+Developer Tools,Google AI Mode,linkedin.com,Pinned social,0,11,0.90,0.59,0.78,0.81,-0.09
+Developer Tools,Google AI Mode,guideflow.com,Top 10,1,14,1.37,0.69,0.45,0.69,-0.68
+Developer Tools,Google AI Mode,domo.com,Top 10,1,17,0.99,1.70,0.71,0.51,-0.48
+Developer Tools,Google AI Mode,figma.com,Top 10,2,21,1.35,1.53,0.61,0.38,-0.97
+Developer Tools,Google AI Overviews,youtube.com,Both,4,1,12.70,17.29,17.74,17.27,4.57
+Developer Tools,Google AI Overviews,reddit.com,Both,4,2,5.20,5.89,6.77,6.39,1.19
+Developer Tools,Google AI Overviews,medium.com,Top 10,4,3,2.03,2.26,2.52,2.34,0.31
+Developer Tools,Google AI Overviews,facebook.com,Both,4,4,1.36,1.59,1.93,2.05,0.69
+Developer Tools,Google AI Overviews,github.com,Top 10,4,5,1.46,1.55,1.64,1.83,0.37
+Developer Tools,Google AI Overviews,gartner.com,Top 10,4,6,1.49,1.33,1.20,1.45,-0.04
+Developer Tools,Google AI Overviews,dev.to,Top 10,4,7,1.27,1.28,1.19,1.43,0.16
+Developer Tools,Google AI Overviews,zapier.com,Top 10,4,8,0.99,1.04,1.02,1.09,0.10
+Developer Tools,Google AI Overviews,microsoft.com,Top 10,4,9,1.23,1.05,1.03,1.01,-0.22
+Developer Tools,Google AI Overviews,atlassian.com,Top 10,1,10,0.89,0.73,0.65,0.87,-0.02
+Developer Tools,Google AI Overviews,geeksforgeeks.org,Top 10,2,13,0.93,0.81,0.91,0.77,-0.16
+Developer Tools,Google AI Overviews,linkedin.com,Both,1,14,0.85,1.00,0.69,0.76,-0.09
+Developer Tools,Google Gemini,medium.com,Top 10,4,1,2.48,2.75,2.81,2.52,0.04
+Developer Tools,Google Gemini,zapier.com,Top 10,4,2,2.52,2.28,1.90,2.28,-0.24
+Developer Tools,Google Gemini,domo.com,Top 10,1,3,0.93,0.82,0.84,2.26,1.33
+Developer Tools,Google Gemini,gartner.com,Top 10,4,4,1.62,1.59,1.49,1.88,0.26
+Developer Tools,Google Gemini,reddit.com,Both,1,5,0.58,0.46,0.30,1.67,1.09
+Developer Tools,Google Gemini,dev.to,Top 10,4,6,1.28,1.31,1.14,1.64,0.36
+Developer Tools,Google Gemini,northflank.com,Top 10,4,7,1.35,1.04,1.07,1.54,0.19
+Developer Tools,Google Gemini,guideflow.com,Top 10,4,8,1.35,2.37,1.65,1.48,0.13
+Developer Tools,Google Gemini,sourcegraph.com,Top 10,1,9,0.56,0.53,0.53,1.48,0.92
+Developer Tools,Google Gemini,jetbrains.com,Top 10,1,10,0.80,0.69,0.59,0.98,0.18
+Developer Tools,Google Gemini,dagster.io,Top 10,1,19,0.78,1.23,0.71,0.74,-0.04
+Developer Tools,Google Gemini,github.com,Top 10,1,25,0.83,1.01,1.12,0.66,-0.17
+Developer Tools,Google Gemini,replit.com,Top 10,2,29,0.94,1.24,0.63,0.64,-0.30
+Developer Tools,Google Gemini,ibm.com,Top 10,1,30,0.66,0.78,0.99,0.55,-0.11
+Developer Tools,Google Gemini,deployhq.com,Top 10,1,41,0.75,1.24,0.84,0.43,-0.32
+Developer Tools,Google Gemini,envmanager.com,Top 10,1,42,1.19,0.90,0.71,0.43,-0.76
+Developer Tools,Google Gemini,secondtalent.com,Top 10,2,71,1.23,0.84,1.70,0.30,-0.93
+Developer Tools,Google Gemini,youtube.com,Pinned social,0,85,0.12,0.08,0.05,0.27,0.15
+Developer Tools,Google Gemini,firefly.ai,Top 10,3,97,0.94,1.16,1.45,0.24,-0.70
+Developer Tools,Google Gemini,facebook.com,Pinned social,0,,0.05,0.00,0.00,0.00,-0.05

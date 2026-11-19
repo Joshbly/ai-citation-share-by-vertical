@@ -1,0 +1,63 @@
+vertical,model_name,rootdomain,channel_group,weeks_in_top10,rank_week4,citation_share_week1_pct,citation_share_week2_pct,citation_share_week3_pct,citation_share_week4_pct,change_week1_to_week4_pts
+Soccer,ChatGPT,football-observatory.com,Top 10,4,1,8.85,10.32,11.44,12.17,3.32
+Soccer,ChatGPT,uefa.com,Top 10,4,2,5.56,5.61,5.16,5.73,0.17
+Soccer,ChatGPT,bbc.co.uk,Top 10,4,3,4.63,5.16,4.33,4.13,-0.50
+Soccer,ChatGPT,mlssoccer.com,Top 10,4,4,2.16,2.86,3.49,3.63,1.47
+Soccer,ChatGPT,footballgroundguide.com,Top 10,3,5,1.88,1.85,2.08,2.81,0.93
+Soccer,ChatGPT,goal.com,Top 10,4,6,3.54,3.62,3.15,2.54,-1.00
+Soccer,ChatGPT,premierleague.com,Top 10,3,7,2.16,2.22,1.74,2.20,0.04
+Soccer,ChatGPT,bundesliga.com,Top 10,4,8,2.25,2.05,2.01,1.83,-0.42
+Soccer,ChatGPT,thepfsa.co.uk,Top 10,2,9,1.00,1.26,1.78,1.80,0.80
+Soccer,ChatGPT,chiliz.com,Top 10,3,10,1.45,1.43,1.74,1.73,0.28
+Soccer,ChatGPT,theguardian.com,Top 10,1,12,2.04,1.37,1.11,1.52,-0.52
+Soccer,ChatGPT,bvb.de,Top 10,3,15,2.02,2.30,2.08,1.29,-0.73
+Soccer,ChatGPT,reddit.com,Pinned social,0,46,0.29,0.22,0.40,0.37,0.08
+Soccer,ChatGPT,wikipedia.org,Top 10,1,54,2.79,0.90,0.44,0.34,-2.45
+Soccer,ChatGPT,linkedin.com,Pinned social,0,119,0.05,0.03,0.13,0.14,0.09
+Soccer,Google AI Mode,facebook.com,Both,4,1,8.06,6.49,13.08,11.63,3.57
+Soccer,Google AI Mode,reddit.com,Both,4,2,10.29,7.98,6.76,7.50,-2.79
+Soccer,Google AI Mode,youtube.com,Both,4,3,5.69,4.65,10.81,7.47,1.78
+Soccer,Google AI Mode,espn.com,Top 10,4,4,5.05,6.49,3.45,4.50,-0.55
+Soccer,Google AI Mode,bleacherreport.com,Top 10,4,5,5.37,4.56,4.26,4.35,-1.02
+Soccer,Google AI Mode,football-observatory.com,Top 10,4,6,6.91,9.20,3.34,4.08,-2.83
+Soccer,Google AI Mode,quora.com,Top 10,2,7,2.05,1.23,3.66,4.00,1.95
+Soccer,Google AI Mode,si.com,Top 10,3,8,2.24,2.28,2.87,3.41,1.17
+Soccer,Google AI Mode,yahoo.com,Top 10,2,9,2.37,2.19,2.35,3.22,0.85
+Soccer,Google AI Mode,givemesport.com,Top 10,2,10,1.85,1.67,2.85,2.74,0.89
+Soccer,Google AI Mode,statmuse.com,Top 10,1,11,2.17,2.80,2.01,2.37,0.20
+Soccer,Google AI Mode,instagram.com,Top 10,1,12,0.64,0.79,2.98,1.65,1.01
+Soccer,Google AI Mode,footballgroundguide.com,Top 10,1,16,1.92,2.28,0.84,1.09,-0.83
+Soccer,Google AI Mode,jobsinfootball.com,Top 10,2,24,2.56,2.54,2.04,0.59,-1.97
+Soccer,Google AI Mode,google.com,Top 10,2,32,3.52,8.68,1.93,0.48,-3.04
+Soccer,Google AI Mode,linkedin.com,Pinned social,0,82,0.26,0.00,0.23,0.15,-0.11
+Soccer,Google AI Overviews,youtube.com,Both,4,1,17.04,20.30,21.26,19.71,2.67
+Soccer,Google AI Overviews,facebook.com,Both,4,2,14.99,16.46,16.97,17.40,2.41
+Soccer,Google AI Overviews,reddit.com,Both,4,3,9.56,7.69,6.94,7.61,-1.95
+Soccer,Google AI Overviews,quora.com,Top 10,4,4,4.93,5.20,5.01,4.47,-0.46
+Soccer,Google AI Overviews,instagram.com,Top 10,4,5,3.04,3.32,4.40,3.87,0.83
+Soccer,Google AI Overviews,bleacherreport.com,Top 10,4,6,3.41,3.96,2.47,3.37,-0.04
+Soccer,Google AI Overviews,espn.com,Top 10,4,7,4.51,2.45,2.65,3.26,-1.25
+Soccer,Google AI Overviews,si.com,Top 10,4,8,2.50,2.69,2.02,2.09,-0.41
+Soccer,Google AI Overviews,football-observatory.com,Top 10,4,9,2.24,1.84,1.89,1.87,-0.37
+Soccer,Google AI Overviews,yahoo.com,Top 10,4,10,1.68,2.05,2.02,1.67,-0.01
+Soccer,Google AI Overviews,linkedin.com,Pinned social,0,36,0.30,0.31,0.58,0.29,-0.01
+Soccer,Google Gemini,internationalfootball.academy,Top 10,4,1,11.57,15.06,14.56,15.55,3.98
+Soccer,Google Gemini,jobsinfootball.com,Top 10,4,2,3.98,4.93,6.63,9.51,5.53
+Soccer,Google Gemini,1boxoffice.com,Top 10,4,3,2.35,3.49,2.93,6.71,4.36
+Soccer,Google Gemini,reddit.com,Both,4,4,2.30,2.31,2.60,5.59,3.29
+Soccer,Google Gemini,medium.com,Top 10,1,5,0.72,0.67,0.65,4.14,3.42
+Soccer,Google Gemini,timbers.com,Top 10,4,6,2.45,2.31,1.89,3.13,0.68
+Soccer,Google Gemini,soccerwares.com,Top 10,1,7,0.72,0.51,0.78,2.24,1.52
+Soccer,Google Gemini,worldfootballjourney.com,Top 10,4,8,4.37,4.83,5.14,1.79,-2.58
+Soccer,Google Gemini,allfootballapp.com,Top 10,1,9,0.24,0.31,0.65,1.57,1.33
+Soccer,Google Gemini,balkanskinavijaci.com,Top 10,1,10,0.58,0.72,0.78,1.45,0.87
+Soccer,Google Gemini,thesoccerfactory.com,Top 10,3,11,3.02,2.57,2.02,1.45,-1.57
+Soccer,Google Gemini,wikipedia.org,Top 10,1,17,1.87,2.00,1.69,1.12,-0.75
+Soccer,Google Gemini,thesporting.blog,Top 10,1,24,1.58,1.18,1.89,0.89,-0.69
+Soccer,Google Gemini,fourfourtwo.com,Top 10,1,27,2.50,1.90,1.56,0.67,-1.83
+Soccer,Google Gemini,worldfootballindex.com,Top 10,1,30,1.30,2.00,1.56,0.67,-0.63
+Soccer,Google Gemini,sofascore.com,Top 10,1,47,1.87,0.82,2.60,0.45,-1.42
+Soccer,Google Gemini,waradana.com,Top 10,2,70,2.64,2.16,0.85,0.34,-2.30
+Soccer,Google Gemini,looking-for-soccer.com,Top 10,2,88,2.50,1.70,2.28,0.22,-2.28
+Soccer,Google Gemini,youtube.com,Pinned social,0,101,0.53,0.77,0.65,0.22,-0.31
+Soccer,Google Gemini,facebook.com,Pinned social,0,,0.00,0.05,0.00,0.00,0.00

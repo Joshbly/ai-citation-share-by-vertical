@@ -1,0 +1,63 @@
+vertical,model_name,rootdomain,channel_group,weeks_in_top10,rank_week4,citation_share_week1_pct,citation_share_week2_pct,citation_share_week3_pct,citation_share_week4_pct,change_week1_to_week4_pts
+Vacation Rental Platforms,ChatGPT,airbnb.com,Top 10,4,1,14.32,14.99,14.83,14.21,-0.11
+Vacation Rental Platforms,ChatGPT,vrbo.com,Top 10,4,2,6.23,6.66,7.02,7.53,1.30
+Vacation Rental Platforms,ChatGPT,ftc.gov,Top 10,4,3,5.42,4.72,5.52,5.05,-0.37
+Vacation Rental Platforms,ChatGPT,booking.com,Top 10,4,4,3.93,3.73,3.84,3.29,-0.64
+Vacation Rental Platforms,ChatGPT,furnishedfinder.com,Top 10,4,5,2.74,3.14,3.22,2.29,-0.45
+Vacation Rental Platforms,ChatGPT,hostaway.com,Top 10,4,6,2.13,2.13,2.21,2.09,-0.04
+Vacation Rental Platforms,ChatGPT,lodgify.com,Top 10,1,7,0.92,0.80,0.86,1.95,1.03
+Vacation Rental Platforms,ChatGPT,cloudbeds.com,Top 10,4,8,1.64,1.77,1.80,1.91,0.27
+Vacation Rental Platforms,ChatGPT,houfy.com,Top 10,2,9,0.77,1.55,1.77,1.80,1.03
+Vacation Rental Platforms,ChatGPT,guesty.com,Top 10,4,10,1.53,1.96,1.93,1.79,0.26
+Vacation Rental Platforms,ChatGPT,airdna.co,Top 10,3,12,2.13,2.40,1.71,1.63,-0.50
+Vacation Rental Platforms,ChatGPT,theblueground.com,Top 10,2,13,1.88,1.91,1.65,1.47,-0.41
+Vacation Rental Platforms,ChatGPT,reddit.com,Pinned social,0,198,0.13,0.01,0.06,0.06,-0.07
+Vacation Rental Platforms,Google AI Mode,facebook.com,Both,4,1,3.81,3.78,8.80,7.88,4.07
+Vacation Rental Platforms,Google AI Mode,youtube.com,Both,4,2,2.20,1.83,8.08,5.82,3.62
+Vacation Rental Platforms,Google AI Mode,reddit.com,Both,4,3,4.77,4.93,4.64,5.17,0.40
+Vacation Rental Platforms,Google AI Mode,airbnb.com,Top 10,4,4,6.44,8.31,3.64,3.23,-3.21
+Vacation Rental Platforms,Google AI Mode,vrbo.com,Top 10,4,5,2.73,3.81,2.12,2.58,-0.15
+Vacation Rental Platforms,Google AI Mode,instagram.com,Top 10,2,6,0.23,0.14,2.27,1.46,1.23
+Vacation Rental Platforms,Google AI Mode,hostaway.com,Top 10,4,7,2.20,2.45,1.35,1.21,-0.99
+Vacation Rental Platforms,Google AI Mode,furnishedfinder.com,Top 10,1,8,1.39,1.80,0.79,1.19,-0.20
+Vacation Rental Platforms,Google AI Mode,airdna.co,Top 10,3,9,1.82,2.16,1.09,1.03,-0.79
+Vacation Rental Platforms,Google AI Mode,smartertravel.com,Top 10,2,10,0.91,1.22,1.15,1.03,0.12
+Vacation Rental Platforms,Google AI Mode,booking.com,Top 10,2,12,2.58,2.34,0.90,0.98,-1.60
+Vacation Rental Platforms,Google AI Mode,google.com,Top 10,3,13,3.61,6.37,3.41,0.95,-2.66
+Vacation Rental Platforms,Google AI Mode,hostfully.com,Top 10,2,17,1.54,1.12,1.11,0.83,-0.71
+Vacation Rental Platforms,Google AI Mode,houfy.com,Top 10,1,18,1.31,2.19,0.72,0.77,-0.54
+Vacation Rental Platforms,Google AI Mode,linkedin.com,Pinned social,0,22,0.25,0.32,0.56,0.61,0.36
+Vacation Rental Platforms,Google AI Overviews,facebook.com,Both,4,1,9.80,10.51,11.80,11.05,1.25
+Vacation Rental Platforms,Google AI Overviews,youtube.com,Both,4,2,7.58,10.67,10.84,9.78,2.20
+Vacation Rental Platforms,Google AI Overviews,reddit.com,Both,4,3,4.18,4.02,4.71,4.89,0.71
+Vacation Rental Platforms,Google AI Overviews,airbnb.com,Top 10,4,4,2.41,3.30,3.38,3.36,0.95
+Vacation Rental Platforms,Google AI Overviews,instagram.com,Top 10,4,5,1.72,3.40,3.94,3.06,1.34
+Vacation Rental Platforms,Google AI Overviews,vrbo.com,Top 10,4,6,1.62,1.82,1.53,1.82,0.20
+Vacation Rental Platforms,Google AI Overviews,hostaway.com,Top 10,3,7,1.33,1.21,1.29,1.33,0.00
+Vacation Rental Platforms,Google AI Overviews,guesty.com,Top 10,1,8,0.96,0.85,0.91,1.17,0.21
+Vacation Rental Platforms,Google AI Overviews,airdna.co,Top 10,2,9,1.64,0.93,0.88,1.04,-0.60
+Vacation Rental Platforms,Google AI Overviews,tiktok.com,Top 10,2,10,0.49,1.12,1.34,0.99,0.50
+Vacation Rental Platforms,Google AI Overviews,booking.com,Top 10,2,11,1.34,1.18,1.01,0.98,-0.36
+Vacation Rental Platforms,Google AI Overviews,google.com,Top 10,2,13,1.34,1.16,1.06,0.90,-0.44
+Vacation Rental Platforms,Google AI Overviews,quora.com,Top 10,1,14,1.03,0.91,1.24,0.90,-0.13
+Vacation Rental Platforms,Google AI Overviews,linkedin.com,Pinned social,0,16,0.55,0.90,1.05,0.75,0.20
+Vacation Rental Platforms,Google AI Overviews,hostfully.com,Top 10,3,17,1.37,1.29,1.07,0.72,-0.65
+Vacation Rental Platforms,Google Gemini,airbnb.com,Top 10,4,1,3.69,3.97,4.91,4.55,0.86
+Vacation Rental Platforms,Google Gemini,houfy.com,Top 10,4,2,3.11,3.83,3.42,2.91,-0.20
+Vacation Rental Platforms,Google Gemini,hostaway.com,Top 10,4,3,2.49,2.45,2.78,2.63,0.14
+Vacation Rental Platforms,Google Gemini,reddit.com,Both,3,4,1.37,1.13,1.27,2.61,1.24
+Vacation Rental Platforms,Google Gemini,vrbo.com,Top 10,4,5,2.99,2.04,2.41,2.48,-0.51
+Vacation Rental Platforms,Google Gemini,bookwithhaven.com,Top 10,3,6,0.83,1.23,1.23,2.15,1.32
+Vacation Rental Platforms,Google Gemini,guesty.com,Top 10,1,7,1.14,1.11,0.94,1.54,0.40
+Vacation Rental Platforms,Google Gemini,futurestay.com,Top 10,1,8,1.04,0.88,0.99,1.52,0.48
+Vacation Rental Platforms,Google Gemini,pricelabs.co,Top 10,1,9,1.31,1.09,0.66,1.49,0.18
+Vacation Rental Platforms,Google Gemini,gethostai.com,Top 10,1,10,0.19,0.41,0.52,1.32,1.13
+Vacation Rental Platforms,Google Gemini,hostfully.com,Top 10,3,11,1.49,1.25,1.18,1.32,-0.17
+Vacation Rental Platforms,Google Gemini,hospitable.com,Top 10,2,12,1.41,1.25,0.94,1.24,-0.17
+Vacation Rental Platforms,Google Gemini,uber.com,Top 10,1,15,0.68,0.89,1.51,0.96,0.28
+Vacation Rental Platforms,Google Gemini,rabbu.com,Top 10,3,17,1.74,1.36,1.86,0.81,-0.93
+Vacation Rental Platforms,Google Gemini,booking.com,Top 10,1,34,1.31,0.45,0.78,0.51,-0.80
+Vacation Rental Platforms,Google Gemini,airroi.com,Top 10,3,56,1.45,1.26,1.39,0.35,-1.10
+Vacation Rental Platforms,Google Gemini,awning.com,Top 10,1,115,1.18,1.13,0.59,0.18,-1.00
+Vacation Rental Platforms,Google Gemini,youtube.com,Pinned social,0,309,0.21,0.12,0.09,0.08,-0.13
+Vacation Rental Platforms,Google Gemini,facebook.com,Pinned social,0,,0.04,0.00,0.00,0.00,-0.04

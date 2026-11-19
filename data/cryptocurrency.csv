@@ -1,0 +1,62 @@
+vertical,model_name,rootdomain,channel_group,weeks_in_top10,rank_week4,citation_share_week1_pct,citation_share_week2_pct,citation_share_week3_pct,citation_share_week4_pct,change_week1_to_week4_pts
+Cryptocurrency,ChatGPT,investor.gov,Top 10,4,1,14.36,13.32,12.19,13.97,-0.39
+Cryptocurrency,ChatGPT,sec.gov,Top 10,4,2,3.60,3.96,3.75,4.06,0.46
+Cryptocurrency,ChatGPT,coinbureau.com,Top 10,4,3,3.55,3.25,3.67,3.70,0.15
+Cryptocurrency,ChatGPT,ethereum.org,Top 10,4,4,3.86,3.74,4.02,3.58,-0.28
+Cryptocurrency,ChatGPT,binance.com,Top 10,4,5,3.10,3.98,3.87,3.43,0.33
+Cryptocurrency,ChatGPT,cftc.gov,Top 10,4,6,5.80,4.89,3.55,3.37,-2.43
+Cryptocurrency,ChatGPT,coinbase.com,Top 10,4,7,3.69,4.01,4.34,3.31,-0.38
+Cryptocurrency,ChatGPT,irs.gov,Top 10,4,8,3.18,3.11,3.14,3.28,0.10
+Cryptocurrency,ChatGPT,grayscale.com,Top 10,3,9,1.27,2.65,3.23,2.30,1.03
+Cryptocurrency,ChatGPT,imf.org,Top 10,1,10,1.41,1.94,1.66,2.06,0.65
+Cryptocurrency,ChatGPT,coingecko.com,Top 10,1,11,2.56,1.75,1.37,1.94,-0.62
+Cryptocurrency,ChatGPT,schwab.com,Top 10,3,13,1.94,2.27,2.18,1.82,-0.12
+Cryptocurrency,Google AI Mode,youtube.com,Both,4,1,5.74,4.13,14.61,11.80,6.06
+Cryptocurrency,Google AI Mode,reddit.com,Both,4,2,1.71,2.55,3.65,3.73,2.02
+Cryptocurrency,Google AI Mode,yahoo.com,Top 10,3,3,3.04,1.79,2.41,2.88,-0.16
+Cryptocurrency,Google AI Mode,binance.com,Top 10,3,4,1.63,1.79,1.96,2.44,0.81
+Cryptocurrency,Google AI Mode,fidelity.com,Top 10,4,5,3.25,4.47,2.14,2.42,-0.83
+Cryptocurrency,Google AI Mode,investopedia.com,Top 10,4,6,3.00,2.62,2.06,2.05,-0.95
+Cryptocurrency,Google AI Mode,coinbase.com,Top 10,3,7,1.71,1.72,1.64,1.79,0.08
+Cryptocurrency,Google AI Mode,morganstanley.com,Top 10,2,8,1.37,1.79,1.18,1.33,-0.04
+Cryptocurrency,Google AI Mode,schwab.com,Top 10,3,9,1.41,1.79,1.61,1.33,-0.08
+Cryptocurrency,Google AI Mode,kucoin.com,Top 10,1,10,0.30,0.14,0.75,1.19,0.89
+Cryptocurrency,Google AI Mode,kraken.com,Top 10,2,11,2.40,3.03,1.31,1.11,-1.29
+Cryptocurrency,Google AI Mode,changelly.com,Top 10,2,14,1.76,1.65,1.96,0.95,-0.81
+Cryptocurrency,Google AI Mode,crypto.com,Top 10,2,16,1.88,2.68,1.29,0.91,-0.97
+Cryptocurrency,Google AI Mode,linkedin.com,Pinned social,0,17,0.81,0.41,0.88,0.89,0.08
+Cryptocurrency,Google AI Mode,bitcoinfoundation.org,Top 10,3,46,5.18,5.51,2.41,0.38,-4.80
+Cryptocurrency,Google AI Mode,facebook.com,Pinned social,0,57,0.09,0.07,0.40,0.32,0.23
+Cryptocurrency,Google AI Overviews,youtube.com,Both,4,1,15.89,19.51,21.17,22.09,6.20
+Cryptocurrency,Google AI Overviews,reddit.com,Both,4,2,2.73,3.40,3.71,3.91,1.18
+Cryptocurrency,Google AI Overviews,investopedia.com,Top 10,4,3,4.93,2.49,2.55,3.57,-1.36
+Cryptocurrency,Google AI Overviews,fidelity.com,Top 10,4,4,3.68,2.84,2.82,3.45,-0.23
+Cryptocurrency,Google AI Overviews,binance.com,Top 10,4,5,1.95,3.76,3.22,3.17,1.22
+Cryptocurrency,Google AI Overviews,kraken.com,Top 10,4,6,2.15,1.18,1.32,1.77,-0.38
+Cryptocurrency,Google AI Overviews,medium.com,Top 10,3,7,1.22,2.17,1.85,1.61,0.39
+Cryptocurrency,Google AI Overviews,yahoo.com,Top 10,3,8,1.50,1.43,1.28,1.47,-0.03
+Cryptocurrency,Google AI Overviews,schwab.com,Top 10,2,9,1.40,1.06,1.07,1.19,-0.21
+Cryptocurrency,Google AI Overviews,coinbase.com,Top 10,1,10,1.00,0.89,0.99,1.18,0.18
+Cryptocurrency,Google AI Overviews,quora.com,Top 10,2,11,0.76,1.63,1.50,1.12,0.36
+Cryptocurrency,Google AI Overviews,changelly.com,Top 10,2,13,1.60,1.14,1.29,0.89,-0.71
+Cryptocurrency,Google AI Overviews,linkedin.com,Pinned social,0,16,0.95,1.07,1.15,0.84,-0.11
+Cryptocurrency,Google AI Overviews,facebook.com,Pinned social,0,18,0.36,0.70,0.94,0.77,0.41
+Cryptocurrency,Google AI Overviews,bitcoinfoundation.org,Top 10,3,50,2.36,1.70,1.39,0.27,-2.09
+Cryptocurrency,Google Gemini,binance.com,Top 10,4,1,7.18,7.14,6.74,10.85,3.67
+Cryptocurrency,Google Gemini,bitso.com,Top 10,1,2,0.80,0.59,0.83,3.88,3.08
+Cryptocurrency,Google Gemini,fidelity.com,Top 10,4,3,3.11,2.62,2.14,3.60,0.49
+Cryptocurrency,Google Gemini,coinledger.io,Top 10,4,4,2.43,1.72,1.83,3.21,0.78
+Cryptocurrency,Google Gemini,kraken.com,Top 10,4,5,2.95,2.47,2.51,2.86,-0.09
+Cryptocurrency,Google Gemini,coinbase.com,Top 10,1,6,0.71,0.65,1.26,2.30,1.59
+Cryptocurrency,Google Gemini,morganstanley.com,Top 10,1,7,0.93,0.73,0.70,2.00,1.07
+Cryptocurrency,Google Gemini,medium.com,Top 10,1,8,1.37,0.76,0.89,1.82,0.45
+Cryptocurrency,Google Gemini,wisdomtree.com,Top 10,2,9,1.53,1.40,1.66,1.76,0.23
+Cryptocurrency,Google Gemini,simplemining.io,Top 10,4,10,2.29,2.21,2.03,1.56,-0.73
+Cryptocurrency,Google Gemini,crypto.com,Top 10,3,12,1.75,1.74,2.25,1.41,-0.34
+Cryptocurrency,Google Gemini,changelly.com,Top 10,3,14,2.11,2.55,2.33,1.30,-0.81
+Cryptocurrency,Google Gemini,litefinance.org,Top 10,3,15,1.74,2.00,2.14,1.26,-0.48
+Cryptocurrency,Google Gemini,reddit.com,Pinned social,0,17,0.85,0.76,0.68,1.06,0.21
+Cryptocurrency,Google Gemini,koinly.io,Top 10,1,39,1.55,0.75,1.03,0.54,-1.01
+Cryptocurrency,Google Gemini,endlessmining.com,Top 10,2,55,1.40,1.61,1.64,0.37,-1.03
+Cryptocurrency,Google Gemini,bitcoinfoundation.org,Top 10,2,129,1.82,1.53,1.09,0.15,-1.67
+Cryptocurrency,Google Gemini,youtube.com,Pinned social,0,318,0.03,0.00,0.00,0.04,0.01

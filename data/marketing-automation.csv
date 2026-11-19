@@ -1,0 +1,61 @@
+vertical,model_name,rootdomain,channel_group,weeks_in_top10,rank_week4,citation_share_week1_pct,citation_share_week2_pct,citation_share_week3_pct,citation_share_week4_pct,change_week1_to_week4_pts
+Marketing Automation,ChatGPT,hubspot.com,Top 10,4,1,16.05,12.55,12.93,13.70,-2.35
+Marketing Automation,ChatGPT,salesforce.com,Top 10,4,2,14.23,12.55,12.17,9.99,-4.24
+Marketing Automation,ChatGPT,braze.com,Top 10,4,3,2.73,4.69,4.31,4.68,1.95
+Marketing Automation,ChatGPT,klaviyo.com,Top 10,4,4,4.11,4.99,4.06,4.30,0.19
+Marketing Automation,ChatGPT,zapier.com,Top 10,4,5,4.96,4.45,3.09,3.56,-1.40
+Marketing Automation,ChatGPT,adobe.com,Top 10,4,6,4.02,2.63,3.66,3.37,-0.65
+Marketing Automation,ChatGPT,twilio.com,Top 10,4,7,2.23,1.96,2.12,2.36,0.13
+Marketing Automation,ChatGPT,g2.com,Top 10,3,8,1.35,1.72,2.51,2.01,0.66
+Marketing Automation,ChatGPT,google.com,Top 10,4,9,1.51,2.23,1.72,1.86,0.35
+Marketing Automation,ChatGPT,questera.ai,Top 10,1,10,0.79,0.61,1.29,1.82,1.03
+Marketing Automation,ChatGPT,mailchimp.com,Top 10,1,11,0.91,0.98,1.87,1.66,0.75
+Marketing Automation,ChatGPT,microsoft.com,Top 10,2,12,1.38,1.92,1.15,1.47,0.09
+Marketing Automation,ChatGPT,gartner.com,Top 10,1,18,1.16,1.96,1.51,0.93,-0.23
+Marketing Automation,ChatGPT,linkedin.com,Pinned social,0,,0.00,0.03,0.00,0.00,0.00
+Marketing Automation,Google AI Mode,youtube.com,Both,4,1,10.90,9.59,23.80,24.22,13.32
+Marketing Automation,Google AI Mode,reddit.com,Both,4,2,4.10,3.79,5.87,5.76,1.66
+Marketing Automation,Google AI Mode,salesforce.com,Top 10,4,3,5.69,3.79,3.50,3.36,-2.33
+Marketing Automation,Google AI Mode,braze.com,Top 10,4,4,2.01,3.31,2.10,2.15,0.14
+Marketing Automation,Google AI Mode,hubspot.com,Top 10,4,5,2.85,3.08,1.90,1.97,-0.88
+Marketing Automation,Google AI Mode,klaviyo.com,Top 10,4,6,1.94,2.37,1.46,1.80,-0.14
+Marketing Automation,Google AI Mode,linkedin.com,Both,2,7,0.42,0.83,1.25,1.66,1.24
+Marketing Automation,Google AI Mode,gartner.com,Top 10,4,8,3.89,6.39,1.64,1.34,-2.55
+Marketing Automation,Google AI Mode,mailchimp.com,Top 10,4,9,1.67,1.89,1.29,1.27,-0.40
+Marketing Automation,Google AI Mode,zapier.com,Top 10,2,10,1.11,2.72,0.89,0.92,-0.19
+Marketing Automation,Google AI Mode,activecampaign.com,Top 10,1,11,1.53,0.95,0.81,0.89,-0.64
+Marketing Automation,Google AI Mode,ventureharbour.com,Top 10,1,16,1.11,1.18,1.07,0.68,-0.43
+Marketing Automation,Google AI Mode,ibm.com,Top 10,2,17,1.46,2.01,0.87,0.61,-0.85
+Marketing Automation,Google AI Mode,facebook.com,Pinned social,0,21,0.07,0.00,0.20,0.45,0.38
+Marketing Automation,Google AI Overviews,youtube.com,Both,4,1,15.07,18.72,20.70,21.21,6.14
+Marketing Automation,Google AI Overviews,reddit.com,Both,4,2,2.70,4.10,3.88,3.75,1.05
+Marketing Automation,Google AI Overviews,salesforce.com,Top 10,4,3,3.86,2.89,3.31,3.14,-0.72
+Marketing Automation,Google AI Overviews,hubspot.com,Top 10,4,4,2.26,1.80,1.68,1.92,-0.34
+Marketing Automation,Google AI Overviews,linkedin.com,Both,4,5,1.35,1.58,1.48,1.70,0.35
+Marketing Automation,Google AI Overviews,braze.com,Top 10,4,6,2.30,1.78,1.97,1.59,-0.71
+Marketing Automation,Google AI Overviews,klaviyo.com,Top 10,3,7,1.35,0.79,1.37,1.32,-0.03
+Marketing Automation,Google AI Overviews,mailchimp.com,Top 10,4,8,1.47,1.18,1.17,1.22,-0.25
+Marketing Automation,Google AI Overviews,gartner.com,Top 10,3,9,1.00,0.91,1.12,1.05,0.05
+Marketing Automation,Google AI Overviews,adobe.com,Top 10,2,10,1.09,0.91,0.88,0.98,-0.11
+Marketing Automation,Google AI Overviews,activecampaign.com,Top 10,2,14,1.10,0.76,1.02,0.73,-0.37
+Marketing Automation,Google AI Overviews,monday.com,Top 10,1,17,1.37,0.87,0.75,0.59,-0.78
+Marketing Automation,Google AI Overviews,bloomreach.com,Top 10,1,21,0.84,0.92,0.90,0.48,-0.36
+Marketing Automation,Google AI Overviews,facebook.com,Pinned social,0,23,0.21,0.29,0.31,0.44,0.23
+Marketing Automation,Google Gemini,gartner.com,Top 10,4,1,2.02,1.97,1.39,3.44,1.42
+Marketing Automation,Google Gemini,braze.com,Top 10,4,2,2.89,3.70,3.23,3.40,0.51
+Marketing Automation,Google Gemini,insiderone.com,Top 10,4,3,1.84,2.54,2.01,3.25,1.41
+Marketing Automation,Google Gemini,klaviyo.com,Top 10,2,4,1.28,1.44,1.23,2.45,1.17
+Marketing Automation,Google Gemini,hubspot.com,Top 10,3,5,1.38,1.61,1.47,2.02,0.64
+Marketing Automation,Google Gemini,beltcreative.com,Top 10,2,6,1.25,1.07,2.09,1.50,0.25
+Marketing Automation,Google Gemini,gaconnector.com,Top 10,1,7,0.82,0.90,0.90,1.50,0.68
+Marketing Automation,Google Gemini,ibm.com,Top 10,2,8,2.51,0.82,0.65,1.50,-1.01
+Marketing Automation,Google Gemini,customer.io,Top 10,2,9,1.51,0.59,0.53,1.46,-0.05
+Marketing Automation,Google Gemini,markopolo.ai,Top 10,2,10,2.51,1.10,0.53,1.39,-1.12
+Marketing Automation,Google Gemini,mailchimp.com,Top 10,3,14,2.51,3.05,1.68,1.23,-1.28
+Marketing Automation,Google Gemini,reddit.com,Pinned social,0,15,0.41,0.42,0.08,1.23,0.82
+Marketing Automation,Google Gemini,monday.com,Top 10,1,19,1.41,1.13,0.74,1.07,-0.34
+Marketing Automation,Google Gemini,sequenzy.com,Top 10,1,22,1.23,1.33,1.47,0.95,-0.28
+Marketing Automation,Google Gemini,zapier.com,Top 10,3,26,2.45,2.34,1.64,0.91,-1.54
+Marketing Automation,Google Gemini,activepieces.com,Top 10,3,27,1.97,1.66,1.31,0.79,-1.18
+Marketing Automation,Google Gemini,leadsbridge.com,Top 10,1,39,0.95,1.64,1.06,0.59,-0.36
+Marketing Automation,Google Gemini,pushwoosh.com,Top 10,2,45,0.92,1.41,1.47,0.55,-0.37

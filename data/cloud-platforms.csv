@@ -1,0 +1,59 @@
+vertical,model_name,rootdomain,channel_group,weeks_in_top10,rank_week4,citation_share_week1_pct,citation_share_week2_pct,citation_share_week3_pct,citation_share_week4_pct,change_week1_to_week4_pts
+Cloud Platforms,ChatGPT,amazon.com,Top 10,4,1,16.67,14.78,13.05,13.29,-3.38
+Cloud Platforms,ChatGPT,microsoft.com,Top 10,4,2,13.39,12.31,11.27,11.87,-1.52
+Cloud Platforms,ChatGPT,google.com,Top 10,4,3,15.80,14.10,11.99,11.39,-4.41
+Cloud Platforms,ChatGPT,nist.gov,Top 10,4,4,3.43,2.99,2.86,2.58,-0.85
+Cloud Platforms,ChatGPT,flexera.com,Top 10,4,5,1.61,1.48,1.70,2.21,0.60
+Cloud Platforms,ChatGPT,oecd.org,Top 10,1,6,0.37,0.44,1.16,2.16,1.79
+Cloud Platforms,ChatGPT,hhs.gov,Top 10,4,7,1.53,1.43,1.35,1.68,0.15
+Cloud Platforms,ChatGPT,ibm.com,Top 10,4,8,1.09,1.79,1.44,1.62,0.53
+Cloud Platforms,ChatGPT,itechguides.com,Top 10,1,9,0.53,0.87,1.02,1.46,0.93
+Cloud Platforms,ChatGPT,gao.gov,Top 10,4,10,1.09,1.17,1.47,1.36,0.27
+Cloud Platforms,ChatGPT,gartner.com,Top 10,3,11,1.87,2.11,2.26,1.28,-0.59
+Cloud Platforms,ChatGPT,europa.eu,Top 10,1,13,1.07,1.08,1.33,1.14,0.07
+Cloud Platforms,ChatGPT,cncf.io,Top 10,1,14,1.04,0.91,1.50,0.99,-0.05
+Cloud Platforms,ChatGPT,cisa.gov,Top 10,1,17,1.11,0.75,0.82,0.80,-0.31
+Cloud Platforms,ChatGPT,reddit.com,Pinned social,0,335,0.04,0.00,0.00,0.03,-0.01
+Cloud Platforms,Google AI Mode,youtube.com,Both,4,1,2.27,2.21,22.57,23.59,21.32
+Cloud Platforms,Google AI Mode,reddit.com,Both,4,2,1.34,1.23,3.03,3.17,1.83
+Cloud Platforms,Google AI Mode,google.com,Top 10,4,3,3.13,3.74,2.25,2.52,-0.61
+Cloud Platforms,Google AI Mode,amazon.com,Top 10,4,4,2.58,2.82,2.12,2.19,-0.39
+Cloud Platforms,Google AI Mode,linkedin.com,Both,4,5,2.13,1.53,2.14,2.14,0.01
+Cloud Platforms,Google AI Mode,microsoft.com,Top 10,4,6,1.86,2.64,2.07,2.00,0.14
+Cloud Platforms,Google AI Mode,facebook.com,Both,2,7,0.82,0.68,1.48,1.51,0.69
+Cloud Platforms,Google AI Mode,medium.com,Top 10,3,8,1.03,0.86,1.41,1.45,0.42
+Cloud Platforms,Google AI Mode,ibm.com,Top 10,4,9,1.79,1.96,1.38,1.31,-0.48
+Cloud Platforms,Google AI Mode,quora.com,Top 10,2,10,0.27,0.00,0.73,0.79,0.52
+Cloud Platforms,Google AI Mode,gartner.com,Top 10,2,15,1.37,1.90,0.50,0.45,-0.92
+Cloud Platforms,Google AI Mode,scalecomputing.com,Top 10,2,16,1.41,0.98,0.58,0.45,-0.96
+Cloud Platforms,Google AI Mode,sentinelone.com,Top 10,1,18,1.00,1.47,0.54,0.42,-0.58
+Cloud Platforms,Google AI Overviews,youtube.com,Both,4,1,13.81,17.60,18.38,19.55,5.74
+Cloud Platforms,Google AI Overviews,linkedin.com,Both,4,2,2.83,3.50,3.05,3.14,0.31
+Cloud Platforms,Google AI Overviews,google.com,Top 10,4,3,2.43,2.14,2.21,2.42,-0.01
+Cloud Platforms,Google AI Overviews,reddit.com,Both,4,4,1.61,2.55,2.29,2.05,0.44
+Cloud Platforms,Google AI Overviews,quora.com,Top 10,3,5,0.93,1.52,1.89,1.87,0.94
+Cloud Platforms,Google AI Overviews,amazon.com,Top 10,4,6,1.95,1.90,1.94,1.72,-0.23
+Cloud Platforms,Google AI Overviews,medium.com,Top 10,4,7,1.34,1.52,1.37,1.48,0.14
+Cloud Platforms,Google AI Overviews,ibm.com,Top 10,4,8,1.39,1.17,1.12,1.41,0.02
+Cloud Platforms,Google AI Overviews,facebook.com,Both,4,9,1.14,1.11,1.26,1.38,0.24
+Cloud Platforms,Google AI Overviews,microsoft.com,Top 10,4,10,1.38,1.55,1.23,1.37,-0.01
+Cloud Platforms,Google AI Overviews,tierpoint.com,Top 10,1,14,1.07,0.74,0.83,0.44,-0.63
+Cloud Platforms,Google Gemini,medium.com,Top 10,4,1,3.66,3.34,3.69,4.05,0.39
+Cloud Platforms,Google Gemini,microsoft.com,Top 10,4,2,2.44,2.62,1.92,3.35,0.91
+Cloud Platforms,Google Gemini,google.com,Top 10,4,3,2.89,2.77,2.93,2.65,-0.24
+Cloud Platforms,Google Gemini,amazon.com,Top 10,4,4,1.68,1.97,1.86,2.06,0.38
+Cloud Platforms,Google Gemini,ibm.com,Top 10,4,5,1.54,1.81,1.57,1.64,0.10
+Cloud Platforms,Google Gemini,aws.com,Top 10,1,6,0.21,0.21,0.27,1.24,1.03
+Cloud Platforms,Google Gemini,databricks.com,Top 10,1,7,0.67,0.51,0.59,1.24,0.57
+Cloud Platforms,Google Gemini,wiz.io,Top 10,3,8,1.04,0.88,1.33,1.22,0.18
+Cloud Platforms,Google Gemini,tierpoint.com,Top 10,3,9,1.76,1.81,1.01,1.19,-0.57
+Cloud Platforms,Google Gemini,sysdig.com,Top 10,1,10,0.46,0.87,0.61,1.06,0.60
+Cloud Platforms,Google Gemini,northflank.com,Top 10,2,13,0.92,0.97,1.46,0.99,0.07
+Cloud Platforms,Google Gemini,octopus.com,Top 10,3,14,1.37,1.22,1.22,0.99,-0.38
+Cloud Platforms,Google Gemini,scalecomputing.com,Top 10,1,16,0.88,1.21,1.09,0.86,-0.02
+Cloud Platforms,Google Gemini,crowdstrike.com,Top 10,1,18,0.94,0.75,0.85,0.82,-0.12
+Cloud Platforms,Google Gemini,reddit.com,Pinned social,0,20,0.36,0.66,0.98,0.77,0.41
+Cloud Platforms,Google Gemini,everpuredata.com,Top 10,3,21,1.07,1.16,1.28,0.73,-0.34
+Cloud Platforms,Google Gemini,cloudaware.com,Top 10,1,23,0.81,0.96,1.19,0.72,-0.09
+Cloud Platforms,Google Gemini,facebook.com,Pinned social,0,,0.12,0.01,0.00,0.00,-0.12
+Cloud Platforms,Google Gemini,youtube.com,Pinned social,0,,0.06,0.04,0.02,0.00,-0.06

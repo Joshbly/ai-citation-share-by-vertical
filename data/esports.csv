@@ -1,0 +1,65 @@
+vertical,model_name,rootdomain,channel_group,weeks_in_top10,rank_week4,citation_share_week1_pct,citation_share_week2_pct,citation_share_week3_pct,citation_share_week4_pct,change_week1_to_week4_pts
+Esports,ChatGPT,escharts.com,Top 10,4,1,7.80,8.72,12.20,14.96,7.16
+Esports,ChatGPT,pwc.com,Top 10,4,2,2.27,3.87,4.04,3.26,0.99
+Esports,ChatGPT,teamliquid.com,Top 10,4,3,3.77,3.92,3.48,3.19,-0.58
+Esports,ChatGPT,reddit.com,Both,3,4,1.86,1.46,1.82,3.13,1.27
+Esports,ChatGPT,esportsinsider.com,Top 10,4,5,2.98,2.88,3.00,2.87,-0.11
+Esports,ChatGPT,rdycheck.gg,Top 10,1,6,0.00,0.00,1.50,2.74,2.74
+Esports,ChatGPT,valorantesports.com,Top 10,4,7,3.04,2.69,2.22,2.09,-0.95
+Esports,ChatGPT,gosugamers.net,Top 10,3,8,1.15,2.25,2.51,1.85,0.70
+Esports,ChatGPT,redbull.com,Top 10,1,9,1.10,1.25,1.52,1.78,0.68
+Esports,ChatGPT,thespike.gg,Top 10,2,10,0.81,1.04,1.79,1.67,0.86
+Esports,ChatGPT,dotesports.com,Top 10,3,11,2.88,2.62,2.35,1.57,-1.31
+Esports,ChatGPT,esports.gg,Top 10,1,13,1.73,1.74,1.55,1.49,-0.24
+Esports,ChatGPT,esports.net,Top 10,1,15,1.75,1.86,1.18,1.33,-0.42
+Esports,ChatGPT,hotspawn.com,Top 10,2,16,1.46,2.02,1.90,1.33,-0.13
+Esports,ChatGPT,liquipedia.net,Top 10,1,18,2.65,1.37,1.23,1.23,-1.42
+Esports,ChatGPT,lolesports.com,Top 10,1,21,1.98,1.53,1.28,1.18,-0.80
+Esports,ChatGPT,g2esports.com,Top 10,1,46,1.83,1.18,0.83,0.42,-1.41
+Esports,ChatGPT,linkedin.com,Pinned social,0,146,0.25,0.35,0.27,0.10,-0.15
+Esports,ChatGPT,youtube.com,Pinned social,0,,0.02,0.05,0.08,0.00,-0.02
+Esports,Google AI Mode,youtube.com,Both,4,1,9.19,10.78,16.97,11.09,1.90
+Esports,Google AI Mode,escharts.com,Top 10,4,2,10.24,9.86,8.33,10.25,0.01
+Esports,Google AI Mode,reddit.com,Both,4,3,11.60,11.70,9.68,9.09,-2.51
+Esports,Google AI Mode,affordableuniformsonline.com,Top 10,4,4,10.49,13.87,9.10,8.62,-1.87
+Esports,Google AI Mode,facebook.com,Both,4,5,5.80,5.60,6.24,5.40,-0.40
+Esports,Google AI Mode,esportsinsider.com,Top 10,4,6,3.82,3.26,2.69,3.90,0.08
+Esports,Google AI Mode,vlr.gg,Top 10,4,7,2.53,3.93,2.69,2.55,0.02
+Esports,Google AI Mode,lenovo.com,Top 10,3,8,3.27,1.17,2.49,2.50,-0.77
+Esports,Google AI Mode,esportsworldcup.com,Top 10,2,9,2.22,2.09,0.60,2.47,0.25
+Esports,Google AI Mode,liquipedia.net,Top 10,2,10,1.85,1.84,1.09,2.44,0.59
+Esports,Google AI Mode,thedigideck.com,Top 10,1,11,2.34,1.34,1.43,2.00,-0.34
+Esports,Google AI Mode,thegamingdiary.com,Top 10,1,12,1.48,1.75,1.98,1.94,0.46
+Esports,Google AI Mode,redbull.com,Top 10,1,13,2.53,1.75,1.21,1.79,-0.74
+Esports,Google AI Mode,esportsearnings.com,Top 10,1,15,0.99,1.59,1.62,1.35,0.36
+Esports,Google AI Mode,google.com,Top 10,1,33,1.97,4.01,0.72,0.44,-1.53
+Esports,Google AI Mode,linkedin.com,Pinned social,0,34,0.68,0.42,0.60,0.44,-0.24
+Esports,Google AI Overviews,youtube.com,Both,4,1,20.19,23.39,25.73,22.39,2.20
+Esports,Google AI Overviews,reddit.com,Both,4,2,9.20,11.56,11.21,10.09,0.89
+Esports,Google AI Overviews,escharts.com,Top 10,4,3,10.70,7.00,7.10,7.23,-3.47
+Esports,Google AI Overviews,affordableuniformsonline.com,Top 10,4,4,8.03,6.62,6.62,6.49,-1.54
+Esports,Google AI Overviews,facebook.com,Both,4,5,6.76,5.37,5.58,5.62,-1.14
+Esports,Google AI Overviews,lenovo.com,Top 10,4,6,5.16,3.72,3.96,3.60,-1.56
+Esports,Google AI Overviews,vlr.gg,Top 10,4,7,1.55,1.56,1.76,2.04,0.49
+Esports,Google AI Overviews,esportsearnings.com,Top 10,2,8,1.14,1.38,1.21,1.99,0.85
+Esports,Google AI Overviews,esportsinsider.com,Top 10,4,9,1.89,2.15,1.72,1.75,-0.14
+Esports,Google AI Overviews,thedigideck.com,Top 10,4,10,1.55,1.75,1.28,1.59,0.04
+Esports,Google AI Overviews,redbull.com,Top 10,2,11,1.50,1.38,1.30,1.49,-0.01
+Esports,Google AI Overviews,linkedin.com,Pinned social,0,21,1.09,0.77,0.82,0.65,-0.44
+Esports,Google Gemini,affordableuniformsonline.com,Top 10,4,1,21.43,23.90,28.24,18.68,-2.75
+Esports,Google Gemini,escharts.com,Top 10,4,2,11.99,7.92,9.68,13.10,1.11
+Esports,Google Gemini,reddit.com,Both,4,3,3.54,4.66,4.08,10.59,7.05
+Esports,Google Gemini,esportsinsider.com,Top 10,3,4,2.92,1.51,2.96,4.93,2.01
+Esports,Google Gemini,tetogames.com,Top 10,4,5,4.60,4.90,6.63,4.83,0.23
+Esports,Google Gemini,globalbrandsmagazine.com,Top 10,3,6,0.00,2.06,1.83,4.55,4.55
+Esports,Google Gemini,lenovo.com,Top 10,1,7,0.19,0.24,0.61,4.37,4.18
+Esports,Google Gemini,thegamingdiary.com,Top 10,4,8,4.78,4.96,4.89,3.90,-0.88
+Esports,Google Gemini,redbull.com,Top 10,4,9,4.29,3.39,3.98,3.25,-1.04
+Esports,Google Gemini,thedigideck.com,Top 10,1,10,0.31,0.42,0.10,2.04,1.73
+Esports,Google Gemini,esports4education.co.uk,Top 10,3,11,2.55,3.09,3.57,1.49,-1.06
+Esports,Google Gemini,egamersworld.com,Top 10,1,15,1.80,1.75,1.22,0.84,-0.96
+Esports,Google Gemini,youtube.com,Pinned social,0,19,0.50,1.09,1.02,0.65,0.15
+Esports,Google Gemini,esportsmatchleague.com,Top 10,2,29,2.30,2.30,1.02,0.37,-1.93
+Esports,Google Gemini,gamespulsehub.com,Top 10,1,58,1.37,3.15,1.12,0.19,-1.18
+Esports,Google Gemini,theesportsworld.co.uk,Top 10,1,72,1.49,1.27,1.83,0.19,-1.30
+Esports,Google Gemini,facebook.com,Pinned social,0,,0.12,0.00,0.00,0.00,-0.12

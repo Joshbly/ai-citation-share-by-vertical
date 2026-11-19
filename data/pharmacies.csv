@@ -1,0 +1,68 @@
+vertical,model_name,rootdomain,channel_group,weeks_in_top10,rank_week4,citation_share_week1_pct,citation_share_week2_pct,citation_share_week3_pct,citation_share_week4_pct,change_week1_to_week4_pts
+Pharmacies,ChatGPT,ameli.fr,Top 10,4,1,4.16,4.37,4.39,4.44,0.28
+Pharmacies,ChatGPT,ordre.pharmacien.fr,Top 10,4,2,3.20,3.55,3.69,3.63,0.43
+Pharmacies,ChatGPT,tga.gov.au,Top 10,4,3,2.95,2.80,3.06,3.38,0.43
+Pharmacies,ChatGPT,bundesgesundheitsministerium.de,Top 10,4,4,3.13,2.88,3.12,2.81,-0.32
+Pharmacies,ChatGPT,healthdirect.gov.au,Top 10,4,5,2.57,2.52,2.59,2.32,-0.25
+Pharmacies,ChatGPT,sante.gouv.fr,Top 10,4,6,2.88,3.38,3.21,2.21,-0.67
+Pharmacies,ChatGPT,medicaments.gouv.fr,Top 10,4,7,1.85,1.84,1.65,1.96,0.11
+Pharmacies,ChatGPT,nhs.uk,Top 10,4,8,2.79,2.62,2.42,1.94,-0.85
+Pharmacies,ChatGPT,fda.gov,Top 10,3,9,1.69,1.79,1.85,1.86,0.17
+Pharmacies,ChatGPT,legifrance.gouv.fr,Top 10,1,10,0.61,0.80,1.03,1.73,1.12
+Pharmacies,ChatGPT,health.gov.au,Top 10,2,11,1.74,1.74,1.59,1.73,-0.01
+Pharmacies,ChatGPT,cvs.com,Top 10,1,13,1.92,1.45,1.43,1.62,-0.30
+Pharmacies,ChatGPT,bund.de,Top 10,1,16,1.79,1.42,1.39,1.12,-0.67
+Pharmacies,ChatGPT,linkedin.com,Pinned social,0,1247,0.00,0.00,0.01,0.01,0.01
+Pharmacies,ChatGPT,reddit.com,Pinned social,0,,0.01,0.01,0.00,0.00,-0.01
+Pharmacies,Google AI Mode,google.com,Top 10,4,1,5.01,5.20,8.77,3.80,-1.21
+Pharmacies,Google AI Mode,youtube.com,Both,2,2,0.43,0.25,3.40,2.55,2.12
+Pharmacies,Google AI Mode,chemistwarehouse.com.au,Top 10,4,3,3.07,2.59,1.85,2.06,-1.01
+Pharmacies,Google AI Mode,facebook.com,Both,2,4,0.64,0.43,3.04,2.01,1.37
+Pharmacies,Google AI Mode,goodrx.com,Top 10,4,5,2.16,1.94,1.52,1.70,-0.46
+Pharmacies,Google AI Mode,chemist2u.com.au,Top 10,3,6,1.23,0.93,0.90,1.22,-0.01
+Pharmacies,Google AI Mode,cvs.com,Top 10,1,7,0.66,0.95,0.83,1.18,0.52
+Pharmacies,Google AI Mode,ameli.fr,Top 10,4,8,1.91,2.15,1.09,1.09,-0.82
+Pharmacies,Google AI Mode,walgreens.com,Top 10,4,9,1.24,1.20,1.07,0.96,-0.28
+Pharmacies,Google AI Mode,jamanetwork.com,Top 10,2,10,0.00,0.01,1.38,0.94,0.94
+Pharmacies,Google AI Mode,nhs.uk,Top 10,2,13,1.19,1.16,0.84,0.81,-0.38
+Pharmacies,Google AI Mode,sante.fr,Top 10,2,14,1.32,1.86,0.61,0.79,-0.53
+Pharmacies,Google AI Mode,abbyhealth.app,Top 10,1,16,0.84,0.46,0.98,0.75,-0.09
+Pharmacies,Google AI Mode,vidal.fr,Top 10,2,17,1.26,1.68,0.77,0.74,-0.52
+Pharmacies,Google AI Mode,reddit.com,Pinned social,0,20,0.53,0.46,0.63,0.60,0.07
+Pharmacies,Google AI Mode,shop-apotheke.com,Top 10,1,21,0.73,1.09,0.61,0.59,-0.14
+Pharmacies,Google AI Mode,sante.gouv.fr,Top 10,1,33,0.83,1.30,0.44,0.43,-0.40
+Pharmacies,Google AI Mode,ordre.pharmacien.fr,Top 10,1,54,1.36,0.74,0.09,0.32,-1.04
+Pharmacies,Google AI Mode,linkedin.com,Pinned social,0,368,0.04,0.02,0.03,0.04,0.00
+Pharmacies,Google AI Overviews,facebook.com,Both,4,1,3.14,4.60,4.75,3.93,0.79
+Pharmacies,Google AI Overviews,youtube.com,Both,4,2,3.75,4.10,4.03,3.17,-0.58
+Pharmacies,Google AI Overviews,chemistwarehouse.com.au,Top 10,4,3,1.86,1.84,1.75,1.69,-0.17
+Pharmacies,Google AI Overviews,jamanetwork.com,Top 10,3,4,0.10,1.87,2.06,1.65,1.55
+Pharmacies,Google AI Overviews,goodrx.com,Top 10,4,5,1.70,1.26,1.29,1.25,-0.45
+Pharmacies,Google AI Overviews,chemist2u.com.au,Top 10,4,6,1.92,1.10,1.03,1.16,-0.76
+Pharmacies,Google AI Overviews,ameli.fr,Top 10,4,7,0.96,1.15,1.10,1.16,0.20
+Pharmacies,Google AI Overviews,google.com,Top 10,4,8,0.99,1.38,1.47,1.05,0.06
+Pharmacies,Google AI Overviews,cvs.com,Top 10,1,9,0.73,0.81,0.85,0.98,0.25
+Pharmacies,Google AI Overviews,walgreens.com,Top 10,4,10,1.16,1.04,0.96,0.91,-0.25
+Pharmacies,Google AI Overviews,nhs.uk,Top 10,1,11,1.05,0.79,0.85,0.85,-0.20
+Pharmacies,Google AI Overviews,abbyhealth.app,Top 10,3,13,1.22,1.08,1.11,0.73,-0.49
+Pharmacies,Google AI Overviews,reddit.com,Pinned social,0,17,0.51,0.71,0.64,0.65,0.14
+Pharmacies,Google AI Overviews,linkedin.com,Pinned social,0,276,0.04,0.06,0.07,0.06,0.02
+Pharmacies,Google Gemini,chemistwarehouse.com.au,Top 10,4,1,1.85,1.72,2.09,2.38,0.53
+Pharmacies,Google Gemini,abbyhealth.app,Top 10,4,2,2.02,2.08,2.15,1.95,-0.07
+Pharmacies,Google Gemini,goodrx.com,Top 10,4,3,1.03,1.03,1.25,1.42,0.39
+Pharmacies,Google Gemini,verbraucherzentrale.de,Top 10,4,4,1.37,1.26,1.40,1.28,-0.09
+Pharmacies,Google Gemini,aok.de,Top 10,2,5,0.67,0.85,0.78,1.22,0.55
+Pharmacies,Google Gemini,nhs.uk,Top 10,4,6,1.04,1.10,1.22,1.16,0.12
+Pharmacies,Google Gemini,phacil.delivery,Top 10,4,7,0.93,1.17,1.07,1.03,0.10
+Pharmacies,Google Gemini,ameli.fr,Top 10,1,8,0.53,0.48,0.44,1.02,0.49
+Pharmacies,Google Gemini,pharmacieeiffelcommerce.com,Top 10,3,9,1.26,0.92,0.71,0.98,-0.28
+Pharmacies,Google Gemini,vidal.fr,Top 10,1,10,0.68,0.68,0.61,0.95,0.27
+Pharmacies,Google Gemini,bundesgesundheitsministerium.de,Top 10,1,11,0.87,0.86,0.72,0.93,0.06
+Pharmacies,Google Gemini,healthline.com,Top 10,3,14,0.95,0.85,1.08,0.82,-0.13
+Pharmacies,Google Gemini,chemist2u.com.au,Top 10,2,16,0.89,0.84,0.97,0.79,-0.10
+Pharmacies,Google Gemini,ordre.pharmacien.fr,Top 10,1,23,1.04,0.15,0.02,0.63,-0.41
+Pharmacies,Google Gemini,nextclinic.com.au,Top 10,1,34,0.80,0.82,0.83,0.54,-0.26
+Pharmacies,Google Gemini,digitalhealth.gov.au,Top 10,1,49,0.86,0.54,0.85,0.39,-0.47
+Pharmacies,Google Gemini,reddit.com,Pinned social,0,76,0.20,0.09,0.08,0.26,0.06
+Pharmacies,Google Gemini,youtube.com,Pinned social,0,646,0.04,0.05,0.07,0.03,-0.01
+Pharmacies,Google Gemini,facebook.com,Pinned social,0,,0.02,0.00,0.00,0.00,-0.02

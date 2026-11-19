@@ -1,0 +1,62 @@
+vertical,model_name,rootdomain,channel_group,weeks_in_top10,rank_week4,citation_share_week1_pct,citation_share_week2_pct,citation_share_week3_pct,citation_share_week4_pct,change_week1_to_week4_pts
+Beauty,ChatGPT,aad.org,Top 10,4,1,6.18,6.63,6.47,5.67,-0.51
+Beauty,ChatGPT,nih.gov,Top 10,4,2,2.08,2.57,2.99,3.24,1.16
+Beauty,ChatGPT,allure.com,Top 10,4,3,1.65,1.58,1.35,1.71,0.06
+Beauty,ChatGPT,fda.gov,Top 10,4,4,1.21,1.68,1.70,1.66,0.45
+Beauty,ChatGPT,nykaa.com,Top 10,4,5,1.13,1.03,1.46,1.56,0.43
+Beauty,ChatGPT,adorebeauty.com.au,Top 10,4,6,1.32,1.23,1.16,1.31,-0.01
+Beauty,ChatGPT,dm.de,Top 10,4,7,1.73,1.30,1.25,1.23,-0.50
+Beauty,ChatGPT,sephora.fr,Top 10,2,8,1.19,0.84,0.80,1.02,-0.17
+Beauty,ChatGPT,vogue.com,Top 10,3,9,0.90,0.88,0.91,0.94,0.04
+Beauty,ChatGPT,clevelandclinic.org,Top 10,2,10,0.82,0.83,0.88,0.89,0.07
+Beauty,ChatGPT,ulta.com,Top 10,2,11,1.82,1.19,0.77,0.87,-0.95
+Beauty,ChatGPT,boots.com,Top 10,3,12,1.14,0.90,1.05,0.85,-0.29
+Beauty,ChatGPT,reddit.com,Pinned social,0,31,0.53,0.21,0.26,0.39,-0.14
+Beauty,ChatGPT,linkedin.com,Pinned social,0,917,0.03,0.03,0.01,0.02,-0.01
+Beauty,ChatGPT,facebook.com,Pinned social,0,1928,0.00,0.01,0.00,0.01,0.01
+Beauty,ChatGPT,youtube.com,Pinned social,0,2883,0.01,0.02,0.01,0.01,0.00
+Beauty,Google AI Mode,youtube.com,Both,4,1,7.16,4.41,8.04,7.58,0.42
+Beauty,Google AI Mode,instagram.com,Top 10,4,2,2.42,2.03,4.01,3.29,0.87
+Beauty,Google AI Mode,google.com,Top 10,4,3,5.08,4.93,7.55,3.24,-1.84
+Beauty,Google AI Mode,reddit.com,Both,4,4,3.36,2.82,2.91,2.87,-0.49
+Beauty,Google AI Mode,facebook.com,Both,4,5,1.34,1.21,2.56,2.36,1.02
+Beauty,Google AI Mode,amazon.in,Top 10,3,6,1.10,1.17,0.71,1.14,0.04
+Beauty,Google AI Mode,nykaa.com,Top 10,4,7,1.69,1.80,0.86,1.02,-0.67
+Beauty,Google AI Mode,dm.de,Top 10,3,8,1.69,2.66,0.64,0.97,-0.72
+Beauty,Google AI Mode,tiktok.com,Top 10,2,9,0.65,0.65,1.17,0.83,0.18
+Beauty,Google AI Mode,fresha.com,Top 10,4,10,1.65,2.05,0.77,0.77,-0.88
+Beauty,Google AI Mode,allure.com,Top 10,1,11,0.84,0.72,0.71,0.60,-0.24
+Beauty,Google AI Mode,sephora.fr,Top 10,2,12,2.02,2.36,0.62,0.59,-1.43
+Beauty,Google AI Mode,amazon.de,Top 10,1,17,1.07,1.37,0.70,0.51,-0.56
+Beauty,Google AI Mode,linkedin.com,Pinned social,0,55,0.27,0.21,0.23,0.18,-0.09
+Beauty,Google AI Overviews,youtube.com,Both,4,1,13.38,11.76,13.07,11.65,-1.73
+Beauty,Google AI Overviews,google.com,Top 10,4,2,3.55,6.77,4.03,6.43,2.88
+Beauty,Google AI Overviews,instagram.com,Top 10,4,3,6.10,6.27,6.45,5.31,-0.79
+Beauty,Google AI Overviews,facebook.com,Both,4,4,3.72,4.29,4.60,4.46,0.74
+Beauty,Google AI Overviews,reddit.com,Both,4,5,3.12,2.80,2.99,3.08,-0.04
+Beauty,Google AI Overviews,tiktok.com,Top 10,4,6,1.49,1.53,1.70,1.36,-0.13
+Beauty,Google AI Overviews,lemon8-app.com,Top 10,2,7,0.39,0.41,0.54,1.05,0.66
+Beauty,Google AI Overviews,nykaa.com,Top 10,4,8,0.69,0.76,0.88,0.81,0.12
+Beauty,Google AI Overviews,dm.de,Top 10,1,9,0.34,0.29,0.41,0.71,0.37
+Beauty,Google AI Overviews,fresha.com,Top 10,1,10,0.15,0.50,0.46,0.63,0.48
+Beauty,Google AI Overviews,allure.com,Top 10,3,12,0.76,0.62,0.64,0.52,-0.24
+Beauty,Google AI Overviews,jamanetwork.com,Top 10,2,13,0.04,0.68,0.72,0.46,0.42
+Beauty,Google AI Overviews,pinterest.com,Top 10,1,15,0.38,0.57,0.49,0.43,0.05
+Beauty,Google AI Overviews,byrdie.com,Top 10,1,16,0.52,0.56,0.50,0.41,-0.11
+Beauty,Google AI Overviews,whowhatwear.com,Top 10,1,18,0.54,0.41,0.42,0.38,-0.16
+Beauty,Google AI Overviews,linkedin.com,Pinned social,0,63,0.21,0.16,0.17,0.13,-0.08
+Beauty,Google Gemini,reddit.com,Both,4,1,1.08,1.15,0.91,2.42,1.34
+Beauty,Google Gemini,nykaa.com,Top 10,4,2,1.65,1.49,1.68,1.52,-0.13
+Beauty,Google Gemini,dm.de,Top 10,4,3,1.65,1.72,2.11,1.48,-0.17
+Beauty,Google Gemini,whowhatwear.com,Top 10,4,4,1.04,1.00,0.87,1.14,0.10
+Beauty,Google Gemini,parapharmacielafayette.com,Top 10,3,5,0.77,0.37,0.91,0.93,0.16
+Beauty,Google Gemini,adorebeauty.com.au,Top 10,1,6,0.46,0.46,0.33,0.81,0.35
+Beauty,Google Gemini,mecca.com,Top 10,3,7,0.54,0.69,0.75,0.77,0.23
+Beauty,Google Gemini,sephora.fr,Top 10,2,8,1.02,0.59,0.73,0.74,-0.28
+Beauty,Google Gemini,youtube.com,Both,2,9,0.64,0.69,0.65,0.72,0.08
+Beauty,Google Gemini,douglas.de,Top 10,3,10,0.61,0.86,0.80,0.71,0.10
+Beauty,Google Gemini,rossmann.de,Top 10,3,12,0.68,0.90,1.00,0.68,0.00
+Beauty,Google Gemini,parapharmacie-et-medicament.com,Top 10,3,13,0.84,0.80,0.79,0.67,-0.17
+Beauty,Google Gemini,chemistwarehouse.com.au,Top 10,3,18,0.74,0.62,0.90,0.55,-0.19
+Beauty,Google Gemini,gravelai.com,Top 10,1,21,0.76,0.50,0.59,0.46,-0.30
+Beauty,Google Gemini,facebook.com,Pinned social,0,,0.05,0.00,0.00,0.00,-0.05

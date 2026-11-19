@@ -1,0 +1,65 @@
+vertical,model_name,rootdomain,channel_group,weeks_in_top10,rank_week4,citation_share_week1_pct,citation_share_week2_pct,citation_share_week3_pct,citation_share_week4_pct,change_week1_to_week4_pts
+Credit Cards,ChatGPT,americanexpress.com,Top 10,4,1,6.86,8.02,7.89,9.16,2.30
+Credit Cards,ChatGPT,nerdwallet.com,Top 10,4,2,3.18,3.03,3.55,3.90,0.72
+Credit Cards,ChatGPT,jcb.co.jp,Top 10,4,3,1.98,1.72,2.06,1.87,-0.11
+Credit Cards,ChatGPT,smbc-card.com,Top 10,4,4,1.82,2.04,1.77,1.81,-0.01
+Credit Cards,ChatGPT,finder.com.au,Top 10,4,5,1.99,1.72,1.82,1.77,-0.22
+Credit Cards,ChatGPT,service-public.gouv.fr,Top 10,4,6,2.35,2.22,2.20,1.76,-0.59
+Credit Cards,ChatGPT,handelsblatt.com,Top 10,2,7,1.43,1.56,1.56,1.76,0.33
+Credit Cards,ChatGPT,moneysavingexpert.com,Top 10,4,8,1.75,1.64,1.64,1.73,-0.02
+Credit Cards,ChatGPT,finanztip.de,Top 10,2,9,1.51,1.61,1.58,1.71,0.20
+Credit Cards,ChatGPT,nab.com.au,Top 10,1,10,1.32,1.39,1.43,1.59,0.27
+Credit Cards,ChatGPT,cnbc.com,Top 10,2,11,1.75,1.73,1.54,1.56,-0.19
+Credit Cards,ChatGPT,moneysmart.gov.au,Top 10,3,14,1.93,1.66,1.60,1.30,-0.63
+Credit Cards,ChatGPT,consumerfinance.gov,Top 10,2,18,2.02,1.75,1.49,1.10,-0.92
+Credit Cards,ChatGPT,reddit.com,Pinned social,0,1309,0.00,0.00,0.00,0.00,0.00
+Credit Cards,ChatGPT,linkedin.com,Pinned social,0,,0.00,0.00,0.00,0.00,0.00
+Credit Cards,Google AI Mode,youtube.com,Both,4,1,2.64,4.05,7.43,5.38,2.74
+Credit Cards,Google AI Mode,reddit.com,Both,4,2,2.23,2.04,3.39,3.25,1.02
+Credit Cards,Google AI Mode,americanexpress.com,Top 10,4,3,3.95,4.42,2.54,2.99,-0.96
+Credit Cards,Google AI Mode,canstar.com.au,Top 10,4,4,2.39,2.28,1.88,1.86,-0.53
+Credit Cards,Google AI Mode,finder.com.au,Top 10,2,5,1.20,0.81,1.36,1.64,0.44
+Credit Cards,Google AI Mode,nerdwallet.com,Top 10,4,6,2.58,1.92,1.55,1.52,-1.06
+Credit Cards,Google AI Mode,facebook.com,Both,2,7,0.62,0.97,1.82,1.43,0.81
+Credit Cards,Google AI Mode,money.com.au,Top 10,1,8,1.28,1.08,1.17,1.32,0.04
+Credit Cards,Google AI Mode,check24.de,Top 10,2,9,1.29,1.67,1.07,1.13,-0.16
+Credit Cards,Google AI Mode,experian.com,Top 10,4,10,2.00,1.50,1.23,1.12,-0.88
+Credit Cards,Google AI Mode,chase.com,Top 10,3,11,1.47,1.32,1.29,1.11,-0.36
+Credit Cards,Google AI Mode,instagram.com,Top 10,1,12,0.27,0.48,1.50,1.10,0.83
+Credit Cards,Google AI Mode,pointhacks.com.au,Top 10,1,16,1.32,1.10,0.92,0.94,-0.38
+Credit Cards,Google AI Mode,bankrate.com,Top 10,2,17,1.50,1.55,1.13,0.89,-0.61
+Credit Cards,Google AI Mode,cnbc.com,Top 10,1,23,1.32,1.06,1.02,0.81,-0.51
+Credit Cards,Google AI Mode,smbc-card.com,Top 10,1,32,1.16,1.31,0.59,0.62,-0.54
+Credit Cards,Google AI Mode,linkedin.com,Pinned social,0,254,0.02,0.04,0.10,0.06,0.04
+Credit Cards,Google AI Overviews,youtube.com,Both,4,1,5.53,8.32,8.38,7.43,1.90
+Credit Cards,Google AI Overviews,reddit.com,Both,4,2,2.81,3.55,3.73,3.60,0.79
+Credit Cards,Google AI Overviews,americanexpress.com,Top 10,4,3,2.47,2.23,2.47,2.82,0.35
+Credit Cards,Google AI Overviews,facebook.com,Both,4,4,1.29,2.16,2.23,2.19,0.90
+Credit Cards,Google AI Overviews,nerdwallet.com,Top 10,4,5,1.53,1.37,1.42,1.60,0.07
+Credit Cards,Google AI Overviews,canstar.com.au,Top 10,4,6,2.04,1.65,1.51,1.52,-0.52
+Credit Cards,Google AI Overviews,instagram.com,Top 10,3,7,0.95,1.71,1.74,1.51,0.56
+Credit Cards,Google AI Overviews,finder.com.au,Top 10,4,8,1.42,1.24,1.36,1.27,-0.15
+Credit Cards,Google AI Overviews,experian.com,Top 10,3,9,1.46,1.05,1.20,1.20,-0.26
+Credit Cards,Google AI Overviews,check24.de,Top 10,1,10,1.05,0.91,0.98,1.16,0.11
+Credit Cards,Google AI Overviews,chase.com,Top 10,2,11,1.17,1.25,1.32,1.13,-0.04
+Credit Cards,Google AI Overviews,money.com.au,Top 10,1,12,1.11,1.10,1.06,1.11,0.00
+Credit Cards,Google AI Overviews,moneysupermarket.com,Top 10,1,18,1.21,0.93,0.86,0.84,-0.37
+Credit Cards,Google AI Overviews,cnbc.com,Top 10,1,22,1.18,0.77,0.82,0.71,-0.47
+Credit Cards,Google AI Overviews,linkedin.com,Pinned social,0,168,0.08,0.08,0.06,0.10,0.02
+Credit Cards,Google Gemini,finanzfluss.de,Top 10,4,1,1.65,1.74,1.77,2.58,0.93
+Credit Cards,Google Gemini,experian.com,Top 10,4,2,1.47,1.52,1.25,2.47,1.00
+Credit Cards,Google Gemini,money.com.au,Top 10,4,3,1.90,1.90,1.92,2.05,0.15
+Credit Cards,Google Gemini,smava.de,Top 10,2,4,0.95,1.10,1.63,1.61,0.66
+Credit Cards,Google Gemini,cnbc.com,Top 10,4,5,2.24,2.15,1.91,1.48,-0.76
+Credit Cards,Google Gemini,americanexpress.com,Top 10,4,6,1.47,1.31,1.38,1.44,-0.03
+Credit Cards,Google Gemini,check24.de,Top 10,2,7,1.34,1.21,1.23,1.36,0.02
+Credit Cards,Google Gemini,bankrate.com,Top 10,4,8,2.13,1.81,1.30,1.32,-0.81
+Credit Cards,Google Gemini,nerdwallet.com,Top 10,1,9,0.80,1.13,1.19,1.32,0.52
+Credit Cards,Google Gemini,cnn.com,Top 10,1,10,0.47,0.35,0.47,1.27,0.80
+Credit Cards,Google Gemini,wallethub.com,Top 10,3,13,2.16,1.94,1.59,1.25,-0.91
+Credit Cards,Google Gemini,comparabanques.fr,Top 10,3,17,1.95,1.65,1.50,1.13,-0.82
+Credit Cards,Google Gemini,meilleure-carte-bancaire.fr,Top 10,2,20,1.57,1.26,1.09,0.93,-0.64
+Credit Cards,Google Gemini,reddit.com,Pinned social,0,22,0.68,0.50,0.50,0.87,0.19
+Credit Cards,Google Gemini,connectbanque.com,Top 10,2,54,1.43,1.47,1.03,0.41,-1.02
+Credit Cards,Google Gemini,youtube.com,Pinned social,0,400,0.01,0.02,0.02,0.04,0.03
+Credit Cards,Google Gemini,facebook.com,Pinned social,0,,0.00,0.00,0.00,0.00,0.00

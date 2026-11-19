@@ -1,0 +1,67 @@
+vertical,model_name,rootdomain,channel_group,weeks_in_top10,rank_week4,citation_share_week1_pct,citation_share_week2_pct,citation_share_week3_pct,citation_share_week4_pct,change_week1_to_week4_pts
+Packaging,ChatGPT,fda.gov,Top 10,4,1,6.37,7.20,9.11,10.79,4.42
+Packaging,ChatGPT,epa.gov,Top 10,4,2,6.08,4.19,4.43,3.93,-2.15
+Packaging,ChatGPT,amazon.com,Top 10,4,3,2.12,2.34,2.96,3.46,1.34
+Packaging,ChatGPT,sustainablepackaging.org,Top 10,4,4,2.03,2.34,2.46,2.66,0.63
+Packaging,ChatGPT,pmmi.org,Top 10,4,5,2.47,2.90,2.52,2.13,-0.34
+Packaging,ChatGPT,wiley.com,Top 10,1,6,0.30,1.12,0.86,2.07,1.77
+Packaging,ChatGPT,europa.eu,Top 10,3,7,2.17,1.90,1.29,2.00,-0.17
+Packaging,ChatGPT,shopify.com,Top 10,3,8,1.19,1.45,1.79,2.00,0.81
+Packaging,ChatGPT,usps.com,Top 10,3,9,1.58,1.34,1.42,1.87,0.29
+Packaging,ChatGPT,nih.gov,Top 10,3,10,0.59,1.40,1.54,1.80,1.21
+Packaging,ChatGPT,ista.org,Top 10,3,11,2.12,1.95,1.48,1.53,-0.59
+Packaging,ChatGPT,ftc.gov,Top 10,3,12,2.03,1.95,1.85,1.40,-0.63
+Packaging,ChatGPT,usda.gov,Top 10,1,24,4.15,1.34,1.17,0.73,-3.42
+Packaging,ChatGPT,linkedin.com,Pinned social,0,285,0.00,0.00,0.00,0.07,0.07
+Packaging,Google AI Mode,youtube.com,Both,4,1,6.87,5.41,14.97,16.04,9.17
+Packaging,Google AI Mode,reddit.com,Both,2,2,0.82,0.85,2.25,2.21,1.39
+Packaging,Google AI Mode,ecoenclose.com,Top 10,4,3,2.01,2.37,2.13,1.70,-0.31
+Packaging,Google AI Mode,facebook.com,Both,2,4,0.92,0.34,1.30,1.53,0.61
+Packaging,Google AI Mode,google.com,Top 10,3,5,0.82,4.91,2.44,1.53,0.71
+Packaging,Google AI Mode,vistaprint.com,Top 10,4,6,1.19,1.52,1.33,1.35,0.16
+Packaging,Google AI Mode,linkedin.com,Both,2,7,0.55,0.85,0.93,1.21,0.66
+Packaging,Google AI Mode,amazon.com,Top 10,4,8,1.92,1.69,0.90,1.06,-0.86
+Packaging,Google AI Mode,fda.gov,Top 10,3,9,3.02,4.40,0.80,0.94,-2.08
+Packaging,Google AI Mode,instagram.com,Top 10,1,10,0.00,0.00,0.86,0.91,0.91
+Packaging,Google AI Mode,packaging-labelling.com,Top 10,1,11,0.73,0.85,1.05,0.79,0.06
+Packaging,Google AI Mode,sustainablepackaging.org,Top 10,1,17,0.82,1.86,0.65,0.57,-0.25
+Packaging,Google AI Mode,gwp.co.uk,Top 10,1,23,1.10,1.18,0.59,0.47,-0.63
+Packaging,Google AI Mode,pakfactory.com,Top 10,3,31,1.10,1.69,0.96,0.39,-0.71
+Packaging,Google AI Mode,clutch.co,Top 10,1,35,1.01,1.35,0.31,0.37,-0.64
+Packaging,Google AI Mode,packlane.com,Top 10,1,36,0.37,1.52,0.37,0.37,0.00
+Packaging,Google AI Mode,ecopackables.com,Top 10,2,41,1.10,1.52,0.43,0.34,-0.76
+Packaging,Google AI Mode,zenpack.us,Top 10,1,75,1.01,1.02,0.19,0.25,-0.76
+Packaging,Google AI Overviews,youtube.com,Both,4,1,9.61,12.31,12.67,13.77,4.16
+Packaging,Google AI Overviews,facebook.com,Both,4,2,1.56,2.16,2.18,2.55,0.99
+Packaging,Google AI Overviews,google.com,Top 10,4,3,0.71,1.69,1.25,2.39,1.68
+Packaging,Google AI Overviews,linkedin.com,Both,4,4,1.56,1.95,1.97,1.79,0.23
+Packaging,Google AI Overviews,reddit.com,Both,4,5,1.18,1.66,1.83,1.42,0.24
+Packaging,Google AI Overviews,ecoenclose.com,Top 10,4,6,1.53,1.40,1.09,1.34,-0.19
+Packaging,Google AI Overviews,quora.com,Top 10,2,7,0.55,0.71,1.04,1.26,0.71
+Packaging,Google AI Overviews,vistaprint.com,Top 10,4,8,0.90,1.13,1.04,0.92,0.02
+Packaging,Google AI Overviews,fda.gov,Top 10,2,9,1.01,0.63,0.53,0.89,-0.12
+Packaging,Google AI Overviews,instagram.com,Top 10,3,10,0.30,0.87,1.01,0.79,0.49
+Packaging,Google AI Overviews,amazon.com,Top 10,1,11,1.07,0.47,0.64,0.66,-0.41
+Packaging,Google AI Overviews,packaging-labelling.com,Top 10,1,13,0.63,0.74,0.56,0.63,0.00
+Packaging,Google AI Overviews,pakfactory.com,Top 10,3,21,0.93,0.71,0.85,0.42,-0.51
+Packaging,Google Gemini,brandedagency.com,Top 10,1,1,0.17,0.55,0.00,5.08,4.91
+Packaging,Google Gemini,anchorbox.com,Top 10,3,2,0.00,1.66,1.90,2.73,2.73
+Packaging,Google Gemini,packaging-labelling.com,Top 10,2,3,0.74,1.48,1.17,2.50,1.76
+Packaging,Google Gemini,printnow.com,Top 10,1,4,0.85,0.00,0.00,2.42,1.57
+Packaging,Google Gemini,fda.gov,Top 10,1,5,0.51,0.68,0.72,2.27,1.76
+Packaging,Google Gemini,pakfactory.com,Top 10,3,6,3.29,1.66,0.99,2.27,-1.02
+Packaging,Google Gemini,ecoenclose.com,Top 10,4,7,2.16,3.01,2.62,2.11,-0.05
+Packaging,Google Gemini,amazon.com,Top 10,4,8,2.33,2.77,3.07,1.88,-0.45
+Packaging,Google Gemini,ecopackables.com,Top 10,4,9,1.36,2.28,1.99,1.88,0.52
+Packaging,Google Gemini,manufacturingdigital.com,Top 10,1,10,0.00,0.00,0.09,1.64,1.64
+Packaging,Google Gemini,pallasmt.com,Top 10,2,20,1.76,2.15,1.26,1.09,-0.67
+Packaging,Google Gemini,cubitpackaging.com,Top 10,3,22,2.61,3.69,3.79,0.94,-1.67
+Packaging,Google Gemini,reddit.com,Pinned social,0,33,0.00,0.18,0.00,0.70,0.70
+Packaging,Google Gemini,clearbags.com,Top 10,1,39,1.02,0.55,1.26,0.62,-0.40
+Packaging,Google Gemini,pharmamachinecn.com,Top 10,1,52,1.14,0.92,1.62,0.55,-0.59
+Packaging,Google Gemini,amzprep.com,Top 10,2,66,1.65,1.29,1.71,0.39,-1.26
+Packaging,Google Gemini,marketgrowthreports.com,Top 10,1,72,1.25,0.25,0.27,0.39,-0.86
+Packaging,Google Gemini,meyers.com,Top 10,1,73,1.31,0.55,0.09,0.39,-0.92
+Packaging,Google Gemini,packagingschool.com,Top 10,2,90,0.51,1.48,1.35,0.31,-0.20
+Packaging,Google Gemini,superside.com,Top 10,3,99,2.27,2.28,3.88,0.31,-1.96
+Packaging,Google Gemini,youtube.com,Pinned social,0,,0.00,0.18,0.00,0.00,0.00

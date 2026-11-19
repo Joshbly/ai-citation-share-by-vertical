@@ -1,0 +1,62 @@
+vertical,model_name,rootdomain,channel_group,weeks_in_top10,rank_week4,citation_share_week1_pct,citation_share_week2_pct,citation_share_week3_pct,citation_share_week4_pct,change_week1_to_week4_pts
+Pharmaceuticals,ChatGPT,tga.gov.au,Top 10,4,1,9.57,8.79,8.92,9.14,-0.43
+Pharmaceuticals,ChatGPT,nih.gov,Top 10,4,2,7.58,8.09,8.19,8.49,0.91
+Pharmaceuticals,ChatGPT,fda.gov,Top 10,4,3,5.91,5.51,5.56,5.87,-0.04
+Pharmaceuticals,ChatGPT,ameli.fr,Top 10,4,4,5.25,4.78,4.78,4.93,-0.32
+Pharmaceuticals,ChatGPT,medicaments.gouv.fr,Top 10,4,5,3.56,2.92,3.12,3.33,-0.23
+Pharmaceuticals,ChatGPT,health.gov.au,Top 10,4,6,3.64,3.24,3.15,3.10,-0.54
+Pharmaceuticals,ChatGPT,healthdirect.gov.au,Top 10,4,7,2.13,2.15,1.69,2.05,-0.08
+Pharmaceuticals,ChatGPT,safetyandquality.gov.au,Top 10,4,8,2.30,2.30,1.94,1.93,-0.37
+Pharmaceuticals,ChatGPT,sec.gov,Top 10,2,9,1.00,1.27,1.48,1.64,0.64
+Pharmaceuticals,ChatGPT,sante.gouv.fr,Top 10,4,10,1.97,2.75,2.75,1.63,-0.34
+Pharmaceuticals,ChatGPT,economie.gouv.fr,Top 10,2,12,1.56,1.38,1.24,1.19,-0.37
+Pharmaceuticals,ChatGPT,linkedin.com,Pinned social,0,252,0.01,0.01,0.02,0.05,0.04
+Pharmaceuticals,Google AI Mode,nih.gov,Top 10,4,1,6.21,5.33,3.66,3.93,-2.28
+Pharmaceuticals,Google AI Mode,tga.gov.au,Top 10,4,2,5.16,5.30,2.89,3.44,-1.72
+Pharmaceuticals,Google AI Mode,youtube.com,Both,2,3,0.75,0.50,4.73,3.36,2.61
+Pharmaceuticals,Google AI Mode,jamanetwork.com,Top 10,2,4,0.02,0.07,4.68,2.70,2.68
+Pharmaceuticals,Google AI Mode,vidal.fr,Top 10,4,5,2.92,3.43,1.75,1.57,-1.35
+Pharmaceuticals,Google AI Mode,sante.fr,Top 10,3,6,1.95,2.71,0.85,1.28,-0.67
+Pharmaceuticals,Google AI Mode,health.gov.au,Top 10,4,7,1.53,1.37,1.17,1.22,-0.31
+Pharmaceuticals,Google AI Mode,facebook.com,Both,2,8,0.24,0.27,1.62,1.18,0.94
+Pharmaceuticals,Google AI Mode,ameli.fr,Top 10,4,9,1.70,2.32,1.00,1.02,-0.68
+Pharmaceuticals,Google AI Mode,linkedin.com,Both,1,10,0.76,0.39,0.84,0.87,0.11
+Pharmaceuticals,Google AI Mode,pbs.gov.au,Top 10,3,11,2.32,2.82,1.08,0.86,-1.46
+Pharmaceuticals,Google AI Mode,yahoo.com,Top 10,2,12,1.25,1.14,0.64,0.83,-0.42
+Pharmaceuticals,Google AI Mode,chemistwarehouse.com.au,Top 10,2,13,1.36,1.25,0.94,0.78,-0.58
+Pharmaceuticals,Google AI Mode,medicaments.gouv.fr,Top 10,1,23,0.69,1.14,0.52,0.50,-0.19
+Pharmaceuticals,Google AI Mode,pharmaciedesdrakkars.com,Top 10,1,24,0.84,0.94,0.51,0.49,-0.35
+Pharmaceuticals,Google AI Mode,google.com,Top 10,1,28,0.58,0.95,2.05,0.43,-0.15
+Pharmaceuticals,Google AI Mode,reddit.com,Pinned social,0,190,0.05,0.07,0.17,0.09,0.04
+Pharmaceuticals,Google AI Overviews,youtube.com,Both,4,1,5.81,5.93,5.33,4.08,-1.73
+Pharmaceuticals,Google AI Overviews,jamanetwork.com,Top 10,3,2,0.47,6.47,7.66,3.78,3.31
+Pharmaceuticals,Google AI Overviews,nih.gov,Top 10,4,3,6.97,3.12,3.03,3.61,-3.36
+Pharmaceuticals,Google AI Overviews,tga.gov.au,Top 10,4,4,3.00,2.31,2.50,2.53,-0.47
+Pharmaceuticals,Google AI Overviews,facebook.com,Both,4,5,1.63,2.15,2.28,1.96,0.33
+Pharmaceuticals,Google AI Overviews,vidal.fr,Top 10,4,6,1.34,1.24,1.39,1.33,-0.01
+Pharmaceuticals,Google AI Overviews,health.gov.au,Top 10,4,7,1.23,1.03,1.07,1.11,-0.12
+Pharmaceuticals,Google AI Overviews,sante.fr,Top 10,1,8,0.74,0.71,0.68,1.09,0.35
+Pharmaceuticals,Google AI Overviews,ameli.fr,Top 10,2,9,0.90,0.99,0.83,1.07,0.17
+Pharmaceuticals,Google AI Overviews,pbs.gov.au,Top 10,3,10,0.97,0.91,0.88,0.95,-0.02
+Pharmaceuticals,Google AI Overviews,linkedin.com,Both,3,11,1.08,1.04,0.96,0.92,-0.16
+Pharmaceuticals,Google AI Overviews,diabetesjournals.org,Top 10,2,14,0.07,0.99,1.15,0.76,0.69
+Pharmaceuticals,Google AI Overviews,yahoo.com,Top 10,1,17,0.93,0.63,0.53,0.68,-0.25
+Pharmaceuticals,Google AI Overviews,instagram.com,Top 10,1,19,1.00,0.84,0.72,0.60,-0.40
+Pharmaceuticals,Google AI Overviews,reddit.com,Pinned social,0,151,0.16,0.24,0.18,0.10,-0.06
+Pharmaceuticals,Google Gemini,tga.gov.au,Top 10,4,1,3.67,3.99,4.36,4.93,1.26
+Pharmaceuticals,Google Gemini,pharmacieeiffelcommerce.com,Top 10,4,2,3.09,3.38,3.90,3.25,0.16
+Pharmaceuticals,Google Gemini,vidal.fr,Top 10,4,3,1.39,1.58,1.74,2.59,1.20
+Pharmaceuticals,Google Gemini,ameli.fr,Top 10,4,4,1.33,1.24,1.77,2.06,0.73
+Pharmaceuticals,Google Gemini,nih.gov,Top 10,4,5,1.50,1.39,1.39,1.92,0.42
+Pharmaceuticals,Google Gemini,jevaismieuxmerci.com,Top 10,3,6,0.93,1.24,1.21,1.68,0.75
+Pharmaceuticals,Google Gemini,pharma-gdd.com,Top 10,3,7,1.00,0.98,1.60,1.61,0.61
+Pharmaceuticals,Google Gemini,pbs.gov.au,Top 10,1,8,0.60,0.96,0.76,1.57,0.97
+Pharmaceuticals,Google Gemini,health.gov.au,Top 10,4,9,0.98,1.13,1.34,1.36,0.38
+Pharmaceuticals,Google Gemini,healthdirect.gov.au,Top 10,4,10,1.38,1.58,1.70,1.18,-0.20
+Pharmaceuticals,Google Gemini,sante.fr,Top 10,2,11,1.09,1.09,1.51,1.13,0.04
+Pharmaceuticals,Google Gemini,parapharmacielafayette.com,Top 10,1,13,0.97,1.11,0.83,1.03,0.06
+Pharmaceuticals,Google Gemini,lasante.net,Top 10,1,23,0.87,1.19,1.03,0.60,-0.27
+Pharmaceuticals,Google Gemini,ordre.pharmacien.fr,Top 10,1,40,2.16,0.09,0.00,0.42,-1.74
+Pharmaceuticals,Google Gemini,youtube.com,Pinned social,0,241,0.10,0.07,0.08,0.09,-0.01
+Pharmaceuticals,Google Gemini,reddit.com,Pinned social,0,309,0.05,0.11,0.01,0.06,0.01
+Pharmaceuticals,Google Gemini,facebook.com,Pinned social,0,,0.01,0.00,0.00,0.00,-0.01

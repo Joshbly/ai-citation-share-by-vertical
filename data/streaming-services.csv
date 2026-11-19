@@ -1,0 +1,60 @@
+vertical,model_name,rootdomain,channel_group,weeks_in_top10,rank_week4,citation_share_week1_pct,citation_share_week2_pct,citation_share_week3_pct,citation_share_week4_pct,change_week1_to_week4_pts
+Streaming Services,ChatGPT,hulu.com,Top 10,4,1,5.94,4.39,4.40,4.50,-1.44
+Streaming Services,ChatGPT,disneyplus.com,Top 10,4,2,5.83,5.70,4.68,4.28,-1.55
+Streaming Services,ChatGPT,netflix.com,Top 10,4,3,6.77,5.86,5.10,4.22,-2.55
+Streaming Services,ChatGPT,google.com,Top 10,4,4,3.60,3.86,3.53,2.90,-0.70
+Streaming Services,ChatGPT,itechguides.com,Top 10,1,5,1.66,1.59,1.78,2.72,1.06
+Streaming Services,ChatGPT,apple.com,Top 10,4,6,2.42,2.38,2.12,2.20,-0.22
+Streaming Services,ChatGPT,directv.com,Top 10,1,7,1.26,1.61,1.78,2.18,0.92
+Streaming Services,ChatGPT,consumerreports.org,Top 10,1,8,1.42,1.48,1.33,2.04,0.62
+Streaming Services,ChatGPT,tomsguide.com,Top 10,4,9,2.01,1.91,1.82,2.02,0.01
+Streaming Services,ChatGPT,amazon.com,Top 10,4,10,1.80,2.05,2.32,1.90,0.10
+Streaming Services,ChatGPT,cabletv.com,Top 10,3,11,1.89,1.78,1.96,1.76,-0.13
+Streaming Services,ChatGPT,justwatch.com,Top 10,3,12,2.60,1.82,2.06,1.72,-0.88
+Streaming Services,ChatGPT,spotify.com,Top 10,3,13,2.35,2.01,2.04,1.62,-0.73
+Streaming Services,ChatGPT,youtube.com,Pinned social,0,29,0.90,0.94,0.87,0.64,-0.26
+Streaming Services,ChatGPT,reddit.com,Pinned social,0,565,0.07,0.02,0.02,0.02,-0.05
+Streaming Services,Google AI Mode,youtube.com,Both,4,1,5.72,3.70,18.11,16.37,10.65
+Streaming Services,Google AI Mode,reddit.com,Both,4,2,8.80,9.89,7.16,6.97,-1.83
+Streaming Services,Google AI Mode,facebook.com,Both,4,3,3.61,3.21,5.00,5.31,1.70
+Streaming Services,Google AI Mode,cnet.com,Top 10,4,4,5.27,6.10,3.14,3.03,-2.24
+Streaming Services,Google AI Mode,consumerreports.org,Top 10,4,5,2.85,2.64,2.61,2.68,-0.17
+Streaming Services,Google AI Mode,hulu.com,Top 10,4,6,2.11,2.93,1.85,2.11,0.00
+Streaming Services,Google AI Mode,netflix.com,Top 10,3,7,1.58,3.01,1.51,1.70,0.12
+Streaming Services,Google AI Mode,quora.com,Top 10,2,8,0.70,0.33,1.78,1.67,0.97
+Streaming Services,Google AI Mode,pcmag.com,Top 10,2,9,1.61,1.02,1.26,1.43,-0.18
+Streaming Services,Google AI Mode,yahoo.com,Top 10,2,10,2.03,1.38,1.15,1.18,-0.85
+Streaming Services,Google AI Mode,decider.com,Top 10,2,11,1.35,1.83,1.55,1.17,-0.18
+Streaming Services,Google AI Mode,google.com,Top 10,3,12,3.47,4.60,1.46,1.17,-2.30
+Streaming Services,Google AI Mode,disneyplus.com,Top 10,1,15,1.38,2.24,0.93,1.02,-0.36
+Streaming Services,Google AI Mode,cordcutterweekly.com,Top 10,1,22,1.58,1.30,0.58,0.66,-0.92
+Streaming Services,Google AI Mode,linkedin.com,Pinned social,0,36,0.08,0.04,0.41,0.37,0.29
+Streaming Services,Google AI Overviews,youtube.com,Both,4,1,16.45,19.70,21.12,18.21,1.76
+Streaming Services,Google AI Overviews,reddit.com,Both,4,2,7.36,7.12,7.54,7.11,-0.25
+Streaming Services,Google AI Overviews,facebook.com,Both,4,3,5.83,6.81,7.23,7.04,1.21
+Streaming Services,Google AI Overviews,cnet.com,Top 10,4,4,3.41,2.28,2.43,2.42,-0.99
+Streaming Services,Google AI Overviews,consumerreports.org,Top 10,4,5,2.41,1.89,2.03,2.26,-0.15
+Streaming Services,Google AI Overviews,quora.com,Top 10,4,6,1.91,2.12,2.08,2.25,0.34
+Streaming Services,Google AI Overviews,google.com,Top 10,2,7,0.74,1.32,1.04,1.79,1.05
+Streaming Services,Google AI Overviews,netflix.com,Top 10,4,8,1.23,1.29,1.20,1.66,0.43
+Streaming Services,Google AI Overviews,hulu.com,Top 10,4,9,1.52,1.64,1.46,1.46,-0.06
+Streaming Services,Google AI Overviews,yahoo.com,Top 10,4,10,1.84,1.39,1.52,1.40,-0.44
+Streaming Services,Google AI Overviews,decider.com,Top 10,1,11,1.20,1.05,1.51,1.05,-0.15
+Streaming Services,Google AI Overviews,pcmag.com,Top 10,1,15,1.44,0.97,0.89,0.93,-0.51
+Streaming Services,Google AI Overviews,linkedin.com,Pinned social,0,38,0.25,0.41,0.35,0.32,0.07
+Streaming Services,Google Gemini,reddit.com,Both,4,1,3.71,2.67,2.48,7.67,3.96
+Streaming Services,Google Gemini,businessinsider.com,Top 10,4,2,6.13,6.49,6.80,6.11,-0.02
+Streaming Services,Google Gemini,cnet.com,Top 10,4,3,2.85,2.17,2.65,3.82,0.97
+Streaming Services,Google Gemini,pcmag.com,Top 10,4,4,1.71,1.83,2.36,2.98,1.27
+Streaming Services,Google Gemini,plume.com,Top 10,2,5,2.00,0.74,0.55,2.79,0.79
+Streaming Services,Google Gemini,hulu.com,Top 10,4,6,3.16,2.33,2.22,2.15,-1.01
+Streaming Services,Google Gemini,cablecompare.com,Top 10,3,7,1.08,1.47,1.66,1.49,0.41
+Streaming Services,Google Gemini,ign.com,Top 10,4,8,1.41,1.87,2.10,1.40,-0.01
+Streaming Services,Google Gemini,subtracker.io,Top 10,1,9,0.08,0.28,0.58,1.40,1.32
+Streaming Services,Google Gemini,cordcutterweekly.com,Top 10,1,10,0.24,0.10,0.12,1.19,0.95
+Streaming Services,Google Gemini,disneyplus.com,Top 10,3,11,1.71,2.17,2.19,1.17,-0.54
+Streaming Services,Google Gemini,lowermysubs.com,Top 10,3,17,1.83,1.65,2.32,0.85,-0.98
+Streaming Services,Google Gemini,freeyourmusic.com,Top 10,2,19,1.24,0.52,1.25,0.71,-0.53
+Streaming Services,Google Gemini,youtube.com,Pinned social,0,40,0.55,0.38,0.68,0.50,-0.05
+Streaming Services,Google Gemini,tomsguide.com,Top 10,1,49,0.86,1.57,1.21,0.41,-0.45
+Streaming Services,Google Gemini,facebook.com,Pinned social,0,,0.20,0.04,0.00,0.00,-0.20

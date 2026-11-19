@@ -1,0 +1,60 @@
+vertical,model_name,rootdomain,channel_group,weeks_in_top10,rank_week4,citation_share_week1_pct,citation_share_week2_pct,citation_share_week3_pct,citation_share_week4_pct,change_week1_to_week4_pts
+National Banks,ChatGPT,moneyhelper.org.uk,Top 10,4,1,3.97,3.50,3.28,3.33,-0.64
+National Banks,ChatGPT,moneysavingexpert.com,Top 10,4,2,2.97,2.68,2.81,3.17,0.20
+National Banks,ChatGPT,fscs.org.uk,Top 10,4,3,3.44,3.13,3.16,3.15,-0.29
+National Banks,ChatGPT,nerdwallet.com,Top 10,4,4,2.13,1.97,2.37,2.46,0.33
+National Banks,ChatGPT,bankofengland.co.uk,Top 10,4,5,2.22,2.27,2.29,2.37,0.15
+National Banks,ChatGPT,which.co.uk,Top 10,4,6,1.98,1.97,1.82,1.88,-0.10
+National Banks,ChatGPT,nab.com.au,Top 10,3,7,1.36,1.32,1.44,1.39,0.03
+National Banks,ChatGPT,fca.org.uk,Top 10,4,8,1.37,1.57,1.59,1.36,-0.01
+National Banks,ChatGPT,gov.uk,Top 10,4,9,1.52,1.51,1.64,1.34,-0.18
+National Banks,ChatGPT,handelsblatt.com,Top 10,2,10,0.88,1.29,1.24,1.26,0.38
+National Banks,ChatGPT,mufg.jp,Top 10,1,15,1.50,1.26,1.16,1.13,-0.37
+National Banks,ChatGPT,bafin.de,Top 10,2,19,1.66,1.36,1.23,1.06,-0.60
+National Banks,ChatGPT,linkedin.com,Pinned social,0,,0.01,0.00,0.00,0.00,-0.01
+National Banks,ChatGPT,reddit.com,Pinned social,0,,0.00,0.00,0.00,0.00,0.00
+National Banks,Google AI Mode,youtube.com,Both,2,1,0.93,0.55,4.34,3.17,2.24
+National Banks,Google AI Mode,moneysavingexpert.com,Top 10,4,2,3.51,3.66,2.94,2.60,-0.91
+National Banks,Google AI Mode,reddit.com,Both,3,3,0.91,1.09,2.36,2.28,1.37
+National Banks,Google AI Mode,nerdwallet.com,Top 10,4,4,2.04,1.86,1.62,1.65,-0.39
+National Banks,Google AI Mode,wise.com,Top 10,4,5,1.28,1.40,1.26,1.43,0.15
+National Banks,Google AI Mode,moneysupermarket.com,Top 10,4,6,1.34,1.13,1.41,1.39,0.05
+National Banks,Google AI Mode,canstar.com.au,Top 10,4,7,1.92,2.13,1.33,1.32,-0.60
+National Banks,Google AI Mode,moneyfactscompare.co.uk,Top 10,3,8,1.16,0.77,1.22,1.27,0.11
+National Banks,Google AI Mode,fscs.org.uk,Top 10,3,9,1.89,2.14,1.05,1.13,-0.76
+National Banks,Google AI Mode,hsbc.co.uk,Top 10,2,10,0.96,0.68,1.09,1.06,0.10
+National Banks,Google AI Mode,facebook.com,Both,1,11,0.21,0.18,1.36,1.04,0.83
+National Banks,Google AI Mode,finanztip.de,Top 10,2,15,1.30,1.74,0.76,0.92,-0.38
+National Banks,Google AI Mode,commbank.com.au,Top 10,1,16,1.18,1.03,0.83,0.91,-0.27
+National Banks,Google AI Mode,finanzfluss.de,Top 10,2,20,1.42,2.12,0.72,0.78,-0.64
+National Banks,Google AI Mode,smbc.co.jp,Top 10,1,38,0.98,1.14,0.58,0.50,-0.48
+National Banks,Google AI Mode,linkedin.com,Pinned social,0,113,0.07,0.07,0.18,0.16,0.09
+National Banks,Google AI Overviews,youtube.com,Both,4,1,3.83,5.53,5.36,4.87,1.04
+National Banks,Google AI Overviews,reddit.com,Both,4,2,1.70,2.39,2.51,2.53,0.83
+National Banks,Google AI Overviews,moneysavingexpert.com,Top 10,4,3,2.55,2.55,2.36,2.32,-0.23
+National Banks,Google AI Overviews,facebook.com,Both,4,4,1.30,2.04,2.19,2.17,0.87
+National Banks,Google AI Overviews,nerdwallet.com,Top 10,4,5,1.70,1.39,1.40,1.56,-0.14
+National Banks,Google AI Overviews,wise.com,Top 10,4,6,1.68,1.40,1.34,1.40,-0.28
+National Banks,Google AI Overviews,moneyfactscompare.co.uk,Top 10,3,7,1.17,0.99,1.01,1.15,-0.02
+National Banks,Google AI Overviews,moneysupermarket.com,Top 10,4,8,1.41,1.18,1.16,1.15,-0.26
+National Banks,Google AI Overviews,canstar.com.au,Top 10,4,9,1.25,1.05,1.08,1.11,-0.14
+National Banks,Google AI Overviews,natwest.com,Top 10,2,10,1.30,0.96,0.94,1.06,-0.24
+National Banks,Google AI Overviews,hsbc.co.uk,Top 10,3,11,1.30,1.09,1.04,1.05,-0.25
+National Banks,Google AI Overviews,linkedin.com,Pinned social,0,82,0.13,0.22,0.21,0.22,0.09
+National Banks,Google Gemini,finanzfluss.de,Top 10,4,1,3.80,3.67,3.70,3.85,0.05
+National Banks,Google Gemini,wise.com,Top 10,4,2,3.35,3.37,3.31,3.65,0.30
+National Banks,Google Gemini,moneysavingexpert.com,Top 10,4,3,2.39,2.22,2.17,2.68,0.29
+National Banks,Google Gemini,meilleurtaux.com,Top 10,2,4,0.90,0.95,1.04,1.80,0.90
+National Banks,Google Gemini,mozo.com.au,Top 10,4,5,1.58,1.61,1.44,1.57,-0.01
+National Banks,Google Gemini,finanztip.de,Top 10,4,6,1.54,1.26,1.07,1.43,-0.11
+National Banks,Google Gemini,fscs.org.uk,Top 10,1,7,0.93,1.00,0.94,1.39,0.46
+National Banks,Google Gemini,nerdwallet.com,Top 10,3,8,0.89,1.17,1.04,1.34,0.45
+National Banks,Google Gemini,forbes.com,Top 10,1,9,0.92,0.86,0.90,1.34,0.42
+National Banks,Google Gemini,moneysupermarket.com,Top 10,4,10,1.28,1.23,1.12,1.29,0.01
+National Banks,Google Gemini,cnbc.com,Top 10,3,12,1.73,1.51,1.36,1.11,-0.62
+National Banks,Google Gemini,comparabanques.fr,Top 10,3,15,1.87,1.93,2.13,0.86,-1.01
+National Banks,Google Gemini,bankrate.com,Top 10,2,16,1.20,1.04,0.98,0.85,-0.35
+National Banks,Google Gemini,reddit.com,Pinned social,0,22,0.45,0.26,0.32,0.69,0.24
+National Banks,Google Gemini,raisin.com,Top 10,1,25,1.00,0.98,0.82,0.68,-0.32
+National Banks,Google Gemini,youtube.com,Pinned social,0,998,0.06,0.03,0.04,0.01,-0.05
+National Banks,Google Gemini,facebook.com,Pinned social,0,,0.01,0.00,0.00,0.00,-0.01

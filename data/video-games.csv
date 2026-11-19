@@ -1,0 +1,62 @@
+vertical,model_name,rootdomain,channel_group,weeks_in_top10,rank_week4,citation_share_week1_pct,citation_share_week2_pct,citation_share_week3_pct,citation_share_week4_pct,change_week1_to_week4_pts
+Video Games,ChatGPT,itechguides.com,Top 10,4,1,3.76,3.84,3.33,3.53,-0.23
+Video Games,ChatGPT,sensortower.com,Top 10,4,2,3.97,3.65,3.62,3.30,-0.67
+Video Games,ChatGPT,investgame.net,Top 10,4,3,1.47,2.20,3.10,2.97,1.50
+Video Games,ChatGPT,newzoo.com,Top 10,4,4,2.73,2.78,2.94,2.93,0.20
+Video Games,ChatGPT,gamespot.com,Top 10,4,5,2.35,2.45,2.28,1.83,-0.52
+Video Games,ChatGPT,gamesradar.com,Top 10,3,6,1.34,2.03,1.73,1.80,0.46
+Video Games,ChatGPT,unity.com,Top 10,4,7,1.49,1.78,1.99,1.77,0.28
+Video Games,ChatGPT,pcgamer.com,Top 10,4,8,1.89,1.56,1.40,1.57,-0.32
+Video Games,ChatGPT,digitaltrends.com,Top 10,2,9,0.18,0.89,1.40,1.47,1.29
+Video Games,ChatGPT,pockettactics.com,Top 10,2,10,1.39,0.86,0.85,1.27,-0.12
+Video Games,ChatGPT,tomsguide.com,Top 10,1,11,1.59,0.95,1.14,1.23,-0.36
+Video Games,ChatGPT,pocketgamer.biz,Top 10,3,13,1.69,1.59,1.40,1.20,-0.49
+Video Games,ChatGPT,pocketgamer.com,Top 10,1,14,1.21,1.31,1.34,1.17,-0.04
+Video Games,ChatGPT,reddit.com,Pinned social,0,32,0.28,0.70,0.98,0.73,0.45
+Video Games,ChatGPT,youtube.com,Pinned social,0,,0.03,0.06,0.03,0.00,-0.03
+Video Games,Google AI Mode,youtube.com,Both,4,1,13.79,14.47,24.39,22.68,8.89
+Video Games,Google AI Mode,reddit.com,Both,4,2,13.47,13.68,9.76,9.50,-3.97
+Video Games,Google AI Mode,facebook.com,Both,4,3,2.61,2.96,5.08,5.39,2.78
+Video Games,Google AI Mode,quora.com,Top 10,3,4,1.06,1.34,2.44,2.43,1.37
+Video Games,Google AI Mode,wikipedia.org,Top 10,4,5,3.81,3.98,2.59,2.28,-1.53
+Video Games,Google AI Mode,pcmag.com,Top 10,4,6,1.69,1.57,1.10,1.55,-0.14
+Video Games,Google AI Mode,medium.com,Top 10,3,7,1.13,1.16,1.15,1.45,0.32
+Video Games,Google AI Mode,linkedin.com,Both,2,8,1.09,0.55,1.03,1.16,0.07
+Video Games,Google AI Mode,eneba.com,Top 10,1,9,1.02,0.69,0.80,1.09,0.07
+Video Games,Google AI Mode,resetera.com,Top 10,2,10,0.39,0.14,1.00,1.00,0.61
+Video Games,Google AI Mode,instagram.com,Top 10,2,11,0.88,1.34,1.54,0.95,0.07
+Video Games,Google AI Mode,steampowered.com,Top 10,2,13,1.16,1.62,0.90,0.79,-0.37
+Video Games,Google AI Mode,escharts.com,Top 10,2,21,1.20,1.25,0.57,0.48,-0.72
+Video Games,Google AI Mode,shattered.io,Top 10,1,24,1.52,0.92,0.56,0.44,-1.08
+Video Games,Google AI Mode,qz.com,Top 10,2,73,1.16,1.29,0.36,0.17,-0.99
+Video Games,Google AI Overviews,youtube.com,Both,4,1,26.14,28.21,29.66,28.34,2.20
+Video Games,Google AI Overviews,reddit.com,Both,4,2,9.84,8.58,8.93,9.37,-0.47
+Video Games,Google AI Overviews,facebook.com,Both,4,3,4.66,4.92,5.12,5.36,0.70
+Video Games,Google AI Overviews,quora.com,Top 10,4,4,3.55,3.69,3.89,3.70,0.15
+Video Games,Google AI Overviews,wikipedia.org,Top 10,4,5,2.72,2.36,2.65,2.55,-0.17
+Video Games,Google AI Overviews,medium.com,Top 10,4,6,1.83,1.86,1.65,2.07,0.24
+Video Games,Google AI Overviews,google.com,Top 10,3,7,0.53,0.93,1.07,1.45,0.92
+Video Games,Google AI Overviews,pcmag.com,Top 10,4,8,1.28,0.86,0.91,1.21,-0.07
+Video Games,Google AI Overviews,instagram.com,Top 10,4,9,0.96,1.31,1.24,1.01,0.05
+Video Games,Google AI Overviews,resetera.com,Top 10,2,10,0.53,0.80,0.61,0.80,0.27
+Video Games,Google AI Overviews,linkedin.com,Pinned social,0,11,0.81,0.77,0.67,0.76,-0.05
+Video Games,Google AI Overviews,steampowered.com,Top 10,1,12,0.85,0.69,0.76,0.69,-0.16
+Video Games,Google AI Overviews,builtin.com,Top 10,1,13,0.85,0.46,0.50,0.68,-0.17
+Video Games,Google AI Overviews,eneba.com,Top 10,1,15,0.64,0.62,0.79,0.65,0.01
+Video Games,Google Gemini,reddit.com,Both,4,1,4.92,3.31,4.30,8.57,3.65
+Video Games,Google Gemini,getardelia.com,Top 10,4,2,2.51,2.64,3.26,5.33,2.82
+Video Games,Google Gemini,wikipedia.org,Top 10,4,3,2.88,3.09,3.76,4.22,1.34
+Video Games,Google Gemini,miela.cc,Top 10,2,4,0.88,1.58,2.37,3.33,2.45
+Video Games,Google Gemini,appfollow.io,Top 10,1,5,0.61,1.24,1.47,3.11,2.50
+Video Games,Google Gemini,medium.com,Top 10,4,6,3.78,3.26,3.08,2.73,-1.05
+Video Games,Google Gemini,pogo.com,Top 10,3,7,1.98,1.82,1.76,2.26,0.28
+Video Games,Google Gemini,helpshift.com,Top 10,1,8,0.86,0.93,1.54,1.66,0.80
+Video Games,Google Gemini,growthmarketreports.com,Top 10,4,9,1.16,1.87,1.76,1.54,0.38
+Video Games,Google Gemini,shattered.io,Top 10,1,10,0.31,0.58,0.32,1.54,1.23
+Video Games,Google Gemini,udonis.co,Top 10,3,11,2.45,2.26,3.16,1.54,-0.91
+Video Games,Google Gemini,rocketbrush.com,Top 10,3,12,2.00,1.98,1.94,1.45,-0.55
+Video Games,Google Gemini,pcmag.com,Top 10,3,14,2.43,1.98,2.19,1.36,-1.07
+Video Games,Google Gemini,minireview.io,Top 10,1,20,1.14,2.06,0.61,0.90,-0.24
+Video Games,Google Gemini,juegostudio.com,Top 10,2,21,1.74,1.93,1.22,0.85,-0.89
+Video Games,Google Gemini,youtube.com,Pinned social,0,375,0.37,0.13,0.11,0.04,-0.33
+Video Games,Google Gemini,facebook.com,Pinned social,0,,0.16,0.02,0.00,0.00,-0.16

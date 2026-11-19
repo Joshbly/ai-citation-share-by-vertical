@@ -1,0 +1,63 @@
+vertical,model_name,rootdomain,channel_group,weeks_in_top10,rank_week4,citation_share_week1_pct,citation_share_week2_pct,citation_share_week3_pct,citation_share_week4_pct,change_week1_to_week4_pts
+Casual Dining,ChatGPT,yougov.com,Top 10,4,1,3.54,4.24,5.09,4.96,1.42
+Casual Dining,ChatGPT,opentable.com,Top 10,4,2,2.36,2.08,2.66,4.44,2.08
+Casual Dining,ChatGPT,cdawards.co.uk,Top 10,4,3,1.09,1.50,2.07,3.39,2.30
+Casual Dining,ChatGPT,d3nkl3psvxxpe9.cloudfront.net,Top 10,4,4,2.78,3.93,4.58,3.22,0.44
+Casual Dining,ChatGPT,tripadvisor.com,Top 10,4,5,5.92,3.46,1.94,2.35,-3.57
+Casual Dining,ChatGPT,timeout.com,Top 10,4,6,1.01,1.00,1.19,1.43,0.42
+Casual Dining,ChatGPT,ubereats.com,Top 10,1,7,0.61,0.46,0.70,1.23,0.62
+Casual Dining,ChatGPT,nrpbs.co.uk,Top 10,1,8,0.55,0.73,0.75,1.19,0.64
+Casual Dining,ChatGPT,opentable.com.au,Top 10,1,9,0.74,0.78,0.71,1.08,0.34
+Casual Dining,ChatGPT,yelp.com,Top 10,4,10,4.05,2.32,0.94,1.05,-3.00
+Casual Dining,ChatGPT,restaurantguru.com,Top 10,1,11,0.83,0.80,0.94,1.02,0.19
+Casual Dining,ChatGPT,moneysavingexpert.com,Top 10,2,12,1.04,0.98,0.91,0.91,-0.13
+Casual Dining,ChatGPT,google.com,Top 10,3,13,1.78,1.14,1.16,0.91,-0.87
+Casual Dining,ChatGPT,theinfatuation.com,Top 10,3,15,0.98,1.03,0.94,0.81,-0.17
+Casual Dining,ChatGPT,reddit.com,Pinned social,0,74,0.13,0.13,0.11,0.19,0.06
+Casual Dining,ChatGPT,linkedin.com,Pinned social,0,2260,0.01,0.01,0.02,0.01,0.00
+Casual Dining,Google AI Mode,google.com,Top 10,4,1,53.42,60.47,62.88,42.85,-10.57
+Casual Dining,Google AI Mode,facebook.com,Both,4,2,1.19,0.95,1.94,3.16,1.97
+Casual Dining,Google AI Mode,reddit.com,Both,4,3,1.53,0.91,1.56,2.50,0.97
+Casual Dining,Google AI Mode,substack.com,Top 10,4,4,1.50,1.13,1.31,1.93,0.43
+Casual Dining,Google AI Mode,cdawards.co.uk,Top 10,4,5,1.33,0.75,0.82,1.40,0.07
+Casual Dining,Google AI Mode,youtube.com,Both,2,6,0.54,0.48,0.99,1.17,0.63
+Casual Dining,Google AI Mode,instagram.com,Top 10,4,7,0.66,0.73,0.93,1.17,0.51
+Casual Dining,Google AI Mode,yougov.com,Top 10,4,8,0.69,0.78,0.61,1.15,0.46
+Casual Dining,Google AI Mode,timeout.com,Top 10,2,9,0.41,0.27,0.63,0.83,0.42
+Casual Dining,Google AI Mode,yelp.com,Top 10,2,10,0.39,0.23,0.55,0.69,0.30
+Casual Dining,Google AI Mode,wikipedia.org,Top 10,2,14,0.80,0.59,0.31,0.42,-0.38
+Casual Dining,Google AI Mode,linkedin.com,Both,1,17,0.57,0.58,0.27,0.35,-0.22
+Casual Dining,Google AI Mode,trip.com,Top 10,2,19,0.59,0.58,0.20,0.31,-0.28
+Casual Dining,Google AI Mode,leadiq.com,Top 10,1,49,0.59,0.37,0.14,0.15,-0.44
+Casual Dining,Google AI Overviews,google.com,Top 10,4,1,13.71,20.72,20.38,19.14,5.43
+Casual Dining,Google AI Overviews,facebook.com,Both,4,2,4.44,5.37,6.08,5.77,1.33
+Casual Dining,Google AI Overviews,reddit.com,Both,4,3,4.27,3.84,3.83,3.97,-0.30
+Casual Dining,Google AI Overviews,instagram.com,Top 10,4,4,3.04,3.42,3.02,2.80,-0.24
+Casual Dining,Google AI Overviews,youtube.com,Both,4,5,2.69,2.12,2.63,2.18,-0.51
+Casual Dining,Google AI Overviews,substack.com,Top 10,4,6,2.55,1.86,1.80,2.01,-0.54
+Casual Dining,Google AI Overviews,yelp.com,Top 10,4,7,1.94,1.70,1.57,1.70,-0.24
+Casual Dining,Google AI Overviews,yougov.com,Top 10,4,8,1.29,1.30,1.21,1.50,0.21
+Casual Dining,Google AI Overviews,cdawards.co.uk,Top 10,4,9,1.93,1.18,1.04,1.30,-0.63
+Casual Dining,Google AI Overviews,ubereats.com,Top 10,1,10,0.76,0.74,0.59,0.76,0.00
+Casual Dining,Google AI Overviews,timeout.com,Top 10,1,11,0.81,0.91,0.64,0.75,-0.06
+Casual Dining,Google AI Overviews,tripadvisor.com,Top 10,1,12,0.85,0.79,0.83,0.74,-0.11
+Casual Dining,Google AI Overviews,tripadvisor.co.uk,Top 10,1,13,1.02,0.69,0.78,0.68,-0.34
+Casual Dining,Google AI Overviews,linkedin.com,Pinned social,0,118,0.11,0.09,0.09,0.08,-0.03
+Casual Dining,Google Gemini,mindfulwrites.com,Top 10,4,1,4.60,2.62,3.53,6.49,1.89
+Casual Dining,Google Gemini,reddit.com,Both,4,2,1.44,1.36,1.19,3.33,1.89
+Casual Dining,Google Gemini,frugalfamily.co.uk,Top 10,4,3,1.53,0.97,1.22,3.09,1.56
+Casual Dining,Google Gemini,ubereats.com,Top 10,4,4,2.15,2.38,2.62,2.25,0.10
+Casual Dining,Google Gemini,timeout.com,Top 10,2,5,0.75,0.95,0.62,2.11,1.36
+Casual Dining,Google Gemini,mitvergnuegen.com,Top 10,2,6,0.80,0.70,1.06,1.73,0.93
+Casual Dining,Google Gemini,coolibri.de,Top 10,3,7,0.59,1.29,1.72,1.10,0.51
+Casual Dining,Google Gemini,lieferando.de,Top 10,3,8,0.96,0.87,1.06,1.08,0.12
+Casual Dining,Google Gemini,thinkmoney.co.uk,Top 10,1,9,0.69,0.81,0.80,0.92,0.23
+Casual Dining,Google Gemini,expensive.com.au,Top 10,1,10,0.51,0.33,0.46,0.78,0.27
+Casual Dining,Google Gemini,aviko.co.uk,Top 10,3,11,2.24,1.94,1.86,0.74,-1.50
+Casual Dining,Google Gemini,meetergo.com,Top 10,1,15,1.06,0.50,0.45,0.62,-0.44
+Casual Dining,Google Gemini,yougov.com,Top 10,2,16,1.10,1.23,0.66,0.59,-0.51
+Casual Dining,Google Gemini,babytraveluk.co.uk,Top 10,3,24,2.15,2.30,2.29,0.46,-1.69
+Casual Dining,Google Gemini,tastingtable.com,Top 10,1,25,1.02,0.56,0.50,0.46,-0.56
+Casual Dining,Google Gemini,propeller.co.uk,Top 10,2,27,0.96,0.89,0.90,0.43,-0.53
+Casual Dining,Google Gemini,youtube.com,Pinned social,0,131,0.16,0.10,0.09,0.11,-0.05
+Casual Dining,Google Gemini,facebook.com,Pinned social,0,,0.01,0.00,0.00,0.00,-0.01

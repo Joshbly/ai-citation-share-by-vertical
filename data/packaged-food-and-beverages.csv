@@ -1,0 +1,59 @@
+vertical,model_name,rootdomain,channel_group,weeks_in_top10,rank_week4,citation_share_week1_pct,citation_share_week2_pct,citation_share_week3_pct,citation_share_week4_pct,change_week1_to_week4_pts
+Packaged Food & Beverages,ChatGPT,bigbasket.com,Top 10,4,1,2.45,3.93,4.06,4.71,2.26
+Packaged Food & Beverages,ChatGPT,walmart.com,Top 10,4,2,8.55,4.89,3.32,4.10,-4.45
+Packaged Food & Beverages,ChatGPT,zepto.com,Top 10,4,3,3.01,3.59,3.26,4.10,1.09
+Packaged Food & Beverages,ChatGPT,unboxhealth.in,Top 10,4,4,1.87,3.29,3.26,3.23,1.36
+Packaged Food & Beverages,ChatGPT,consumerreports.org,Top 10,4,5,2.99,3.31,3.01,3.16,0.17
+Packaged Food & Beverages,ChatGPT,seriouseats.com,Top 10,4,6,2.55,2.21,2.63,2.63,0.08
+Packaged Food & Beverages,ChatGPT,foodnetwork.com,Top 10,4,7,1.98,2.12,2.38,2.61,0.63
+Packaged Food & Beverages,ChatGPT,thekitchn.com,Top 10,4,8,1.81,1.89,2.02,2.06,0.25
+Packaged Food & Beverages,ChatGPT,eatthis.com,Top 10,3,9,1.78,1.62,1.35,1.82,0.04
+Packaged Food & Beverages,ChatGPT,cleanplate.in,Top 10,3,10,1.39,2.40,2.40,1.80,0.41
+Packaged Food & Beverages,ChatGPT,goodhousekeeping.com,Top 10,1,16,1.08,1.11,1.49,1.17,0.09
+Packaged Food & Beverages,ChatGPT,target.com,Top 10,1,27,1.42,0.55,0.36,0.70,-0.72
+Packaged Food & Beverages,ChatGPT,reddit.com,Pinned social,0,138,0.28,0.17,0.29,0.13,-0.15
+Packaged Food & Beverages,ChatGPT,linkedin.com,Pinned social,0,328,0.01,0.02,0.02,0.04,0.03
+Packaged Food & Beverages,ChatGPT,youtube.com,Pinned social,0,390,0.01,0.06,0.04,0.04,0.03
+Packaged Food & Beverages,Google AI Mode,reddit.com,Both,4,1,6.13,4.71,6.56,6.08,-0.05
+Packaged Food & Beverages,Google AI Mode,amazon.in,Top 10,4,2,4.43,4.31,3.79,5.80,1.37
+Packaged Food & Beverages,Google AI Mode,youtube.com,Both,4,3,6.06,3.92,10.98,5.47,-0.59
+Packaged Food & Beverages,Google AI Mode,facebook.com,Both,4,4,2.55,2.40,4.63,3.29,0.74
+Packaged Food & Beverages,Google AI Mode,tastingtable.com,Top 10,4,5,4.07,3.97,2.98,3.21,-0.86
+Packaged Food & Beverages,Google AI Mode,sporked.com,Top 10,4,6,3.22,2.31,3.26,2.83,-0.39
+Packaged Food & Beverages,Google AI Mode,seriouseats.com,Top 10,4,7,4.36,3.70,2.38,2.46,-1.90
+Packaged Food & Beverages,Google AI Mode,allrecipes.com,Top 10,4,8,2.37,1.87,2.22,2.13,-0.24
+Packaged Food & Beverages,Google AI Mode,bigbasket.com,Top 10,1,9,0.78,0.74,0.86,2.12,1.34
+Packaged Food & Beverages,Google AI Mode,instagram.com,Top 10,2,10,1.24,1.44,2.79,1.77,0.53
+Packaged Food & Beverages,Google AI Mode,google.com,Top 10,2,12,10.98,15.21,1.55,1.50,-9.48
+Packaged Food & Beverages,Google AI Mode,thekitchn.com,Top 10,1,13,1.38,1.53,2.13,1.49,0.11
+Packaged Food & Beverages,Google AI Mode,nytimes.com,Top 10,2,17,3.29,3.49,1.00,1.03,-2.26
+Packaged Food & Beverages,Google AI Mode,linkedin.com,Pinned social,0,39,0.18,0.17,0.19,0.36,0.18
+Packaged Food & Beverages,Google AI Overviews,youtube.com,Both,4,1,11.39,11.67,11.55,11.38,-0.01
+Packaged Food & Beverages,Google AI Overviews,google.com,Top 10,4,2,4.18,8.41,6.75,9.88,5.70
+Packaged Food & Beverages,Google AI Overviews,reddit.com,Both,4,3,6.14,6.55,6.49,6.11,-0.03
+Packaged Food & Beverages,Google AI Overviews,facebook.com,Both,4,4,4.55,5.59,5.70,5.81,1.26
+Packaged Food & Beverages,Google AI Overviews,amazon.in,Top 10,4,5,3.26,3.38,3.12,3.60,0.34
+Packaged Food & Beverages,Google AI Overviews,sporked.com,Top 10,4,6,4.02,3.37,3.47,3.51,-0.51
+Packaged Food & Beverages,Google AI Overviews,tastingtable.com,Top 10,4,7,3.21,3.40,3.06,3.26,0.05
+Packaged Food & Beverages,Google AI Overviews,instagram.com,Top 10,4,8,2.45,2.81,2.82,2.33,-0.12
+Packaged Food & Beverages,Google AI Overviews,allrecipes.com,Top 10,3,9,2.11,2.37,2.14,2.28,0.17
+Packaged Food & Beverages,Google AI Overviews,seriouseats.com,Top 10,4,10,2.70,2.09,2.23,2.17,-0.53
+Packaged Food & Beverages,Google AI Overviews,thekitchn.com,Top 10,1,11,2.38,1.60,1.90,2.02,-0.36
+Packaged Food & Beverages,Google AI Overviews,linkedin.com,Pinned social,0,58,0.20,0.12,0.16,0.19,-0.01
+Packaged Food & Beverages,Google Gemini,flavorcatalyst.com,Top 10,4,1,5.94,5.08,4.67,4.69,-1.25
+Packaged Food & Beverages,Google Gemini,tastingtable.com,Top 10,4,2,2.49,2.45,2.50,4.12,1.63
+Packaged Food & Beverages,Google Gemini,sporked.com,Top 10,4,3,4.15,3.95,3.49,3.71,-0.44
+Packaged Food & Beverages,Google Gemini,smarterranking.com,Top 10,4,4,4.27,4.67,3.74,2.37,-1.90
+Packaged Food & Beverages,Google Gemini,reddit.com,Both,1,5,0.95,0.95,1.09,2.33,1.38
+Packaged Food & Beverages,Google Gemini,lbb.in,Top 10,1,6,1.05,0.70,0.58,2.28,1.23
+Packaged Food & Beverages,Google Gemini,youtube.com,Both,1,7,0.47,0.70,1.17,2.24,1.77
+Packaged Food & Beverages,Google Gemini,thedailymeal.com,Top 10,4,8,1.58,1.48,1.84,2.10,0.52
+Packaged Food & Beverages,Google Gemini,tradeindia.com,Top 10,3,9,1.01,1.43,2.11,1.91,0.90
+Packaged Food & Beverages,Google Gemini,ringly.io,Top 10,3,10,2.44,1.54,1.10,1.45,-0.99
+Packaged Food & Beverages,Google Gemini,foodnetwork.com,Top 10,1,11,1.53,1.11,0.25,1.34,-0.19
+Packaged Food & Beverages,Google Gemini,thekitchn.com,Top 10,3,12,2.14,2.20,1.79,1.34,-0.80
+Packaged Food & Beverages,Google Gemini,my-best.com,Top 10,1,15,1.11,0.91,1.28,0.93,-0.18
+Packaged Food & Beverages,Google Gemini,healthyornot.app,Top 10,1,20,0.34,0.77,1.32,0.78,0.44
+Packaged Food & Beverages,Google Gemini,cozymeal.com,Top 10,2,24,1.47,1.59,0.78,0.65,-0.82
+Packaged Food & Beverages,Google Gemini,restaurantindia.in,Top 10,3,37,2.36,2.00,1.92,0.51,-1.85
+Packaged Food & Beverages,Google Gemini,facebook.com,Pinned social,0,,0.05,0.00,0.00,0.00,-0.05

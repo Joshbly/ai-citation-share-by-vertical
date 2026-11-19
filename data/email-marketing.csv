@@ -1,0 +1,66 @@
+vertical,model_name,rootdomain,channel_group,weeks_in_top10,rank_week4,citation_share_week1_pct,citation_share_week2_pct,citation_share_week3_pct,citation_share_week4_pct,change_week1_to_week4_pts
+Email Marketing,ChatGPT,google.com,Top 10,4,1,9.31,8.96,8.62,10.11,0.80
+Email Marketing,ChatGPT,klaviyo.com,Top 10,4,2,8.22,8.39,9.80,9.09,0.87
+Email Marketing,ChatGPT,mailchimp.com,Top 10,4,3,6.96,6.04,5.66,5.88,-1.08
+Email Marketing,ChatGPT,hubspot.com,Top 10,4,4,4.10,4.04,3.93,4.75,0.65
+Email Marketing,ChatGPT,salesforce.com,Top 10,4,5,3.90,4.30,4.91,3.63,-0.27
+Email Marketing,ChatGPT,twilio.com,Top 10,2,6,2.02,2.20,2.58,3.07,1.05
+Email Marketing,ChatGPT,ftc.gov,Top 10,4,7,2.99,2.31,3.03,2.87,-0.12
+Email Marketing,ChatGPT,omnisend.com,Top 10,3,8,2.49,2.69,2.40,2.68,0.19
+Email Marketing,ChatGPT,amazon.com,Top 10,4,9,2.91,2.65,2.60,2.52,-0.39
+Email Marketing,ChatGPT,zapier.com,Top 10,3,10,2.97,2.65,2.31,2.34,-0.63
+Email Marketing,ChatGPT,brevo.com,Top 10,3,12,2.52,2.50,2.31,2.06,-0.46
+Email Marketing,ChatGPT,microsoft.com,Top 10,1,13,2.58,2.24,2.31,1.99,-0.59
+Email Marketing,ChatGPT,linkedin.com,Pinned social,0,129,0.07,0.13,0.20,0.09,0.02
+Email Marketing,ChatGPT,reddit.com,Pinned social,0,,0.26,0.06,0.00,0.00,-0.26
+Email Marketing,ChatGPT,youtube.com,Pinned social,0,,0.07,0.00,0.00,0.00,-0.07
+Email Marketing,Google AI Mode,youtube.com,Both,4,1,5.91,4.49,14.59,14.00,8.09
+Email Marketing,Google AI Mode,reddit.com,Both,4,2,3.40,2.37,4.33,4.78,1.38
+Email Marketing,Google AI Mode,klaviyo.com,Top 10,4,3,3.88,4.25,2.32,2.86,-1.02
+Email Marketing,Google AI Mode,linkedin.com,Both,2,4,1.00,0.73,2.90,2.53,1.53
+Email Marketing,Google AI Mode,facebook.com,Both,2,5,0.78,1.33,2.08,2.08,1.30
+Email Marketing,Google AI Mode,mailchimp.com,Top 10,4,6,3.18,3.88,2.17,2.00,-1.18
+Email Marketing,Google AI Mode,salesforce.com,Top 10,4,7,2.66,3.46,2.00,1.95,-0.71
+Email Marketing,Google AI Mode,hubspot.com,Top 10,3,8,1.59,1.94,1.79,1.81,0.22
+Email Marketing,Google AI Mode,litmus.com,Top 10,2,9,1.29,0.67,0.94,1.16,-0.13
+Email Marketing,Google AI Mode,campaignmonitor.com,Top 10,2,10,0.92,0.61,0.96,1.05,0.13
+Email Marketing,Google AI Mode,activecampaign.com,Top 10,1,13,1.55,1.52,0.78,0.79,-0.76
+Email Marketing,Google AI Mode,mailtester.com,Top 10,1,15,1.48,2.79,0.82,0.69,-0.79
+Email Marketing,Google AI Mode,omnisend.com,Top 10,2,16,1.99,2.00,0.77,0.69,-1.30
+Email Marketing,Google AI Mode,zapier.com,Top 10,2,17,2.07,2.49,0.55,0.68,-1.39
+Email Marketing,Google AI Mode,google.com,Top 10,1,21,1.37,2.00,0.65,0.62,-0.75
+Email Marketing,Google AI Mode,mailerlite.com,Top 10,2,22,1.51,2.43,0.60,0.61,-0.90
+Email Marketing,Google AI Overviews,youtube.com,Both,4,1,8.63,12.46,13.19,13.25,4.62
+Email Marketing,Google AI Overviews,reddit.com,Both,4,2,2.72,4.31,3.84,4.34,1.62
+Email Marketing,Google AI Overviews,linkedin.com,Both,4,3,2.25,2.79,2.66,2.65,0.40
+Email Marketing,Google AI Overviews,facebook.com,Both,4,4,1.41,1.51,2.40,2.48,1.07
+Email Marketing,Google AI Overviews,mailchimp.com,Top 10,4,5,2.43,2.27,2.22,2.31,-0.12
+Email Marketing,Google AI Overviews,klaviyo.com,Top 10,4,6,2.18,1.93,1.94,2.17,-0.01
+Email Marketing,Google AI Overviews,salesforce.com,Top 10,4,7,1.60,1.36,1.60,1.75,0.15
+Email Marketing,Google AI Overviews,hubspot.com,Top 10,4,8,1.66,1.48,1.72,1.50,-0.16
+Email Marketing,Google AI Overviews,quora.com,Top 10,2,9,0.44,0.93,1.04,1.05,0.61
+Email Marketing,Google AI Overviews,insiderone.com,Top 10,1,10,0.72,0.63,0.71,0.95,0.23
+Email Marketing,Google AI Overviews,campaignmonitor.com,Top 10,1,11,0.96,1.03,0.94,0.89,-0.07
+Email Marketing,Google AI Overviews,litmus.com,Top 10,1,12,1.16,0.82,1.01,0.89,-0.27
+Email Marketing,Google AI Overviews,activecampaign.com,Top 10,2,18,1.25,1.10,0.98,0.69,-0.56
+Email Marketing,Google AI Overviews,sequenzy.com,Top 10,1,26,1.25,0.37,0.65,0.48,-0.77
+Email Marketing,Google Gemini,klaviyo.com,Top 10,4,1,2.33,1.67,2.92,2.98,0.65
+Email Marketing,Google Gemini,ftc.gov,Top 10,4,2,1.99,1.97,2.62,2.24,0.25
+Email Marketing,Google Gemini,reddit.com,Both,1,3,0.68,0.58,0.13,2.00,1.32
+Email Marketing,Google Gemini,mailchimp.com,Top 10,3,4,1.93,1.60,0.99,1.92,-0.01
+Email Marketing,Google Gemini,sequenzy.com,Top 10,3,5,1.12,2.28,1.76,1.81,0.69
+Email Marketing,Google Gemini,omnisend.com,Top 10,1,6,0.87,1.19,1.03,1.65,0.78
+Email Marketing,Google Gemini,mailerlite.com,Top 10,4,7,2.36,2.35,1.46,1.61,-0.75
+Email Marketing,Google Gemini,mailtester.com,Top 10,4,8,1.34,1.56,1.20,1.53,0.19
+Email Marketing,Google Gemini,drip.com,Top 10,3,9,1.65,1.33,1.33,1.41,-0.24
+Email Marketing,Google Gemini,smtp2go.com,Top 10,1,10,1.24,1.16,0.77,1.37,0.13
+Email Marketing,Google Gemini,clearout.io,Top 10,1,13,0.31,1.39,0.69,1.10,0.79
+Email Marketing,Google Gemini,zapier.com,Top 10,3,17,1.34,1.70,1.50,1.06,-0.28
+Email Marketing,Google Gemini,mailforge.ai,Top 10,1,18,1.37,0.85,0.94,1.02,-0.35
+Email Marketing,Google Gemini,constantcontact.com,Top 10,1,20,1.46,1.12,1.03,0.94,-0.52
+Email Marketing,Google Gemini,customer.io,Top 10,1,26,1.21,0.75,1.20,0.78,-0.43
+Email Marketing,Google Gemini,misarmail.com,Top 10,1,31,0.28,1.26,1.80,0.67,0.39
+Email Marketing,Google Gemini,activecampaign.com,Top 10,2,39,1.40,1.56,0.52,0.55,-0.85
+Email Marketing,Google Gemini,mailercloud.com,Top 10,1,59,0.19,1.46,0.86,0.43,0.24
+Email Marketing,Google Gemini,youtube.com,Pinned social,0,235,0.00,0.00,0.04,0.12,0.12
+Email Marketing,Google Gemini,connectsafely.ai,Top 10,1,,0.00,0.00,1.16,0.00,0.00

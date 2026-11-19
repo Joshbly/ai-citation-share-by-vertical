@@ -1,0 +1,63 @@
+vertical,model_name,rootdomain,channel_group,weeks_in_top10,rank_week4,citation_share_week1_pct,citation_share_week2_pct,citation_share_week3_pct,citation_share_week4_pct,change_week1_to_week4_pts
+Hospitals,ChatGPT,nsw.gov.au,Top 10,4,1,3.08,3.37,3.44,3.17,0.09
+Hospitals,ChatGPT,safetyandquality.gov.au,Top 10,4,2,2.96,2.67,2.92,2.93,-0.03
+Hospitals,ChatGPT,has-sante.fr,Top 10,4,3,3.12,2.77,2.34,2.67,-0.45
+Hospitals,ChatGPT,beckershospitalreview.com,Top 10,4,4,2.39,2.46,2.66,2.52,0.13
+Hospitals,ChatGPT,google.com,Top 10,3,5,3.01,1.97,1.53,1.90,-1.11
+Hospitals,ChatGPT,health.gov.au,Top 10,4,6,2.03,1.99,1.75,1.87,-0.16
+Hospitals,ChatGPT,esante.gouv.fr,Top 10,4,7,1.65,1.86,1.94,1.84,0.19
+Hospitals,ChatGPT,cms.gov,Top 10,4,8,2.72,2.25,1.81,1.70,-1.02
+Hospitals,ChatGPT,vic.gov.au,Top 10,4,9,1.81,1.92,1.76,1.68,-0.13
+Hospitals,ChatGPT,nhs.uk,Top 10,4,10,2.03,1.82,1.61,1.63,-0.40
+Hospitals,ChatGPT,sante.gouv.fr,Top 10,1,11,1.34,1.55,1.66,1.33,-0.01
+Hospitals,ChatGPT,linkedin.com,Pinned social,0,564,0.01,0.00,0.02,0.03,0.02
+Hospitals,ChatGPT,reddit.com,Pinned social,0,,0.00,0.01,0.00,0.00,0.00
+Hospitals,Google AI Mode,google.com,Top 10,4,1,12.19,16.94,16.62,10.50,-1.69
+Hospitals,Google AI Mode,youtube.com,Both,2,2,0.46,0.50,3.11,2.57,2.11
+Hospitals,Google AI Mode,usnews.com,Top 10,4,3,4.91,5.51,2.70,2.41,-2.50
+Hospitals,Google AI Mode,facebook.com,Both,2,4,0.63,0.44,2.57,1.95,1.32
+Hospitals,Google AI Mode,newsweek.com,Top 10,3,5,1.27,0.91,1.68,1.90,0.63
+Hospitals,Google AI Mode,beckershospitalreview.com,Top 10,4,6,1.54,0.92,1.11,1.22,-0.32
+Hospitals,Google AI Mode,jamanetwork.com,Top 10,2,7,0.07,0.04,2.88,1.12,1.05
+Hospitals,Google AI Mode,nih.gov,Top 10,4,8,1.48,1.08,0.87,1.09,-0.39
+Hospitals,Google AI Mode,nsw.gov.au,Top 10,4,9,1.11,1.08,0.85,0.94,-0.17
+Hospitals,Google AI Mode,aihw.gov.au,Top 10,2,10,1.09,0.91,0.60,0.92,-0.17
+Hospitals,Google AI Mode,sante.fr,Top 10,1,12,0.78,0.98,0.55,0.74,-0.04
+Hospitals,Google AI Mode,sante.gouv.fr,Top 10,1,13,0.96,1.47,0.67,0.74,-0.22
+Hospitals,Google AI Mode,nhs.uk,Top 10,2,15,1.23,1.19,0.67,0.72,-0.51
+Hospitals,Google AI Mode,safetyandquality.gov.au,Top 10,2,17,1.20,1.16,0.65,0.71,-0.49
+Hospitals,Google AI Mode,has-sante.fr,Top 10,3,18,1.50,1.87,0.70,0.62,-0.88
+Hospitals,Google AI Mode,reddit.com,Pinned social,0,30,0.18,0.17,0.39,0.34,0.16
+Hospitals,Google AI Mode,linkedin.com,Pinned social,0,83,0.22,0.11,0.16,0.13,-0.09
+Hospitals,Google AI Overviews,youtube.com,Both,4,1,4.03,4.62,4.54,3.63,-0.40
+Hospitals,Google AI Overviews,facebook.com,Both,4,2,2.65,3.82,3.98,3.37,0.72
+Hospitals,Google AI Overviews,jamanetwork.com,Top 10,3,3,0.19,3.96,4.81,2.62,2.43
+Hospitals,Google AI Overviews,usnews.com,Top 10,4,4,3.41,2.21,2.04,1.96,-1.45
+Hospitals,Google AI Overviews,newsweek.com,Top 10,4,5,1.66,1.68,1.61,1.64,-0.02
+Hospitals,Google AI Overviews,google.com,Top 10,4,6,1.27,1.82,1.40,1.29,0.02
+Hospitals,Google AI Overviews,beckershospitalreview.com,Top 10,4,7,1.26,1.16,1.00,1.12,-0.14
+Hospitals,Google AI Overviews,nih.gov,Top 10,4,8,2.44,0.98,1.01,1.07,-1.37
+Hospitals,Google AI Overviews,nsw.gov.au,Top 10,4,9,1.33,1.00,0.91,0.99,-0.34
+Hospitals,Google AI Overviews,aihw.gov.au,Top 10,1,10,0.81,0.71,0.62,0.79,-0.02
+Hospitals,Google AI Overviews,vic.gov.au,Top 10,3,12,1.08,0.75,0.83,0.74,-0.34
+Hospitals,Google AI Overviews,nhs.uk,Top 10,1,16,0.92,0.59,0.70,0.69,-0.23
+Hospitals,Google AI Overviews,reddit.com,Pinned social,0,21,0.29,0.40,0.36,0.45,0.16
+Hospitals,Google AI Overviews,linkedin.com,Pinned social,0,77,0.12,0.18,0.17,0.14,0.02
+Hospitals,Google Gemini,has-sante.fr,Top 10,4,1,1.61,1.04,1.46,1.72,0.11
+Hospitals,Google Gemini,beckershospitalreview.com,Top 10,4,2,1.15,1.15,1.25,1.69,0.54
+Hospitals,Google Gemini,nsw.gov.au,Top 10,4,3,0.91,1.45,1.31,1.64,0.73
+Hospitals,Google Gemini,safetyandquality.gov.au,Top 10,1,4,0.35,0.44,0.54,1.22,0.87
+Hospitals,Google Gemini,newsweek.com,Top 10,4,5,1.57,1.48,1.37,1.03,-0.54
+Hospitals,Google Gemini,vic.gov.au,Top 10,3,6,0.86,0.66,0.72,0.97,0.11
+Hospitals,Google Gemini,sante.fr,Top 10,3,7,0.72,0.67,0.47,0.89,0.17
+Hospitals,Google Gemini,nhs.uk,Top 10,4,8,0.75,0.80,0.89,0.88,0.13
+Hospitals,Google Gemini,dgpalliativmedizin.de,Top 10,1,9,0.48,0.62,0.56,0.86,0.38
+Hospitals,Google Gemini,sante.gouv.fr,Top 10,1,10,0.39,0.42,0.54,0.78,0.39
+Hospitals,Google Gemini,aphp.fr,Top 10,2,12,0.88,0.73,0.52,0.74,-0.14
+Hospitals,Google Gemini,whatsupdoc-lemag.fr,Top 10,3,14,0.85,0.84,0.72,0.69,-0.16
+Hospitals,Google Gemini,advisory.com,Top 10,1,24,0.58,0.64,0.67,0.47,-0.11
+Hospitals,Google Gemini,medcentral.com,Top 10,2,25,0.47,0.78,0.70,0.47,0.00
+Hospitals,Google Gemini,statista.com,Top 10,3,41,0.67,0.70,0.68,0.36,-0.31
+Hospitals,Google Gemini,reddit.com,Pinned social,0,97,0.22,0.10,0.15,0.17,-0.05
+Hospitals,Google Gemini,youtube.com,Pinned social,0,558,0.06,0.05,0.05,0.04,-0.02
+Hospitals,Google Gemini,facebook.com,Pinned social,0,,0.01,0.00,0.00,0.00,-0.01

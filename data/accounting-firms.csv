@@ -1,0 +1,65 @@
+vertical,model_name,rootdomain,channel_group,weeks_in_top10,rank_week4,citation_share_week1_pct,citation_share_week2_pct,citation_share_week3_pct,citation_share_week4_pct,change_week1_to_week4_pts
+Accounting Firms,ChatGPT,irs.gov,Top 10,4,1,3.27,3.59,3.28,4.07,0.80
+Accounting Firms,ChatGPT,chambers.com,Top 10,4,2,3.07,2.82,3.15,3.29,0.22
+Accounting Firms,ChatGPT,bakertilly.com,Top 10,4,3,1.55,1.90,2.06,2.33,0.78
+Accounting Firms,ChatGPT,burklandassociates.com,Top 10,4,4,2.74,2.17,2.34,2.26,-0.48
+Accounting Firms,ChatGPT,forvismazars.us,Top 10,4,5,2.02,1.63,1.69,1.47,-0.55
+Accounting Firms,ChatGPT,kpmg.com,Top 10,4,6,1.83,1.54,1.47,1.47,-0.36
+Accounting Firms,ChatGPT,kruzeconsulting.com,Top 10,3,7,1.39,1.36,1.22,1.47,0.08
+Accounting Firms,ChatGPT,pcaobus.org,Top 10,2,8,1.30,1.01,1.47,1.47,0.17
+Accounting Firms,ChatGPT,deloitte.com,Top 10,4,9,2.13,1.28,1.81,1.40,-0.73
+Accounting Firms,ChatGPT,rsmus.com,Top 10,3,10,0.94,2.28,2.15,1.34,0.40
+Accounting Firms,ChatGPT,crowe.com,Top 10,2,12,0.86,1.10,1.37,1.06,0.20
+Accounting Firms,ChatGPT,pwc.com,Top 10,1,20,1.39,0.65,0.94,0.79,-0.60
+Accounting Firms,ChatGPT,linkedin.com,Pinned social,0,122,0.03,0.06,0.19,0.17,0.14
+Accounting Firms,ChatGPT,vault.com,Top 10,1,222,1.39,1.04,0.53,0.10,-1.29
+Accounting Firms,ChatGPT,reddit.com,Pinned social,0,,0.00,0.00,0.06,0.00,0.00
+Accounting Firms,Google AI Mode,youtube.com,Both,3,1,1.34,0.50,9.37,6.41,5.07
+Accounting Firms,Google AI Mode,bakertilly.com,Top 10,4,2,4.21,4.84,4.03,4.28,0.07
+Accounting Firms,Google AI Mode,linkedin.com,Both,3,3,1.62,1.07,2.15,2.73,1.11
+Accounting Firms,Google AI Mode,reddit.com,Both,3,4,1.30,1.49,2.34,2.61,1.31
+Accounting Firms,Google AI Mode,revenuebase.ai,Top 10,4,5,3.05,6.54,2.63,1.94,-1.11
+Accounting Firms,Google AI Mode,eisneramper.com,Top 10,4,6,1.48,2.20,1.60,1.77,0.29
+Accounting Firms,Google AI Mode,cohnreznick.com,Top 10,3,7,1.71,1.35,1.75,1.64,-0.07
+Accounting Firms,Google AI Mode,institutionhq.com,Top 10,4,8,1.99,3.34,1.51,1.36,-0.63
+Accounting Firms,Google AI Mode,burklandassociates.com,Top 10,3,9,1.06,1.35,1.38,1.24,0.18
+Accounting Firms,Google AI Mode,cbh.com,Top 10,1,10,1.02,0.85,0.96,1.20,0.18
+Accounting Firms,Google AI Mode,vault.com,Top 10,3,11,1.90,2.35,1.23,1.15,-0.75
+Accounting Firms,Google AI Mode,facebook.com,Pinned social,0,12,0.51,0.36,0.63,1.09,0.58
+Accounting Firms,Google AI Mode,chambers.com,Top 10,1,25,1.02,1.35,0.53,0.50,-0.52
+Accounting Firms,Google AI Mode,kruzeconsulting.com,Top 10,2,30,2.41,2.35,0.63,0.47,-1.94
+Accounting Firms,Google AI Mode,aoneoutsourcing.com,Top 10,1,41,1.48,0.57,0.57,0.37,-1.11
+Accounting Firms,Google AI Mode,flevy.com,Top 10,1,54,0.83,1.42,0.63,0.30,-0.53
+Accounting Firms,Google AI Overviews,youtube.com,Both,4,1,5.72,8.68,8.91,8.63,2.91
+Accounting Firms,Google AI Overviews,bakertilly.com,Top 10,4,2,3.16,2.95,2.54,2.92,-0.24
+Accounting Firms,Google AI Overviews,revenuebase.ai,Top 10,4,3,1.54,2.64,2.08,2.68,1.14
+Accounting Firms,Google AI Overviews,reddit.com,Both,4,4,1.78,2.43,2.11,2.62,0.84
+Accounting Firms,Google AI Overviews,linkedin.com,Both,4,5,1.62,1.87,1.74,1.75,0.13
+Accounting Firms,Google AI Overviews,vault.com,Top 10,3,6,0.70,1.12,1.49,1.41,0.71
+Accounting Firms,Google AI Overviews,institutionhq.com,Top 10,4,7,1.25,1.43,1.35,1.28,0.03
+Accounting Firms,Google AI Overviews,ie.edu,Top 10,3,8,0.72,1.04,1.14,1.21,0.49
+Accounting Firms,Google AI Overviews,clutch.co,Top 10,1,9,0.64,0.81,1.08,1.19,0.55
+Accounting Firms,Google AI Overviews,cohnreznick.com,Top 10,4,10,1.33,1.33,1.10,1.19,-0.14
+Accounting Firms,Google AI Overviews,facebook.com,Pinned social,0,11,0.66,0.83,1.01,1.17,0.51
+Accounting Firms,Google AI Overviews,eisneramper.com,Top 10,3,12,1.09,1.10,1.14,1.10,0.01
+Accounting Firms,Google AI Overviews,cbh.com,Top 10,1,17,0.88,0.91,0.66,0.69,-0.19
+Accounting Firms,Google AI Overviews,kruzeconsulting.com,Top 10,1,27,1.33,0.69,0.73,0.50,-0.83
+Accounting Firms,Google Gemini,revenuebase.ai,Top 10,1,1,0.50,0.10,0.43,4.14,3.64
+Accounting Firms,Google Gemini,anomalycpa.com,Top 10,4,2,7.80,7.39,7.08,3.41,-4.39
+Accounting Firms,Google Gemini,institutionhq.com,Top 10,1,3,0.31,0.13,0.18,2.61,2.30
+Accounting Firms,Google Gemini,bakertilly.com,Top 10,4,4,4.20,4.51,6.11,2.57,-1.63
+Accounting Firms,Google Gemini,burklandassociates.com,Top 10,1,5,1.12,1.21,0.86,2.45,1.33
+Accounting Firms,Google Gemini,flevy.com,Top 10,4,6,2.24,2.26,2.26,2.07,-0.17
+Accounting Firms,Google Gemini,servicestechreview.com,Top 10,2,7,1.74,0.56,0.90,1.88,0.14
+Accounting Firms,Google Gemini,aoneoutsourcing.com,Top 10,4,8,2.92,3.47,2.87,1.76,-1.16
+Accounting Firms,Google Gemini,makeaccountinggreatagain.com.au,Top 10,1,9,0.25,1.08,0.57,1.38,1.13
+Accounting Firms,Google Gemini,srgaglobal.com,Top 10,1,10,0.19,0.33,0.04,1.38,1.19
+Accounting Firms,Google Gemini,cohnreznick.com,Top 10,3,11,2.05,2.26,2.26,1.30,-0.75
+Accounting Firms,Google Gemini,gsquaredcfo.com,Top 10,3,16,2.30,2.52,1.94,1.03,-1.27
+Accounting Firms,Google Gemini,vault.com,Top 10,2,19,1.03,1.47,1.08,0.96,-0.07
+Accounting Firms,Google Gemini,eisneramper.com,Top 10,1,20,1.27,1.57,0.93,0.92,-0.35
+Accounting Firms,Google Gemini,acecloudhosting.com,Top 10,3,21,2.21,1.60,1.83,0.88,-1.33
+Accounting Firms,Google Gemini,reddit.com,Pinned social,0,23,0.87,0.85,0.61,0.88,0.01
+Accounting Firms,Google Gemini,litriviscpa.com,Top 10,3,31,1.74,1.50,1.65,0.65,-1.09
+Accounting Firms,Google Gemini,big4events.com,Top 10,2,54,1.83,1.18,1.80,0.42,-1.41
+Accounting Firms,Google Gemini,youtube.com,Pinned social,0,465,0.09,0.13,0.07,0.04,-0.05

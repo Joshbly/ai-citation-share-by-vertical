@@ -1,0 +1,59 @@
+vertical,model_name,rootdomain,channel_group,weeks_in_top10,rank_week4,citation_share_week1_pct,citation_share_week2_pct,citation_share_week3_pct,citation_share_week4_pct,change_week1_to_week4_pts
+Auto Insurance,ChatGPT,finanztip.de,Top 10,4,1,3.34,3.42,3.83,4.14,0.80
+Auto Insurance,ChatGPT,adac.de,Top 10,4,2,3.60,3.64,3.59,3.35,-0.25
+Auto Insurance,ChatGPT,sonpo.or.jp,Top 10,4,3,3.31,2.93,2.96,3.12,-0.19
+Auto Insurance,ChatGPT,naic.org,Top 10,4,4,3.29,2.73,2.67,3.07,-0.22
+Auto Insurance,ChatGPT,moneysmart.gov.au,Top 10,4,5,3.90,3.57,3.50,2.97,-0.93
+Auto Insurance,ChatGPT,canstar.com.au,Top 10,4,6,2.54,2.65,2.68,2.93,0.39
+Auto Insurance,ChatGPT,service-public.gouv.fr,Top 10,4,7,3.41,3.28,3.15,2.85,-0.56
+Auto Insurance,ChatGPT,finder.com.au,Top 10,4,8,2.05,2.30,2.14,2.24,0.19
+Auto Insurance,ChatGPT,choice.com.au,Top 10,4,9,2.04,2.19,1.92,2.20,0.16
+Auto Insurance,ChatGPT,racv.com.au,Top 10,1,10,1.34,1.33,1.52,1.54,0.20
+Auto Insurance,ChatGPT,verbraucherzentrale.de,Top 10,3,14,2.41,1.98,1.59,1.11,-1.30
+Auto Insurance,ChatGPT,linkedin.com,Pinned social,0,,0.01,0.00,0.00,0.00,-0.01
+Auto Insurance,ChatGPT,reddit.com,Pinned social,0,,0.00,0.00,0.00,0.00,0.00
+Auto Insurance,Google AI Mode,youtube.com,Both,2,1,0.68,0.49,5.52,4.85,4.17
+Auto Insurance,Google AI Mode,reddit.com,Both,4,2,2.06,1.95,2.31,2.21,0.15
+Auto Insurance,Google AI Mode,canstar.com.au,Top 10,4,3,2.78,2.30,2.18,2.10,-0.68
+Auto Insurance,Google AI Mode,facebook.com,Both,2,4,0.42,0.24,2.38,2.01,1.59
+Auto Insurance,Google AI Mode,adac.de,Top 10,4,5,2.43,2.70,1.62,1.70,-0.73
+Auto Insurance,Google AI Mode,finanztip.de,Top 10,4,6,2.21,2.89,1.31,1.50,-0.71
+Auto Insurance,Google AI Mode,progressive.com,Top 10,4,7,1.88,1.91,1.69,1.45,-0.43
+Auto Insurance,Google AI Mode,verivox.de,Top 10,4,8,1.71,1.91,1.27,1.41,-0.30
+Auto Insurance,Google AI Mode,allianz.com.au,Top 10,2,9,1.42,1.06,1.21,1.32,-0.10
+Auto Insurance,Google AI Mode,finder.com.au,Top 10,1,10,1.09,1.00,1.25,1.30,0.21
+Auto Insurance,Google AI Mode,aami.com.au,Top 10,1,13,1.03,0.92,1.29,1.25,0.22
+Auto Insurance,Google AI Mode,insweb.co.jp,Top 10,2,14,1.84,2.10,1.06,1.16,-0.68
+Auto Insurance,Google AI Mode,comparethemarket.com.au,Top 10,3,15,1.74,1.54,1.36,1.12,-0.62
+Auto Insurance,Google AI Mode,kakaku.com,Top 10,1,18,1.34,1.68,0.98,1.00,-0.34
+Auto Insurance,Google AI Mode,huk.de,Top 10,1,20,1.43,1.44,1.05,0.93,-0.50
+Auto Insurance,Google AI Mode,check24.de,Top 10,1,21,1.41,1.61,1.00,0.91,-0.50
+Auto Insurance,Google AI Mode,linkedin.com,Pinned social,0,482,0.01,0.02,0.01,0.02,0.01
+Auto Insurance,Google AI Overviews,youtube.com,Both,4,1,4.23,5.48,5.79,5.43,1.20
+Auto Insurance,Google AI Overviews,facebook.com,Both,4,2,2.34,3.99,4.24,4.02,1.68
+Auto Insurance,Google AI Overviews,reddit.com,Both,4,3,2.17,2.65,2.84,2.66,0.49
+Auto Insurance,Google AI Overviews,canstar.com.au,Top 10,4,4,2.46,2.07,1.86,2.00,-0.46
+Auto Insurance,Google AI Overviews,progressive.com,Top 10,4,5,1.76,1.47,1.68,1.52,-0.24
+Auto Insurance,Google AI Overviews,adac.de,Top 10,4,6,1.50,1.15,1.23,1.51,0.01
+Auto Insurance,Google AI Overviews,allianz.com.au,Top 10,4,7,1.58,1.21,1.26,1.32,-0.26
+Auto Insurance,Google AI Overviews,budgetdirect.com.au,Top 10,4,8,1.52,1.13,1.13,1.29,-0.23
+Auto Insurance,Google AI Overviews,comparethemarket.com.au,Top 10,4,9,1.40,1.26,1.30,1.27,-0.13
+Auto Insurance,Google AI Overviews,verivox.de,Top 10,2,10,1.00,1.08,1.21,1.20,0.20
+Auto Insurance,Google AI Overviews,insweb.co.jp,Top 10,2,12,1.37,1.15,1.05,1.17,-0.20
+Auto Insurance,Google AI Overviews,linkedin.com,Pinned social,0,550,0.02,0.01,0.03,0.02,0.00
+Auto Insurance,Google Gemini,adac.de,Top 10,4,1,2.35,2.22,2.43,3.93,1.58
+Auto Insurance,Google Gemini,finanztip.de,Top 10,4,2,1.88,1.82,1.81,2.89,1.01
+Auto Insurance,Google Gemini,verivox.de,Top 10,4,3,3.11,2.97,3.16,2.69,-0.42
+Auto Insurance,Google Gemini,mozo.com.au,Top 10,4,4,2.26,2.45,2.67,2.64,0.38
+Auto Insurance,Google Gemini,check24.de,Top 10,4,5,2.10,1.81,1.78,1.96,-0.14
+Auto Insurance,Google Gemini,allianz.com.au,Top 10,4,6,1.32,1.34,1.36,1.44,0.12
+Auto Insurance,Google Gemini,lelynx.fr,Top 10,4,7,1.51,1.46,1.31,1.41,-0.10
+Auto Insurance,Google Gemini,canstar.com.au,Top 10,1,8,0.90,0.88,0.93,1.38,0.48
+Auto Insurance,Google Gemini,allianz.de,Top 10,4,9,1.87,1.72,1.92,1.25,-0.62
+Auto Insurance,Google Gemini,youi.com.au,Top 10,1,10,0.94,0.97,0.94,1.21,0.27
+Auto Insurance,Google Gemini,budgetdirect.com.au,Top 10,2,16,1.05,1.33,1.28,0.99,-0.06
+Auto Insurance,Google Gemini,finder.com.au,Top 10,2,20,1.32,1.27,1.21,0.79,-0.53
+Auto Insurance,Google Gemini,reddit.com,Pinned social,0,26,0.57,0.43,0.35,0.72,0.15
+Auto Insurance,Google Gemini,tarifcheck.de,Top 10,2,27,1.10,1.21,1.30,0.72,-0.38
+Auto Insurance,Google Gemini,youtube.com,Pinned social,0,1280,0.03,0.01,0.03,0.01,-0.02
+Auto Insurance,Google Gemini,facebook.com,Pinned social,0,,0.01,0.00,0.00,0.00,-0.01

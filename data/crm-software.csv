@@ -1,0 +1,62 @@
+vertical,model_name,rootdomain,channel_group,weeks_in_top10,rank_week4,citation_share_week1_pct,citation_share_week2_pct,citation_share_week3_pct,citation_share_week4_pct,change_week1_to_week4_pts
+CRM Software,ChatGPT,salesforce.com,Top 10,4,1,27.13,24.89,23.36,22.64,-4.49
+CRM Software,ChatGPT,hubspot.com,Top 10,4,2,14.76,14.89,16.04,18.28,3.52
+CRM Software,ChatGPT,microsoft.com,Top 10,4,3,8.56,8.10,6.36,6.35,-2.21
+CRM Software,ChatGPT,gartner.com,Top 10,4,4,3.05,3.55,3.01,2.51,-0.54
+CRM Software,ChatGPT,nist.gov,Top 10,4,5,1.87,1.51,1.86,1.86,-0.01
+CRM Software,ChatGPT,ftc.gov,Top 10,4,6,1.92,1.91,1.65,1.61,-0.31
+CRM Software,ChatGPT,cio.com,Top 10,4,7,1.23,1.22,1.48,1.57,0.34
+CRM Software,ChatGPT,hhs.gov,Top 10,3,8,0.83,1.01,1.21,1.12,0.29
+CRM Software,ChatGPT,capterra.com,Top 10,2,9,0.69,0.68,1.11,1.08,0.39
+CRM Software,ChatGPT,ibm.com,Top 10,1,10,0.65,0.71,0.96,1.02,0.37
+CRM Software,ChatGPT,forrester.com,Top 10,3,12,1.55,1.70,1.61,1.00,-0.55
+CRM Software,ChatGPT,zoho.com,Top 10,2,19,1.18,1.29,0.94,0.65,-0.53
+CRM Software,ChatGPT,cisa.gov,Top 10,1,30,1.32,0.33,0.21,0.45,-0.87
+CRM Software,ChatGPT,linkedin.com,Pinned social,0,,0.00,0.02,0.04,0.00,0.00
+CRM Software,ChatGPT,reddit.com,Pinned social,0,,0.00,0.00,0.02,0.00,0.00
+CRM Software,ChatGPT,youtube.com,Pinned social,0,,0.02,0.00,0.00,0.00,-0.02
+CRM Software,Google AI Mode,youtube.com,Both,4,1,8.21,6.65,22.38,22.85,14.64
+CRM Software,Google AI Mode,reddit.com,Both,4,2,3.31,5.70,5.55,5.63,2.32
+CRM Software,Google AI Mode,linkedin.com,Both,4,3,2.70,2.91,3.97,3.83,1.13
+CRM Software,Google AI Mode,salesforce.com,Top 10,4,4,5.90,6.96,3.22,3.08,-2.82
+CRM Software,Google AI Mode,facebook.com,Both,4,5,1.46,1.58,1.63,1.87,0.41
+CRM Software,Google AI Mode,quora.com,Top 10,2,6,0.21,0.25,1.07,1.24,1.03
+CRM Software,Google AI Mode,microsoft.com,Top 10,2,7,0.71,0.70,0.73,0.85,0.14
+CRM Software,Google AI Mode,nutshell.com,Top 10,4,8,1.49,1.27,0.90,0.76,-0.73
+CRM Software,Google AI Mode,pipedrive.com,Top 10,1,9,0.78,0.51,0.37,0.73,-0.05
+CRM Software,Google AI Mode,monday.com,Top 10,4,10,1.28,1.14,0.83,0.71,-0.57
+CRM Software,Google AI Mode,hubspot.com,Top 10,1,11,1.17,0.82,0.58,0.69,-0.48
+CRM Software,Google AI Mode,claritysoft.com,Top 10,1,26,0.75,1.20,0.23,0.36,-0.39
+CRM Software,Google AI Mode,cio.com,Top 10,2,34,1.14,1.46,0.44,0.32,-0.82
+CRM Software,Google AI Mode,creatio.com,Top 10,3,49,1.71,1.14,0.61,0.24,-1.47
+CRM Software,Google AI Overviews,youtube.com,Both,4,1,14.79,17.98,18.15,18.08,3.29
+CRM Software,Google AI Overviews,reddit.com,Both,4,2,3.12,4.45,4.40,4.41,1.29
+CRM Software,Google AI Overviews,linkedin.com,Both,4,3,3.65,4.03,3.57,4.31,0.66
+CRM Software,Google AI Overviews,salesforce.com,Top 10,4,4,4.00,2.90,3.26,3.14,-0.86
+CRM Software,Google AI Overviews,quora.com,Top 10,4,5,1.29,2.27,2.21,2.39,1.10
+CRM Software,Google AI Overviews,facebook.com,Both,4,6,1.44,1.35,1.74,1.80,0.36
+CRM Software,Google AI Overviews,nutshell.com,Top 10,4,7,1.01,1.06,1.09,1.05,0.04
+CRM Software,Google AI Overviews,monday.com,Top 10,4,8,1.27,0.93,0.97,0.85,-0.42
+CRM Software,Google AI Overviews,zendesk.com,Top 10,1,9,0.65,0.60,0.52,0.70,0.05
+CRM Software,Google AI Overviews,jetpackcrm.com,Top 10,1,10,0.79,0.49,0.42,0.66,-0.13
+CRM Software,Google AI Overviews,pipedrive.com,Top 10,1,13,1.12,0.43,0.62,0.60,-0.52
+CRM Software,Google AI Overviews,insightly.com,Top 10,2,14,0.83,0.77,0.72,0.53,-0.30
+CRM Software,Google AI Overviews,creatio.com,Top 10,3,28,1.15,0.77,0.68,0.34,-0.81
+CRM Software,Google Gemini,hubspot.com,Top 10,4,1,3.86,4.70,4.54,4.01,0.15
+CRM Software,Google Gemini,vantagepoint.io,Top 10,4,2,2.59,2.78,2.95,3.15,0.56
+CRM Software,Google Gemini,cio.com,Top 10,2,3,1.66,0.02,0.00,3.04,1.38
+CRM Software,Google Gemini,reddit.com,Both,2,4,1.55,0.58,0.54,2.26,0.71
+CRM Software,Google Gemini,salesforce.com,Top 10,2,5,0.86,0.90,1.29,2.26,1.40
+CRM Software,Google Gemini,creatio.com,Top 10,4,6,3.71,3.93,3.79,2.13,-1.58
+CRM Software,Google Gemini,monday.com,Top 10,4,7,1.91,1.39,1.26,1.68,-0.23
+CRM Software,Google Gemini,alphabold.com,Top 10,4,8,1.64,1.22,1.34,1.38,-0.26
+CRM Software,Google Gemini,cdp.com,Top 10,1,9,0.86,0.99,0.63,1.36,0.50
+CRM Software,Google Gemini,maximizer.com,Top 10,1,10,1.36,0.83,1.08,1.34,-0.02
+CRM Software,Google Gemini,pipedrive.com,Top 10,2,11,1.47,1.36,0.89,1.34,-0.13
+CRM Software,Google Gemini,nethunt.com,Top 10,3,14,1.97,2.85,2.69,1.21,-0.76
+CRM Software,Google Gemini,cynoteck.com,Top 10,2,16,0.62,1.80,1.69,1.08,0.46
+CRM Software,Google Gemini,claritysoft.com,Top 10,1,35,0.67,1.34,0.73,0.58,-0.09
+CRM Software,Google Gemini,vedain.com,Top 10,1,38,0.90,1.16,1.22,0.56,-0.34
+CRM Software,Google Gemini,capterra.com,Top 10,3,49,1.43,1.81,1.26,0.43,-1.00
+CRM Software,Google Gemini,youtube.com,Pinned social,0,626,0.00,0.09,0.00,0.02,0.02
+CRM Software,Google Gemini,facebook.com,Pinned social,0,,0.03,0.00,0.00,0.00,-0.03

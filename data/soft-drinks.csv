@@ -1,0 +1,63 @@
+vertical,model_name,rootdomain,channel_group,weeks_in_top10,rank_week4,citation_share_week1_pct,citation_share_week2_pct,citation_share_week3_pct,citation_share_week4_pct,change_week1_to_week4_pts
+Soft Drinks,ChatGPT,nih.gov,Top 10,4,1,3.63,4.42,4.75,4.83,1.20
+Soft Drinks,ChatGPT,carrefour.fr,Top 10,4,2,3.27,2.36,2.16,2.53,-0.74
+Soft Drinks,ChatGPT,nhs.uk,Top 10,4,3,3.05,2.62,2.61,2.30,-0.75
+Soft Drinks,ChatGPT,coca-cola.com,Top 10,4,4,3.37,2.53,2.53,2.26,-1.11
+Soft Drinks,ChatGPT,woolworths.com.au,Top 10,4,5,2.12,1.55,1.84,2.17,0.05
+Soft Drinks,ChatGPT,cdc.gov,Top 10,4,6,1.89,2.06,1.99,1.98,0.09
+Soft Drinks,ChatGPT,fda.gov,Top 10,4,7,1.91,2.07,1.92,1.96,0.05
+Soft Drinks,ChatGPT,coles.com.au,Top 10,4,8,2.32,1.84,1.80,1.84,-0.48
+Soft Drinks,ChatGPT,europa.eu,Top 10,4,9,1.44,1.82,1.85,1.68,0.24
+Soft Drinks,ChatGPT,sainsburys.co.uk,Top 10,1,10,1.16,1.10,0.83,1.50,0.34
+Soft Drinks,ChatGPT,who.int,Top 10,1,11,0.96,1.30,1.50,1.38,0.42
+Soft Drinks,ChatGPT,ameli.fr,Top 10,1,12,1.23,1.39,1.30,1.25,0.02
+Soft Drinks,ChatGPT,rewe.de,Top 10,1,13,1.42,1.08,1.01,1.18,-0.24
+Soft Drinks,ChatGPT,linkedin.com,Pinned social,0,522,0.04,0.04,0.03,0.03,-0.01
+Soft Drinks,ChatGPT,reddit.com,Pinned social,0,,0.07,0.00,0.01,0.00,-0.07
+Soft Drinks,Google AI Mode,facebook.com,Both,4,1,2.02,1.40,4.46,3.83,1.81
+Soft Drinks,Google AI Mode,google.com,Top 10,4,2,6.39,6.17,6.13,3.51,-2.88
+Soft Drinks,Google AI Mode,youtube.com,Both,4,3,1.76,1.03,3.98,2.99,1.23
+Soft Drinks,Google AI Mode,reddit.com,Both,4,4,2.61,2.36,2.56,2.45,-0.16
+Soft Drinks,Google AI Mode,instagram.com,Top 10,2,5,0.70,0.56,2.21,1.83,1.13
+Soft Drinks,Google AI Mode,carrefour.fr,Top 10,4,6,2.78,3.43,1.58,1.68,-1.10
+Soft Drinks,Google AI Mode,nih.gov,Top 10,4,7,1.80,1.80,1.07,1.30,-0.50
+Soft Drinks,Google AI Mode,woolworths.com.au,Top 10,3,8,1.63,1.26,0.79,1.19,-0.44
+Soft Drinks,Google AI Mode,coca-cola.com,Top 10,4,9,1.38,1.73,0.96,1.06,-0.32
+Soft Drinks,Google AI Mode,healthline.com,Top 10,3,10,1.08,0.85,1.13,1.00,-0.08
+Soft Drinks,Google AI Mode,joybuy.fr,Top 10,1,11,0.67,0.85,0.84,0.94,0.27
+Soft Drinks,Google AI Mode,decathlon.fr,Top 10,2,18,0.98,1.12,0.58,0.55,-0.43
+Soft Drinks,Google AI Mode,openfoodfacts.org,Top 10,1,23,0.84,1.19,0.44,0.40,-0.44
+Soft Drinks,Google AI Mode,linkedin.com,Pinned social,0,188,0.09,0.12,0.10,0.07,-0.02
+Soft Drinks,Google AI Overviews,facebook.com,Both,4,1,7.81,8.03,8.62,7.48,-0.33
+Soft Drinks,Google AI Overviews,google.com,Top 10,4,2,2.98,5.80,5.00,5.80,2.82
+Soft Drinks,Google AI Overviews,youtube.com,Both,4,3,5.67,5.37,5.67,4.65,-1.02
+Soft Drinks,Google AI Overviews,reddit.com,Both,4,4,3.50,3.45,3.54,3.25,-0.25
+Soft Drinks,Google AI Overviews,instagram.com,Top 10,4,5,3.20,3.10,3.20,2.40,-0.80
+Soft Drinks,Google AI Overviews,coca-cola.com,Top 10,4,6,1.03,0.90,0.93,1.17,0.14
+Soft Drinks,Google AI Overviews,carrefour.fr,Top 10,3,7,0.98,0.81,0.73,1.16,0.18
+Soft Drinks,Google AI Overviews,joybuy.fr,Top 10,4,8,0.93,1.68,1.55,1.14,0.21
+Soft Drinks,Google AI Overviews,nih.gov,Top 10,3,9,0.99,0.76,0.75,0.94,-0.05
+Soft Drinks,Google AI Overviews,healthline.com,Top 10,4,10,1.15,0.79,0.79,0.89,-0.26
+Soft Drinks,Google AI Overviews,jamanetwork.com,Top 10,2,11,0.04,0.98,1.39,0.67,0.63
+Soft Drinks,Google AI Overviews,linkedin.com,Pinned social,0,115,0.12,0.15,0.11,0.10,-0.02
+Soft Drinks,Google Gemini,reddit.com,Both,3,1,1.07,1.30,0.87,2.25,1.18
+Soft Drinks,Google Gemini,woolworths.com.au,Top 10,4,2,1.51,1.46,1.39,1.42,-0.09
+Soft Drinks,Google Gemini,carrefour.fr,Top 10,4,3,1.04,0.95,1.23,1.36,0.32
+Soft Drinks,Google Gemini,houra.fr,Top 10,1,4,0.58,0.68,0.80,1.18,0.60
+Soft Drinks,Google Gemini,rewe.de,Top 10,1,5,0.96,0.91,0.68,1.15,0.19
+Soft Drinks,Google Gemini,sodastream.fr,Top 10,1,6,0.72,0.45,0.56,1.15,0.43
+Soft Drinks,Google Gemini,dosenmatrosen.de,Top 10,1,7,0.50,0.27,0.48,1.13,0.63
+Soft Drinks,Google Gemini,healthline.com,Top 10,4,8,1.02,1.01,1.09,1.12,0.10
+Soft Drinks,Google Gemini,supermarchesmatch.fr,Top 10,4,9,1.26,1.30,0.96,1.10,-0.16
+Soft Drinks,Google Gemini,joybuy.fr,Top 10,1,10,0.84,0.71,0.62,1.05,0.21
+Soft Drinks,Google Gemini,coca-cola.com,Top 10,2,11,0.67,0.99,1.02,1.02,0.35
+Soft Drinks,Google Gemini,lefourgon.com,Top 10,2,13,0.81,1.06,1.27,0.92,0.11
+Soft Drinks,Google Gemini,coles.com.au,Top 10,3,14,1.30,1.20,1.26,0.87,-0.43
+Soft Drinks,Google Gemini,e.leclerc,Top 10,1,15,1.00,0.89,0.88,0.86,-0.14
+Soft Drinks,Google Gemini,decathlon.fr,Top 10,3,16,1.25,1.21,1.11,0.84,-0.41
+Soft Drinks,Google Gemini,tesco.com,Top 10,1,19,0.98,0.90,0.79,0.71,-0.27
+Soft Drinks,Google Gemini,nicolas-aubineau.com,Top 10,2,21,0.96,1.08,0.94,0.64,-0.32
+Soft Drinks,Google Gemini,cozymeal.com,Top 10,1,22,0.48,0.88,1.15,0.63,0.15
+Soft Drinks,Google Gemini,idealo.fr,Top 10,1,66,0.99,0.88,0.86,0.26,-0.73
+Soft Drinks,Google Gemini,youtube.com,Pinned social,0,257,0.17,0.27,0.21,0.09,-0.08
+Soft Drinks,Google Gemini,facebook.com,Pinned social,0,,0.13,0.02,0.00,0.00,-0.13

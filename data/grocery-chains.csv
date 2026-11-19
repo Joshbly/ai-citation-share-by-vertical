@@ -1,0 +1,61 @@
+vertical,model_name,rootdomain,channel_group,weeks_in_top10,rank_week4,citation_share_week1_pct,citation_share_week2_pct,citation_share_week3_pct,citation_share_week4_pct,change_week1_to_week4_pts
+Grocery Chains,ChatGPT,which.co.uk,Top 10,4,1,2.89,3.50,3.31,3.56,0.67
+Grocery Chains,ChatGPT,rewe.de,Top 10,4,2,2.78,2.77,2.96,3.01,0.23
+Grocery Chains,ChatGPT,choice.com.au,Top 10,4,3,1.85,1.82,1.91,1.93,0.08
+Grocery Chains,ChatGPT,costco.com.au,Top 10,4,4,1.42,1.47,1.39,1.51,0.09
+Grocery Chains,ChatGPT,costco.fr,Top 10,4,5,1.30,1.42,1.33,1.36,0.06
+Grocery Chains,ChatGPT,quechoisir.org,Top 10,4,6,1.24,1.21,1.33,1.29,0.05
+Grocery Chains,ChatGPT,verbraucherzentrale.de,Top 10,4,7,1.65,1.74,1.65,1.17,-0.48
+Grocery Chains,ChatGPT,consumerreports.org,Top 10,3,8,1.07,1.06,1.15,1.06,-0.01
+Grocery Chains,ChatGPT,carrefour.fr,Top 10,3,9,1.50,1.18,1.00,1.03,-0.47
+Grocery Chains,ChatGPT,senat.fr,Top 10,1,10,0.39,0.60,0.65,0.96,0.57
+Grocery Chains,ChatGPT,google.com,Top 10,2,15,1.56,0.99,1.05,0.84,-0.72
+Grocery Chains,ChatGPT,coles.com.au,Top 10,2,18,1.20,1.08,0.85,0.79,-0.41
+Grocery Chains,ChatGPT,picnic.app,Top 10,1,19,0.96,1.03,1.22,0.76,-0.20
+Grocery Chains,ChatGPT,reddit.com,Pinned social,0,66,0.16,0.10,0.12,0.25,0.09
+Grocery Chains,ChatGPT,linkedin.com,Pinned social,0,155,0.03,0.07,0.08,0.12,0.09
+Grocery Chains,ChatGPT,youtube.com,Pinned social,0,,0.00,0.00,0.00,0.00,0.00
+Grocery Chains,Google AI Mode,facebook.com,Both,4,1,3.91,3.42,7.34,6.96,3.05
+Grocery Chains,Google AI Mode,google.com,Top 10,4,2,6.16,6.67,12.51,6.15,-0.01
+Grocery Chains,Google AI Mode,youtube.com,Both,4,3,4.97,3.80,6.46,5.55,0.58
+Grocery Chains,Google AI Mode,reddit.com,Both,4,4,4.06,3.81,3.60,3.91,-0.15
+Grocery Chains,Google AI Mode,instagram.com,Top 10,3,5,1.33,1.09,1.73,1.37,0.04
+Grocery Chains,Google AI Mode,rewe.de,Top 10,4,6,1.87,2.17,1.14,1.00,-0.87
+Grocery Chains,Google AI Mode,chip.de,Top 10,4,7,1.04,1.31,0.73,0.82,-0.22
+Grocery Chains,Google AI Mode,costco.fr,Top 10,4,8,1.08,1.20,0.61,0.78,-0.30
+Grocery Chains,Google AI Mode,costco.com.au,Top 10,2,9,0.86,0.94,0.58,0.68,-0.18
+Grocery Chains,Google AI Mode,woolworths.com.au,Top 10,3,10,0.86,1.11,0.74,0.66,-0.20
+Grocery Chains,Google AI Mode,trusted.de,Top 10,3,13,0.91,1.31,0.70,0.55,-0.36
+Grocery Chains,Google AI Mode,carrefour.fr,Top 10,1,16,0.76,1.12,0.46,0.49,-0.27
+Grocery Chains,Google AI Mode,linkedin.com,Pinned social,0,37,0.25,0.21,0.21,0.29,0.04
+Grocery Chains,Google AI Overviews,facebook.com,Both,4,1,9.11,10.02,10.67,10.17,1.06
+Grocery Chains,Google AI Overviews,youtube.com,Both,4,2,8.58,8.19,8.70,7.62,-0.96
+Grocery Chains,Google AI Overviews,reddit.com,Both,4,3,4.67,4.03,4.36,4.08,-0.59
+Grocery Chains,Google AI Overviews,google.com,Top 10,4,4,2.21,2.94,2.95,3.10,0.89
+Grocery Chains,Google AI Overviews,instagram.com,Top 10,4,5,2.21,2.77,2.59,2.18,-0.03
+Grocery Chains,Google AI Overviews,rewe.de,Top 10,4,6,1.02,0.86,1.16,1.03,0.01
+Grocery Chains,Google AI Overviews,costco.fr,Top 10,3,7,0.65,0.65,0.60,0.89,0.24
+Grocery Chains,Google AI Overviews,quora.com,Top 10,4,8,0.77,0.80,0.81,0.72,-0.05
+Grocery Chains,Google AI Overviews,trusted.de,Top 10,1,9,0.45,0.45,0.53,0.69,0.24
+Grocery Chains,Google AI Overviews,chip.de,Top 10,4,10,0.70,0.71,0.74,0.64,-0.06
+Grocery Chains,Google AI Overviews,wikipedia.org,Top 10,2,11,0.58,0.72,0.82,0.64,0.06
+Grocery Chains,Google AI Overviews,tiktok.com,Top 10,1,14,0.55,0.54,0.60,0.50,-0.05
+Grocery Chains,Google AI Overviews,choice.com.au,Top 10,1,15,0.68,0.50,0.43,0.50,-0.18
+Grocery Chains,Google AI Overviews,linkedin.com,Pinned social,0,23,0.41,0.38,0.32,0.34,-0.07
+Grocery Chains,Google Gemini,reddit.com,Both,4,1,2.58,2.81,2.47,4.96,2.38
+Grocery Chains,Google Gemini,rewe.de,Top 10,4,2,1.46,1.38,1.37,1.98,0.52
+Grocery Chains,Google Gemini,trusted.de,Top 10,4,3,1.81,1.71,1.58,1.91,0.10
+Grocery Chains,Google Gemini,chip.de,Top 10,4,4,1.31,1.16,1.40,1.48,0.17
+Grocery Chains,Google Gemini,boursorama.com,Top 10,4,5,1.83,1.75,1.47,1.09,-0.74
+Grocery Chains,Google Gemini,vzhh.de,Top 10,2,6,0.84,0.76,0.91,1.07,0.23
+Grocery Chains,Google Gemini,grocero.com.au,Top 10,4,7,0.90,1.13,0.85,0.98,0.08
+Grocery Chains,Google Gemini,discounttrolley.app,Top 10,2,8,0.85,0.69,0.65,0.96,0.11
+Grocery Chains,Google Gemini,costco.com.au,Top 10,4,9,0.94,1.07,1.01,0.94,0.00
+Grocery Chains,Google Gemini,grocery-tracker-pro.com,Top 10,1,10,0.56,0.52,0.74,0.84,0.28
+Grocery Chains,Google Gemini,google.com,Top 10,2,13,0.82,1.02,1.14,0.69,-0.13
+Grocery Chains,Google Gemini,coles.com.au,Top 10,1,14,0.93,0.80,0.82,0.68,-0.25
+Grocery Chains,Google Gemini,wochenmarktfinder.de,Top 10,1,17,0.54,0.85,0.63,0.60,0.06
+Grocery Chains,Google Gemini,youtube.com,Pinned social,0,18,0.39,0.48,0.57,0.60,0.21
+Grocery Chains,Google Gemini,woolworths.com.au,Top 10,1,24,0.74,0.87,0.62,0.50,-0.24
+Grocery Chains,Google Gemini,dtgv.de,Top 10,2,108,0.89,0.76,0.92,0.18,-0.71
+Grocery Chains,Google Gemini,facebook.com,Pinned social,0,,0.12,0.02,0.01,0.00,-0.12

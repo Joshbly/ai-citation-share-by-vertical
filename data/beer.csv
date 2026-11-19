@@ -1,0 +1,65 @@
+vertical,model_name,rootdomain,channel_group,weeks_in_top10,rank_week4,citation_share_week1_pct,citation_share_week2_pct,citation_share_week3_pct,citation_share_week4_pct,change_week1_to_week4_pts
+Beer,ChatGPT,danmurphys.com.au,Top 10,4,1,2.21,2.11,2.19,3.30,1.09
+Beer,ChatGPT,brewersassociation.org,Top 10,4,2,2.28,2.02,1.94,2.20,-0.08
+Beer,ChatGPT,camra.org.uk,Top 10,4,3,1.88,1.85,1.85,1.57,-0.31
+Beer,ChatGPT,carrefour.fr,Top 10,2,4,1.07,0.97,0.92,1.40,0.33
+Beer,ChatGPT,bjcp.org,Top 10,4,5,1.47,1.41,1.29,1.39,-0.08
+Beer,ChatGPT,bevindustry.com,Top 10,4,6,1.37,1.27,1.33,1.33,-0.04
+Beer,ChatGPT,bws.com.au,Top 10,4,7,1.56,1.49,1.67,1.30,-0.26
+Beer,ChatGPT,vinepair.com,Top 10,4,8,1.20,1.21,1.35,1.24,0.04
+Beer,ChatGPT,yougov.com,Top 10,4,9,1.30,1.09,1.25,1.21,-0.09
+Beer,ChatGPT,statista.com,Top 10,4,10,1.22,1.15,1.14,1.17,-0.05
+Beer,ChatGPT,beerandbrewing.com,Top 10,1,11,0.81,0.83,1.08,0.95,0.14
+Beer,ChatGPT,heinekenfrance.fr,Top 10,1,15,0.72,1.10,0.99,0.78,0.06
+Beer,ChatGPT,reddit.com,Pinned social,0,63,0.32,0.24,0.24,0.29,-0.03
+Beer,Google AI Mode,google.com,Top 10,4,1,9.17,14.38,11.21,5.64,-3.53
+Beer,Google AI Mode,youtube.com,Both,4,2,1.87,1.04,7.30,5.59,3.72
+Beer,Google AI Mode,reddit.com,Both,4,3,4.34,3.41,4.41,4.61,0.27
+Beer,Google AI Mode,facebook.com,Both,4,4,1.31,0.88,3.87,3.68,2.37
+Beer,Google AI Mode,danmurphys.com.au,Top 10,4,5,2.58,2.33,1.59,2.84,0.26
+Beer,Google AI Mode,beeradvocate.com,Top 10,4,6,0.95,0.78,1.30,1.40,0.45
+Beer,Google AI Mode,bws.com.au,Top 10,1,7,0.58,0.51,0.63,1.17,0.59
+Beer,Google AI Mode,beerandbrewing.com,Top 10,1,8,0.56,0.29,0.57,1.15,0.59
+Beer,Google AI Mode,hopculture.com,Top 10,3,9,0.74,0.68,0.81,0.90,0.16
+Beer,Google AI Mode,instagram.com,Top 10,2,10,0.27,0.42,1.30,0.90,0.63
+Beer,Google AI Mode,carrefour.fr,Top 10,2,11,0.99,1.42,0.58,0.77,-0.22
+Beer,Google AI Mode,vinepair.com,Top 10,1,13,0.59,0.51,0.73,0.69,0.10
+Beer,Google AI Mode,foodandwine.com,Top 10,1,14,0.56,0.43,0.78,0.67,0.11
+Beer,Google AI Mode,unepetitemousse.fr,Top 10,1,21,0.74,0.98,0.55,0.53,-0.21
+Beer,Google AI Mode,bierentdecker.com,Top 10,2,22,1.25,1.49,0.61,0.52,-0.73
+Beer,Google AI Mode,idealo.de,Top 10,2,73,0.80,0.77,0.27,0.20,-0.60
+Beer,Google AI Mode,linkedin.com,Pinned social,0,129,0.04,0.04,0.05,0.12,0.08
+Beer,Google AI Overviews,youtube.com,Both,4,1,8.19,8.79,9.06,7.79,-0.40
+Beer,Google AI Overviews,facebook.com,Both,4,2,5.08,6.13,6.57,6.09,1.01
+Beer,Google AI Overviews,reddit.com,Both,4,3,5.95,5.38,5.58,5.32,-0.63
+Beer,Google AI Overviews,google.com,Top 10,4,4,1.42,2.48,1.73,2.30,0.88
+Beer,Google AI Overviews,instagram.com,Top 10,4,5,1.65,2.03,2.07,1.67,0.02
+Beer,Google AI Overviews,danmurphys.com.au,Top 10,4,6,1.58,1.43,1.29,1.43,-0.15
+Beer,Google AI Overviews,beeradvocate.com,Top 10,4,7,1.11,1.24,1.24,1.21,0.10
+Beer,Google AI Overviews,bierentdecker.com,Top 10,1,8,0.74,0.58,0.71,0.83,0.09
+Beer,Google AI Overviews,beercartel.com.au,Top 10,4,9,0.97,0.67,0.72,0.72,-0.25
+Beer,Google AI Overviews,beerandbrewing.com,Top 10,1,10,0.47,0.46,0.43,0.70,0.23
+Beer,Google AI Overviews,carbonsixbrewing.com.au,Top 10,1,11,0.58,0.60,0.73,0.67,0.09
+Beer,Google AI Overviews,quora.com,Top 10,1,12,0.50,0.66,0.70,0.64,0.14
+Beer,Google AI Overviews,foodandwine.com,Top 10,3,14,0.78,0.83,0.77,0.60,-0.18
+Beer,Google AI Overviews,hopculture.com,Top 10,1,16,1.00,0.55,0.55,0.57,-0.43
+Beer,Google AI Overviews,linkedin.com,Pinned social,0,66,0.15,0.16,0.21,0.19,0.04
+Beer,Google Gemini,reddit.com,Both,4,1,3.13,2.84,2.54,7.58,4.45
+Beer,Google Gemini,danmurphys.com.au,Top 10,4,2,3.78,3.08,4.21,4.34,0.56
+Beer,Google Gemini,beercartel.com.au,Top 10,2,3,1.27,0.98,1.57,2.92,1.65
+Beer,Google Gemini,vively.com.au,Top 10,2,4,0.23,0.02,2.37,2.03,1.80
+Beer,Google Gemini,carbonsixbrewing.com.au,Top 10,1,5,0.81,0.71,1.20,1.96,1.15
+Beer,Google Gemini,accio.com,Top 10,1,6,1.06,0.62,0.92,1.50,0.44
+Beer,Google Gemini,timeout.com,Top 10,1,7,0.13,0.33,0.47,1.50,1.37
+Beer,Google Gemini,tastingtable.com,Top 10,3,8,2.19,2.00,0.77,1.47,-0.72
+Beer,Google Gemini,getbackbar.com,Top 10,4,9,3.76,3.33,2.07,1.30,-2.46
+Beer,Google Gemini,americancraftbeer.com,Top 10,4,10,2.29,2.30,2.24,1.27,-1.02
+Beer,Google Gemini,porchdrinking.com,Top 10,3,13,2.54,2.11,1.82,0.96,-1.58
+Beer,Google Gemini,mashed.com,Top 10,2,14,1.42,1.24,1.52,0.88,-0.54
+Beer,Google Gemini,beerrepublic.eu,Top 10,3,20,1.44,1.82,1.57,0.71,-0.73
+Beer,Google Gemini,lostandfoundbrighton.com,Top 10,3,27,2.02,1.44,1.45,0.59,-1.43
+Beer,Google Gemini,tastewise.io,Top 10,1,52,0.77,1.77,0.37,0.37,-0.40
+Beer,Google Gemini,vinepair.com,Top 10,1,62,2.25,1.15,0.62,0.32,-1.93
+Beer,Google Gemini,beeradvocate.com,Top 10,1,111,2.55,1.20,0.45,0.17,-2.38
+Beer,Google Gemini,youtube.com,Pinned social,0,230,0.17,0.27,0.12,0.10,-0.07
+Beer,Google Gemini,facebook.com,Pinned social,0,,0.08,0.02,0.00,0.00,-0.08

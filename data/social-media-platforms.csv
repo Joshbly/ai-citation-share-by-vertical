@@ -1,0 +1,63 @@
+vertical,model_name,rootdomain,channel_group,weeks_in_top10,rank_week4,citation_share_week1_pct,citation_share_week2_pct,citation_share_week3_pct,citation_share_week4_pct,change_week1_to_week4_pts
+Social Media Platforms,ChatGPT,itechguides.com,Top 10,4,1,6.08,5.80,5.62,5.50,-0.58
+Social Media Platforms,ChatGPT,buffer.com,Top 10,4,2,2.67,3.35,3.94,4.80,2.13
+Social Media Platforms,ChatGPT,sproutsocial.com,Top 10,4,3,3.75,3.59,3.46,4.44,0.69
+Social Media Platforms,ChatGPT,pewresearch.org,Top 10,4,4,3.81,4.33,4.65,4.21,0.40
+Social Media Platforms,ChatGPT,hootsuite.com,Top 10,4,5,3.54,3.76,3.46,3.63,0.09
+Social Media Platforms,ChatGPT,zapier.com,Top 10,4,6,2.04,2.31,2.45,2.73,0.69
+Social Media Platforms,ChatGPT,metricool.com,Top 10,4,7,2.31,2.08,2.68,2.42,0.11
+Social Media Platforms,ChatGPT,rankite.com,Top 10,3,8,1.59,2.78,2.83,2.38,0.79
+Social Media Platforms,ChatGPT,uscreen.tv,Top 10,1,9,1.20,1.48,1.52,1.83,0.63
+Social Media Platforms,ChatGPT,creatoriq.com,Top 10,2,10,1.38,1.71,1.38,1.48,0.10
+Social Media Platforms,ChatGPT,hubspot.com,Top 10,1,11,1.44,1.58,2.23,1.48,0.04
+Social Media Platforms,ChatGPT,datareportal.com,Top 10,1,12,1.59,1.68,1.56,1.44,-0.15
+Social Media Platforms,ChatGPT,mightynetworks.com,Top 10,3,13,1.89,2.25,1.75,1.21,-0.68
+Social Media Platforms,ChatGPT,google.com,Top 10,1,18,1.68,1.38,1.38,0.82,-0.86
+Social Media Platforms,ChatGPT,linkedin.com,Pinned social,0,99,0.54,0.47,0.52,0.19,-0.35
+Social Media Platforms,ChatGPT,reddit.com,Pinned social,0,223,0.30,0.10,0.19,0.08,-0.22
+Social Media Platforms,ChatGPT,youtube.com,Pinned social,0,,0.03,0.00,0.00,0.00,-0.03
+Social Media Platforms,Google AI Mode,youtube.com,Both,4,1,6.14,3.64,17.90,17.05,10.91
+Social Media Platforms,Google AI Mode,reddit.com,Both,4,2,6.80,7.13,7.12,7.73,0.93
+Social Media Platforms,Google AI Mode,facebook.com,Both,4,3,2.34,2.59,6.53,6.24,3.90
+Social Media Platforms,Google AI Mode,instagram.com,Top 10,2,4,0.51,0.63,4.39,3.78,3.27
+Social Media Platforms,Google AI Mode,quora.com,Top 10,2,5,0.76,0.91,1.96,1.97,1.21
+Social Media Platforms,Google AI Mode,zapier.com,Top 10,4,6,3.76,4.62,2.18,1.97,-1.79
+Social Media Platforms,Google AI Mode,wikipedia.org,Top 10,4,7,2.54,2.45,1.68,1.90,-0.64
+Social Media Platforms,Google AI Mode,linkedin.com,Both,4,8,2.69,2.94,1.48,1.49,-1.20
+Social Media Platforms,Google AI Mode,hootsuite.com,Top 10,4,9,1.52,1.89,1.48,1.37,-0.15
+Social Media Platforms,Google AI Mode,pcmag.com,Top 10,4,10,2.39,2.45,1.34,1.06,-1.33
+Social Media Platforms,Google AI Mode,google.com,Top 10,2,11,2.44,2.38,1.14,0.97,-1.47
+Social Media Platforms,Google AI Mode,pewresearch.org,Top 10,1,16,1.42,2.31,0.74,0.79,-0.63
+Social Media Platforms,Google AI Mode,storyprompt.com,Top 10,1,,1.52,0.00,0.00,0.00,-1.52
+Social Media Platforms,Google AI Overviews,youtube.com,Both,4,1,14.02,16.88,18.28,17.21,3.19
+Social Media Platforms,Google AI Overviews,reddit.com,Both,4,2,5.10,6.32,6.49,6.37,1.27
+Social Media Platforms,Google AI Overviews,facebook.com,Both,4,3,5.46,5.86,6.06,6.19,0.73
+Social Media Platforms,Google AI Overviews,instagram.com,Top 10,4,4,3.02,3.61,3.12,3.64,0.62
+Social Media Platforms,Google AI Overviews,quora.com,Top 10,4,5,2.62,3.20,3.59,3.60,0.98
+Social Media Platforms,Google AI Overviews,wikipedia.org,Top 10,4,6,1.51,2.52,2.81,2.54,1.03
+Social Media Platforms,Google AI Overviews,zapier.com,Top 10,4,7,1.53,1.21,1.78,1.65,0.12
+Social Media Platforms,Google AI Overviews,linkedin.com,Both,4,8,1.92,1.33,1.06,1.47,-0.45
+Social Media Platforms,Google AI Overviews,medium.com,Top 10,3,9,0.88,1.00,0.96,1.31,0.43
+Social Media Platforms,Google AI Overviews,google.com,Top 10,4,10,1.22,0.90,1.08,1.08,-0.14
+Social Media Platforms,Google AI Overviews,pcmag.com,Top 10,1,15,1.11,0.67,0.63,0.67,-0.44
+Social Media Platforms,Google Gemini,circle.so,Top 10,4,1,4.88,5.24,4.56,6.62,1.74
+Social Media Platforms,Google Gemini,zapier.com,Top 10,4,2,2.52,3.18,3.35,2.69,0.17
+Social Media Platforms,Google Gemini,cloudsek.com,Top 10,1,3,0.95,0.31,0.28,2.47,1.52
+Social Media Platforms,Google Gemini,mintec.co,Top 10,2,4,0.68,0.53,1.80,2.14,1.46
+Social Media Platforms,Google Gemini,whistleout.com,Top 10,1,5,0.59,0.41,0.59,2.11,1.52
+Social Media Platforms,Google Gemini,explodingtopics.com,Top 10,4,6,1.18,1.48,2.92,2.08,0.90
+Social Media Platforms,Google Gemini,reddit.com,Both,1,7,0.48,0.33,0.56,2.05,1.57
+Social Media Platforms,Google Gemini,buffer.com,Top 10,1,8,1.04,0.74,0.87,1.95,0.91
+Social Media Platforms,Google Gemini,backstage.com,Top 10,1,9,0.52,0.22,0.34,1.92,1.40
+Social Media Platforms,Google Gemini,mybzz.com,Top 10,4,10,1.36,1.58,1.36,1.80,0.44
+Social Media Platforms,Google Gemini,pcmag.com,Top 10,2,11,1.18,1.72,1.09,1.53,0.35
+Social Media Platforms,Google Gemini,switcherstudio.com,Top 10,1,14,0.82,1.03,1.61,1.25,0.43
+Social Media Platforms,Google Gemini,upstream.so,Top 10,3,16,1.54,2.89,2.98,1.16,-0.38
+Social Media Platforms,Google Gemini,canatosmedia.com,Top 10,3,17,2.47,2.53,2.45,1.13,-1.34
+Social Media Platforms,Google Gemini,hivebrite.io,Top 10,1,19,0.29,0.98,1.27,1.07,0.78
+Social Media Platforms,Google Gemini,guideflow.com,Top 10,1,45,1.07,3.94,0.56,0.46,-0.61
+Social Media Platforms,Google Gemini,g2.com,Top 10,2,96,2.22,2.18,1.02,0.21,-2.01
+Social Media Platforms,Google Gemini,stripe.com,Top 10,2,119,1.43,1.48,1.12,0.18,-1.25
+Social Media Platforms,Google Gemini,storyprompt.com,Top 10,2,243,1.25,0.74,1.21,0.09,-1.16
+Social Media Platforms,Google Gemini,youtube.com,Pinned social,0,498,0.05,0.14,0.22,0.03,-0.02
+Social Media Platforms,Google Gemini,facebook.com,Pinned social,0,,0.27,0.02,0.00,0.00,-0.27

@@ -1,0 +1,60 @@
+vertical,model_name,rootdomain,channel_group,weeks_in_top10,rank_week4,citation_share_week1_pct,citation_share_week2_pct,citation_share_week3_pct,citation_share_week4_pct,change_week1_to_week4_pts
+Automakers,ChatGPT,adac.de,Top 10,4,1,5.12,5.40,5.18,5.22,0.10
+Automakers,ChatGPT,consumerreports.org,Top 10,4,2,3.23,3.13,3.16,3.33,0.10
+Automakers,ChatGPT,whatcar.com,Top 10,2,3,0.91,0.77,2.06,3.10,2.19
+Automakers,ChatGPT,autoexpress.co.uk,Top 10,4,4,1.92,2.22,2.09,2.05,0.13
+Automakers,ChatGPT,carsales.com.au,Top 10,3,5,1.41,1.18,1.14,1.94,0.53
+Automakers,ChatGPT,racv.com.au,Top 10,4,6,1.32,1.71,1.79,1.81,0.49
+Automakers,ChatGPT,carexpert.com.au,Top 10,4,7,1.83,1.48,1.55,1.57,-0.26
+Automakers,ChatGPT,euroncap.com,Top 10,4,8,1.24,1.49,1.46,1.53,0.29
+Automakers,ChatGPT,kbb.com,Top 10,2,9,1.22,0.98,1.24,1.34,0.12
+Automakers,ChatGPT,carsguide.com.au,Top 10,1,10,1.23,1.15,1.12,1.33,0.10
+Automakers,ChatGPT,rac.co.uk,Top 10,3,11,1.51,1.41,1.42,1.29,-0.22
+Automakers,ChatGPT,gov.uk,Top 10,3,12,1.44,1.45,1.43,1.24,-0.20
+Automakers,ChatGPT,caranddriver.com,Top 10,2,21,1.79,1.38,1.18,0.86,-0.93
+Automakers,ChatGPT,linkedin.com,Pinned social,0,1104,0.00,0.00,0.00,0.01,0.01
+Automakers,ChatGPT,youtube.com,Pinned social,0,2315,0.01,0.01,0.02,0.01,0.00
+Automakers,ChatGPT,reddit.com,Pinned social,0,,0.03,0.00,0.01,0.00,-0.03
+Automakers,Google AI Mode,youtube.com,Both,4,1,7.02,4.49,13.51,10.07,3.05
+Automakers,Google AI Mode,reddit.com,Both,4,2,2.76,2.18,3.47,3.33,0.57
+Automakers,Google AI Mode,facebook.com,Both,2,3,1.00,0.62,2.86,2.37,1.37
+Automakers,Google AI Mode,adac.de,Top 10,4,4,2.92,3.43,1.38,1.85,-1.07
+Automakers,Google AI Mode,google.com,Top 10,4,5,2.12,2.33,3.16,1.70,-0.42
+Automakers,Google AI Mode,carsales.com.au,Top 10,4,6,1.96,2.12,1.43,1.56,-0.40
+Automakers,Google AI Mode,carwow.co.uk,Top 10,3,7,1.50,1.02,1.12,1.34,-0.16
+Automakers,Google AI Mode,whatcar.com,Top 10,3,8,1.28,1.24,1.00,1.33,0.05
+Automakers,Google AI Mode,usnews.com,Top 10,4,9,1.44,1.31,1.23,1.30,-0.14
+Automakers,Google AI Mode,consumerreports.org,Top 10,4,10,1.60,1.49,1.09,1.21,-0.39
+Automakers,Google AI Mode,kbb.com,Top 10,3,11,1.61,1.51,1.35,1.17,-0.44
+Automakers,Google AI Mode,edmunds.com,Top 10,1,15,0.96,1.24,0.71,0.92,-0.04
+Automakers,Google AI Mode,linkedin.com,Pinned social,0,144,0.15,0.10,0.12,0.09,-0.06
+Automakers,Google AI Overviews,youtube.com,Both,4,1,13.94,16.00,16.23,14.81,0.87
+Automakers,Google AI Overviews,reddit.com,Both,4,2,3.54,3.83,4.33,3.92,0.38
+Automakers,Google AI Overviews,facebook.com,Both,4,3,3.04,3.91,4.52,3.81,0.77
+Automakers,Google AI Overviews,adac.de,Top 10,4,4,1.16,1.07,1.09,1.83,0.67
+Automakers,Google AI Overviews,carsales.com.au,Top 10,4,5,1.84,1.45,1.36,1.40,-0.44
+Automakers,Google AI Overviews,carwow.co.uk,Top 10,4,6,1.20,1.13,1.06,1.09,-0.11
+Automakers,Google AI Overviews,kbb.com,Top 10,4,7,1.30,1.14,1.09,1.04,-0.26
+Automakers,Google AI Overviews,whatcar.com,Top 10,4,8,1.14,0.91,0.94,0.97,-0.17
+Automakers,Google AI Overviews,usnews.com,Top 10,3,9,1.08,0.79,0.79,0.91,-0.17
+Automakers,Google AI Overviews,quora.com,Top 10,1,10,0.63,0.77,0.80,0.83,0.20
+Automakers,Google AI Overviews,consumerreports.org,Top 10,1,12,1.00,0.69,0.65,0.78,-0.22
+Automakers,Google AI Overviews,autohero.com,Top 10,2,14,0.99,0.87,0.96,0.73,-0.26
+Automakers,Google AI Overviews,instagram.com,Top 10,1,17,0.57,0.76,0.85,0.69,0.12
+Automakers,Google AI Overviews,linkedin.com,Pinned social,0,62,0.12,0.13,0.17,0.16,0.04
+Automakers,Google Gemini,rac.co.uk,Top 10,4,1,1.72,1.85,2.14,2.27,0.55
+Automakers,Google Gemini,adac.de,Top 10,2,2,1.12,1.06,1.01,2.12,1.00
+Automakers,Google Gemini,autobuyersguide.com.au,Top 10,4,3,1.31,1.51,1.85,2.04,0.73
+Automakers,Google Gemini,reddit.com,Both,1,4,1.02,0.87,0.96,1.72,0.70
+Automakers,Google Gemini,autoscout24.de,Top 10,4,5,1.42,1.41,1.42,1.63,0.21
+Automakers,Google Gemini,capcar.fr,Top 10,3,6,1.15,1.03,1.19,1.54,0.39
+Automakers,Google Gemini,carwow.de,Top 10,4,7,1.37,1.65,1.62,1.51,0.14
+Automakers,Google Gemini,autobild.de,Top 10,2,8,1.21,1.02,0.93,1.44,0.23
+Automakers,Google Gemini,meinauto.de,Top 10,4,9,1.24,1.48,1.38,1.40,0.16
+Automakers,Google Gemini,vivacar.fr,Top 10,4,10,1.18,1.34,1.29,1.26,0.08
+Automakers,Google Gemini,finn.com,Top 10,2,11,0.90,1.13,1.16,1.24,0.34
+Automakers,Google Gemini,carwow.co.uk,Top 10,1,12,1.18,0.84,1.05,1.18,0.00
+Automakers,Google Gemini,mobile.de,Top 10,3,14,1.36,1.37,1.41,1.06,-0.30
+Automakers,Google Gemini,autohero.com,Top 10,2,16,1.21,0.97,1.14,0.99,-0.22
+Automakers,Google Gemini,youtube.com,Pinned social,0,43,0.29,0.24,0.30,0.37,0.08
+Automakers,Google Gemini,facebook.com,Pinned social,0,,0.01,0.00,0.00,0.00,-0.01

@@ -1,0 +1,63 @@
+vertical,model_name,rootdomain,channel_group,weeks_in_top10,rank_week4,citation_share_week1_pct,citation_share_week2_pct,citation_share_week3_pct,citation_share_week4_pct,change_week1_to_week4_pts
+Multifamily Housing,ChatGPT,apartments.com,Top 10,4,1,11.87,11.90,11.82,14.55,2.68
+Multifamily Housing,ChatGPT,zillow.com,Top 10,4,2,6.81,6.03,6.18,7.27,0.46
+Multifamily Housing,ChatGPT,rentcafe.com,Top 10,4,3,4.07,4.44,5.10,5.32,1.25
+Multifamily Housing,ChatGPT,ftc.gov,Top 10,4,4,7.50,5.87,6.06,5.13,-2.37
+Multifamily Housing,ChatGPT,apartmentlist.com,Top 10,4,5,3.66,3.02,2.34,2.73,-0.93
+Multifamily Housing,ChatGPT,fanniemae.com,Top 10,1,6,1.45,0.93,1.50,2.34,0.89
+Multifamily Housing,ChatGPT,consumerfinance.gov,Top 10,4,7,2.04,2.30,2.58,2.01,-0.03
+Multifamily Housing,ChatGPT,apartmentratings.com,Top 10,4,8,2.09,1.97,1.98,1.95,-0.14
+Multifamily Housing,ChatGPT,hud.gov,Top 10,4,9,2.33,1.75,1.92,1.95,-0.38
+Multifamily Housing,ChatGPT,zumper.com,Top 10,3,10,1.28,1.48,1.68,1.82,0.54
+Multifamily Housing,ChatGPT,ca.gov,Top 10,1,11,1.69,1.32,1.32,1.56,-0.13
+Multifamily Housing,ChatGPT,realtor.com,Top 10,1,16,1.63,0.88,1.44,1.17,-0.46
+Multifamily Housing,ChatGPT,naahq.org,Top 10,2,18,0.99,1.54,1.98,1.10,0.11
+Multifamily Housing,ChatGPT,reddit.com,Pinned social,0,269,0.06,0.11,0.06,0.06,0.00
+Multifamily Housing,Google AI Mode,youtube.com,Both,4,1,1.60,1.41,10.02,10.18,8.58
+Multifamily Housing,Google AI Mode,reddit.com,Both,4,2,8.41,8.44,6.07,6.54,-1.87
+Multifamily Housing,Google AI Mode,apartments.com,Top 10,4,3,5.63,5.52,4.86,6.42,0.79
+Multifamily Housing,Google AI Mode,google.com,Top 10,3,4,2.36,0.43,8.38,6.13,3.77
+Multifamily Housing,Google AI Mode,zillow.com,Top 10,4,5,3.06,3.57,3.04,3.59,0.53
+Multifamily Housing,Google AI Mode,facebook.com,Both,4,6,2.22,1.52,3.87,3.38,1.16
+Multifamily Housing,Google AI Mode,rentcafe.com,Top 10,4,7,2.02,1.84,1.91,2.31,0.29
+Multifamily Housing,Google AI Mode,quora.com,Top 10,2,8,0.63,0.22,1.75,2.11,1.48
+Multifamily Housing,Google AI Mode,apartmentlist.com,Top 10,4,9,4.31,5.19,2.39,1.94,-2.37
+Multifamily Housing,Google AI Mode,redfin.com,Top 10,1,10,0.56,0.43,1.10,1.18,0.62
+Multifamily Housing,Google AI Mode,apartmentratings.com,Top 10,1,15,1.25,1.62,1.07,0.78,-0.47
+Multifamily Housing,Google AI Mode,linkedin.com,Pinned social,0,16,0.35,0.22,0.86,0.78,0.43
+Multifamily Housing,Google AI Mode,instagram.com,Top 10,1,19,0.21,0.54,1.18,0.62,0.41
+Multifamily Housing,Google AI Mode,apartmentadvisor.com,Top 10,1,25,1.67,0.87,0.51,0.47,-1.20
+Multifamily Housing,Google AI Mode,multihousingnews.com,Top 10,1,26,1.74,1.08,0.35,0.45,-1.29
+Multifamily Housing,Google AI Mode,multifamilyexecutive.com,Top 10,1,31,0.63,1.41,0.54,0.37,-0.26
+Multifamily Housing,Google AI Mode,wallethub.com,Top 10,1,221,0.76,2.27,0.48,0.08,-0.68
+Multifamily Housing,Google AI Overviews,youtube.com,Both,4,1,7.44,8.76,8.64,9.09,1.65
+Multifamily Housing,Google AI Overviews,reddit.com,Both,4,2,5.49,6.15,6.76,6.34,0.85
+Multifamily Housing,Google AI Overviews,facebook.com,Both,4,3,3.66,4.40,4.93,4.72,1.06
+Multifamily Housing,Google AI Overviews,apartments.com,Top 10,4,4,4.93,4.01,3.90,4.07,-0.86
+Multifamily Housing,Google AI Overviews,zillow.com,Top 10,4,5,3.45,3.49,4.07,3.83,0.38
+Multifamily Housing,Google AI Overviews,quora.com,Top 10,4,6,1.81,2.09,2.48,2.91,1.10
+Multifamily Housing,Google AI Overviews,rentcafe.com,Top 10,4,7,2.64,2.05,2.08,2.67,0.03
+Multifamily Housing,Google AI Overviews,apartmentlist.com,Top 10,4,8,2.85,1.98,2.42,1.92,-0.93
+Multifamily Housing,Google AI Overviews,instagram.com,Top 10,3,9,1.00,1.42,1.43,1.36,0.36
+Multifamily Housing,Google AI Overviews,yelp.com,Top 10,1,10,0.37,0.72,0.85,1.25,0.88
+Multifamily Housing,Google AI Overviews,google.com,Top 10,3,11,1.12,1.83,1.37,1.07,-0.05
+Multifamily Housing,Google AI Overviews,extraspace.com,Top 10,1,15,1.06,0.83,0.99,0.85,-0.21
+Multifamily Housing,Google AI Overviews,linkedin.com,Pinned social,0,16,0.69,0.87,0.72,0.85,0.16
+Multifamily Housing,Google Gemini,apartmentlist.com,Top 10,4,1,8.01,6.38,7.98,11.33,3.32
+Multifamily Housing,Google Gemini,apartments.com,Top 10,4,2,5.24,4.97,5.15,8.71,3.47
+Multifamily Housing,Google Gemini,reddit.com,Both,3,3,1.77,1.02,1.33,2.62,0.85
+Multifamily Housing,Google Gemini,zillow.com,Top 10,4,4,3.05,2.68,3.39,2.06,-0.99
+Multifamily Housing,Google Gemini,rentcafe.com,Top 10,3,5,2.27,2.47,1.24,1.87,-0.40
+Multifamily Housing,Google Gemini,american-apartment-owners-association.org,Top 10,1,6,0.78,1.16,1.03,1.64,0.86
+Multifamily Housing,Google Gemini,apartmentratings.com,Top 10,3,7,0.78,1.44,1.50,1.55,0.77
+Multifamily Housing,Google Gemini,redfin.com,Top 10,3,8,2.13,1.06,1.63,1.45,-0.68
+Multifamily Housing,Google Gemini,leaserunner.com,Top 10,4,9,1.74,3.14,2.32,1.31,-0.43
+Multifamily Housing,Google Gemini,rentbottomline.com,Top 10,1,10,0.92,0.99,0.90,1.22,0.30
+Multifamily Housing,Google Gemini,rwmaryland.com,Top 10,1,11,1.10,0.92,2.06,1.03,-0.07
+Multifamily Housing,Google Gemini,annarborapartments.net,Top 10,1,15,1.35,1.02,0.73,0.84,-0.51
+Multifamily Housing,Google Gemini,tripalink.com,Top 10,3,25,1.49,1.34,1.59,0.66,-0.83
+Multifamily Housing,Google Gemini,apartmenthistory.com,Top 10,1,48,0.85,1.23,0.81,0.42,-0.43
+Multifamily Housing,Google Gemini,vivolivingwillowbrook.com,Top 10,1,57,1.06,1.66,0.69,0.42,-0.64
+Multifamily Housing,Google Gemini,azibo.com,Top 10,1,95,1.49,1.20,0.73,0.23,-1.26
+Multifamily Housing,Google Gemini,rentcompare.app,Top 10,2,156,0.35,1.23,1.29,0.14,-0.21
+Multifamily Housing,Google Gemini,youtube.com,Pinned social,0,388,0.18,0.14,0.13,0.05,-0.13

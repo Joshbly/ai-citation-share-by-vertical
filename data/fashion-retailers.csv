@@ -1,0 +1,64 @@
+vertical,model_name,rootdomain,channel_group,weeks_in_top10,rank_week4,citation_share_week1_pct,citation_share_week2_pct,citation_share_week3_pct,citation_share_week4_pct,change_week1_to_week4_pts
+Fashion Retailers,ChatGPT,shopify.com,Top 10,4,1,1.84,1.95,2.31,2.59,0.75
+Fashion Retailers,ChatGPT,shopback.com.au,Top 10,4,2,1.42,1.29,1.31,1.39,-0.03
+Fashion Retailers,ChatGPT,ethicalconsumer.org,Top 10,3,3,0.74,0.79,1.02,1.08,0.34
+Fashion Retailers,ChatGPT,asos.com,Top 10,4,4,0.97,0.86,0.72,1.01,0.04
+Fashion Retailers,ChatGPT,trustpilot.com,Top 10,3,5,0.45,0.79,0.98,0.96,0.51
+Fashion Retailers,ChatGPT,google.com,Top 10,4,6,1.48,1.00,0.98,0.94,-0.54
+Fashion Retailers,ChatGPT,goodonyou.eco,Top 10,3,7,0.73,0.97,1.18,0.83,0.10
+Fashion Retailers,ChatGPT,economie.gouv.fr,Top 10,1,8,0.59,0.62,0.68,0.82,0.23
+Fashion Retailers,ChatGPT,europa.eu,Top 10,2,9,0.56,0.65,0.73,0.78,0.22
+Fashion Retailers,ChatGPT,whowhatwear.com,Top 10,3,10,0.81,0.70,0.63,0.75,-0.06
+Fashion Retailers,ChatGPT,gq.com,Top 10,1,12,0.76,0.59,0.68,0.73,-0.03
+Fashion Retailers,ChatGPT,ftc.gov,Top 10,1,13,0.63,0.66,0.77,0.71,0.08
+Fashion Retailers,ChatGPT,hm.com,Top 10,3,14,1.29,0.88,0.76,0.69,-0.60
+Fashion Retailers,ChatGPT,vogue.co.uk,Top 10,1,15,0.54,0.67,0.66,0.60,0.06
+Fashion Retailers,ChatGPT,uniqlo.com,Top 10,1,20,0.74,0.49,0.48,0.54,-0.20
+Fashion Retailers,ChatGPT,aboutyou.de,Top 10,1,21,0.74,0.56,0.37,0.53,-0.21
+Fashion Retailers,ChatGPT,zalando.de,Top 10,1,23,0.77,0.40,0.36,0.45,-0.32
+Fashion Retailers,ChatGPT,reddit.com,Pinned social,0,47,0.13,0.15,0.25,0.28,0.15
+Fashion Retailers,ChatGPT,linkedin.com,Pinned social,0,1557,0.00,0.00,0.00,0.01,0.01
+Fashion Retailers,ChatGPT,youtube.com,Pinned social,0,,0.01,0.00,0.00,0.00,-0.01
+Fashion Retailers,Google AI Mode,google.com,Top 10,4,1,8.83,9.60,15.09,5.37,-3.46
+Fashion Retailers,Google AI Mode,youtube.com,Both,4,2,3.89,2.19,6.39,5.30,1.41
+Fashion Retailers,Google AI Mode,reddit.com,Both,4,3,3.59,2.82,3.90,4.67,1.08
+Fashion Retailers,Google AI Mode,facebook.com,Both,3,4,0.66,0.45,2.00,1.92,1.26
+Fashion Retailers,Google AI Mode,instagram.com,Top 10,3,5,0.67,0.62,1.96,1.69,1.02
+Fashion Retailers,Google AI Mode,asos.com,Top 10,4,6,1.77,1.94,0.90,0.97,-0.80
+Fashion Retailers,Google AI Mode,whowhatwear.com,Top 10,4,7,0.83,0.73,0.68,0.81,-0.02
+Fashion Retailers,Google AI Mode,zalando.de,Top 10,4,8,1.07,1.04,0.57,0.75,-0.32
+Fashion Retailers,Google AI Mode,peek-cloppenburg.de,Top 10,4,9,1.11,1.52,0.64,0.71,-0.40
+Fashion Retailers,Google AI Mode,otto.de,Top 10,3,10,0.92,0.97,0.56,0.69,-0.23
+Fashion Retailers,Google AI Mode,shopify.com,Top 10,1,11,0.62,0.66,0.46,0.65,0.03
+Fashion Retailers,Google AI Mode,tiktok.com,Top 10,1,12,0.31,0.20,0.72,0.62,0.31
+Fashion Retailers,Google AI Mode,boohoo.com,Top 10,1,13,0.51,0.63,0.47,0.43,-0.08
+Fashion Retailers,Google AI Mode,linkedin.com,Pinned social,0,46,0.27,0.13,0.21,0.19,-0.08
+Fashion Retailers,Google AI Overviews,youtube.com,Both,4,1,10.36,9.80,10.60,8.73,-1.63
+Fashion Retailers,Google AI Overviews,google.com,Top 10,4,2,4.28,8.03,5.98,7.36,3.08
+Fashion Retailers,Google AI Overviews,reddit.com,Both,4,3,4.15,4.13,4.26,4.28,0.13
+Fashion Retailers,Google AI Overviews,instagram.com,Top 10,4,4,3.34,3.87,3.83,2.87,-0.47
+Fashion Retailers,Google AI Overviews,facebook.com,Both,4,5,2.38,2.61,3.31,2.86,0.48
+Fashion Retailers,Google AI Overviews,tiktok.com,Top 10,4,6,1.17,1.21,1.27,0.97,-0.20
+Fashion Retailers,Google AI Overviews,asos.com,Top 10,4,7,0.71,0.78,0.65,0.94,0.23
+Fashion Retailers,Google AI Overviews,peek-cloppenburg.de,Top 10,3,8,0.51,0.55,0.59,0.66,0.15
+Fashion Retailers,Google AI Overviews,whowhatwear.com,Top 10,4,9,0.74,0.57,0.56,0.63,-0.11
+Fashion Retailers,Google AI Overviews,otto.de,Top 10,1,10,0.43,0.40,0.42,0.56,0.13
+Fashion Retailers,Google AI Overviews,quora.com,Top 10,2,11,0.51,0.51,0.65,0.55,0.04
+Fashion Retailers,Google AI Overviews,shopify.com,Top 10,1,13,0.52,0.37,0.39,0.50,-0.02
+Fashion Retailers,Google AI Overviews,apple.com,Top 10,1,18,0.51,0.23,0.37,0.30,-0.21
+Fashion Retailers,Google AI Overviews,linkedin.com,Pinned social,0,22,0.25,0.27,0.36,0.26,0.01
+Fashion Retailers,Google Gemini,reddit.com,Both,4,1,1.23,1.62,1.39,3.08,1.85
+Fashion Retailers,Google Gemini,otto.de,Top 10,4,2,2.28,2.49,2.69,2.50,0.22
+Fashion Retailers,Google Gemini,peek-cloppenburg.de,Top 10,4,3,1.84,2.13,2.06,2.10,0.26
+Fashion Retailers,Google Gemini,asos.com,Top 10,4,4,2.37,1.66,1.74,1.53,-0.84
+Fashion Retailers,Google Gemini,zalando.de,Top 10,2,5,0.01,0.00,0.76,1.24,1.23
+Fashion Retailers,Google Gemini,whowhatwear.com,Top 10,2,6,0.74,0.52,0.39,1.16,0.42
+Fashion Retailers,Google Gemini,google.com,Top 10,4,7,0.62,0.74,0.78,1.11,0.49
+Fashion Retailers,Google Gemini,aboutyou.de,Top 10,4,8,1.28,1.69,1.46,0.95,-0.33
+Fashion Retailers,Google Gemini,friptadium.com,Top 10,2,9,0.52,0.50,0.57,0.85,0.33
+Fashion Retailers,Google Gemini,c-and-a.com,Top 10,3,10,0.47,0.96,0.65,0.65,0.18
+Fashion Retailers,Google Gemini,boohoo.com,Top 10,3,13,0.57,0.78,0.68,0.55,-0.02
+Fashion Retailers,Google Gemini,beautyai.app,Top 10,3,14,0.85,0.85,0.82,0.48,-0.37
+Fashion Retailers,Google Gemini,sumissura.com,Top 10,1,15,0.50,0.66,0.62,0.45,-0.05
+Fashion Retailers,Google Gemini,youtube.com,Pinned social,0,210,0.18,0.12,0.13,0.09,-0.09
+Fashion Retailers,Google Gemini,facebook.com,Pinned social,0,,0.02,0.00,0.00,0.00,-0.02

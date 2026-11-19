@@ -1,0 +1,64 @@
+vertical,model_name,rootdomain,channel_group,weeks_in_top10,rank_week4,citation_share_week1_pct,citation_share_week2_pct,citation_share_week3_pct,citation_share_week4_pct,change_week1_to_week4_pts
+Coffee Chains,ChatGPT,starbucks.co.uk,Top 10,4,1,1.97,2.04,2.11,2.53,0.56
+Coffee Chains,ChatGPT,starbucks.de,Top 10,4,2,2.59,2.43,2.44,2.48,-0.11
+Coffee Chains,ChatGPT,ubereats.com,Top 10,2,3,0.61,0.74,1.15,1.82,1.21
+Coffee Chains,ChatGPT,starbucks.fr,Top 10,4,4,1.88,1.87,1.67,1.75,-0.13
+Coffee Chains,ChatGPT,which.co.uk,Top 10,4,5,0.95,1.58,1.79,1.73,0.78
+Coffee Chains,ChatGPT,worldcoffeeportal.com,Top 10,4,6,1.00,1.25,1.53,1.64,0.64
+Coffee Chains,ChatGPT,coffee-fellows.com,Top 10,4,7,1.23,1.25,1.10,1.25,0.02
+Coffee Chains,ChatGPT,columbuscafe.com,Top 10,2,8,0.88,0.99,0.98,1.21,0.33
+Coffee Chains,ChatGPT,reviewed.com,Top 10,2,9,0.75,0.75,1.07,1.20,0.45
+Coffee Chains,ChatGPT,tchibo.de,Top 10,2,10,0.84,0.97,1.12,1.20,0.36
+Coffee Chains,ChatGPT,costa.co.uk,Top 10,3,12,1.72,1.40,1.30,1.05,-0.67
+Coffee Chains,ChatGPT,foodandwine.com,Top 10,2,13,0.91,1.02,1.03,0.89,-0.02
+Coffee Chains,ChatGPT,starbucks.com,Top 10,2,20,1.20,1.00,0.99,0.62,-0.58
+Coffee Chains,ChatGPT,google.com,Top 10,1,23,0.97,0.45,0.49,0.55,-0.42
+Coffee Chains,ChatGPT,reddit.com,Pinned social,0,441,0.14,0.03,0.07,0.04,-0.10
+Coffee Chains,ChatGPT,linkedin.com,Pinned social,0,,0.03,0.06,0.05,0.00,-0.03
+Coffee Chains,ChatGPT,youtube.com,Pinned social,0,,0.01,0.00,0.00,0.00,-0.01
+Coffee Chains,Google AI Mode,google.com,Top 10,4,1,21.33,24.31,25.95,14.05,-7.28
+Coffee Chains,Google AI Mode,facebook.com,Both,4,2,2.16,1.79,4.30,3.98,1.82
+Coffee Chains,Google AI Mode,reddit.com,Both,4,3,3.14,3.39,3.17,3.64,0.50
+Coffee Chains,Google AI Mode,youtube.com,Both,4,4,2.03,1.35,4.38,3.12,1.09
+Coffee Chains,Google AI Mode,instagram.com,Top 10,4,5,1.40,1.13,2.00,2.03,0.63
+Coffee Chains,Google AI Mode,tastingtable.com,Top 10,4,6,0.73,0.83,0.67,0.76,0.03
+Coffee Chains,Google AI Mode,starbucks.de,Top 10,4,7,1.31,1.64,0.68,0.72,-0.59
+Coffee Chains,Google AI Mode,coffee-fellows.com,Top 10,2,8,0.62,0.86,0.35,0.67,0.05
+Coffee Chains,Google AI Mode,ubereats.com,Top 10,1,9,0.40,0.61,0.33,0.60,0.20
+Coffee Chains,Google AI Mode,kununu.com,Top 10,4,10,0.74,0.96,0.49,0.56,-0.18
+Coffee Chains,Google AI Mode,mcdonalds.com,Top 10,1,16,0.73,0.75,0.22,0.40,-0.33
+Coffee Chains,Google AI Mode,usatoday.com,Top 10,1,19,0.64,0.77,0.34,0.36,-0.28
+Coffee Chains,Google AI Mode,tiktok.com,Top 10,1,23,0.28,0.15,0.36,0.34,0.06
+Coffee Chains,Google AI Mode,starbucks.com,Top 10,1,24,0.74,0.70,0.33,0.33,-0.41
+Coffee Chains,Google AI Mode,amazon.de,Top 10,1,31,0.55,0.44,0.38,0.29,-0.26
+Coffee Chains,Google AI Mode,linkedin.com,Pinned social,0,84,0.10,0.19,0.16,0.15,0.05
+Coffee Chains,Google AI Overviews,google.com,Top 10,4,1,4.52,8.37,7.84,9.92,5.40
+Coffee Chains,Google AI Overviews,facebook.com,Both,4,2,6.03,6.67,7.14,6.89,0.86
+Coffee Chains,Google AI Overviews,youtube.com,Both,4,3,6.48,6.07,6.51,5.36,-1.12
+Coffee Chains,Google AI Overviews,reddit.com,Both,4,4,3.49,4.02,3.84,3.39,-0.10
+Coffee Chains,Google AI Overviews,instagram.com,Top 10,4,5,3.40,3.85,3.69,3.32,-0.08
+Coffee Chains,Google AI Overviews,starbucks.de,Top 10,4,6,0.75,0.76,0.74,0.79,0.04
+Coffee Chains,Google AI Overviews,coffee-fellows.com,Top 10,1,7,0.30,0.36,0.36,0.75,0.45
+Coffee Chains,Google AI Overviews,ubereats.com,Top 10,1,8,0.50,0.39,0.40,0.75,0.25
+Coffee Chains,Google AI Overviews,quora.com,Top 10,4,9,0.74,0.58,0.80,0.71,-0.03
+Coffee Chains,Google AI Overviews,tastingtable.com,Top 10,4,10,0.90,0.62,0.61,0.66,-0.24
+Coffee Chains,Google AI Overviews,tiktok.com,Top 10,3,11,0.58,0.56,0.61,0.59,0.01
+Coffee Chains,Google AI Overviews,kununu.com,Top 10,1,13,0.53,0.54,0.47,0.46,-0.07
+Coffee Chains,Google AI Overviews,maxicoffee.com,Top 10,1,29,0.48,0.42,0.48,0.29,-0.19
+Coffee Chains,Google AI Overviews,linkedin.com,Pinned social,0,37,0.18,0.31,0.25,0.24,0.06
+Coffee Chains,Google AI Overviews,foodandwine.com,Top 10,1,39,0.64,0.45,0.29,0.23,-0.41
+Coffee Chains,Google Gemini,smarterranking.com,Top 10,4,1,4.78,4.81,4.19,2.86,-1.92
+Coffee Chains,Google Gemini,reddit.com,Both,4,2,1.46,1.43,1.41,2.42,0.96
+Coffee Chains,Google Gemini,favecard.co,Top 10,4,3,1.25,1.42,1.37,1.49,0.24
+Coffee Chains,Google Gemini,ubereats.com,Top 10,4,4,1.05,1.03,1.20,1.41,0.36
+Coffee Chains,Google Gemini,starbucks.de,Top 10,4,5,0.81,0.68,0.87,1.00,0.19
+Coffee Chains,Google Gemini,quardy.app,Top 10,1,6,0.23,0.18,0.30,0.82,0.59
+Coffee Chains,Google Gemini,tastingtable.com,Top 10,4,7,0.92,0.79,0.74,0.80,-0.12
+Coffee Chains,Google Gemini,bonusqr.com,Top 10,3,8,0.52,0.73,0.83,0.75,0.23
+Coffee Chains,Google Gemini,contactcoffee.com,Top 10,2,9,0.75,0.50,0.68,0.69,-0.06
+Coffee Chains,Google Gemini,frogcoffee.de,Top 10,2,10,0.27,0.46,0.72,0.68,0.41
+Coffee Chains,Google Gemini,starbucksspeisekarte.de,Top 10,1,15,0.52,0.76,0.39,0.65,0.13
+Coffee Chains,Google Gemini,coffee-webstore.com,Top 10,3,18,0.82,0.97,1.03,0.62,-0.20
+Coffee Chains,Google Gemini,workingfromcoffeeshops.co.uk,Top 10,3,19,1.02,0.93,1.16,0.56,-0.46
+Coffee Chains,Google Gemini,youtube.com,Pinned social,0,127,0.12,0.23,0.16,0.17,0.05
+Coffee Chains,Google Gemini,speise-kartepreise.de,Top 10,1,,0.70,0.50,0.13,0.00,-0.70

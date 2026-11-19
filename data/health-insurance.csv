@@ -1,0 +1,61 @@
+vertical,model_name,rootdomain,channel_group,weeks_in_top10,rank_week4,citation_share_week1_pct,citation_share_week2_pct,citation_share_week3_pct,citation_share_week4_pct,change_week1_to_week4_pts
+Health Insurance,ChatGPT,healthcare.gov,Top 10,4,1,48.54,37.56,30.01,28.62,-19.92
+Health Insurance,ChatGPT,cms.gov,Top 10,4,2,4.23,4.34,4.95,7.22,2.99
+Health Insurance,ChatGPT,healthinsurance.org,Top 10,4,3,2.12,3.46,4.68,4.74,2.62
+Health Insurance,ChatGPT,ny.gov,Top 10,3,4,1.08,1.99,2.66,3.73,2.65
+Health Insurance,ChatGPT,kff.org,Top 10,4,5,4.23,4.04,3.23,2.67,-1.56
+Health Insurance,ChatGPT,moneygeek.com,Top 10,4,6,3.25,2.88,2.07,2.42,-0.83
+Health Insurance,ChatGPT,coveredca.com,Top 10,4,7,1.81,2.32,3.04,2.21,0.40
+Health Insurance,ChatGPT,irs.gov,Top 10,2,8,1.14,1.64,1.64,2.21,1.07
+Health Insurance,ChatGPT,texas.gov,Top 10,3,9,1.60,1.31,2.02,2.15,0.55
+Health Insurance,ChatGPT,virginia.gov,Top 10,2,10,0.88,1.74,1.56,1.85,0.97
+Health Insurance,ChatGPT,illinois.gov,Top 10,3,12,1.50,2.40,2.31,1.74,0.24
+Health Insurance,ChatGPT,nj.gov,Top 10,1,13,1.34,1.11,2.58,1.66,0.32
+Health Insurance,ChatGPT,uhc.com,Top 10,1,15,1.45,1.56,1.56,1.50,0.05
+Health Insurance,ChatGPT,valuepenguin.com,Top 10,1,16,1.58,1.08,0.65,1.12,-0.46
+Health Insurance,Google AI Mode,healthcare.gov,Top 10,4,1,15.96,19.07,8.65,8.87,-7.09
+Health Insurance,Google AI Mode,uhc.com,Top 10,4,2,8.73,6.74,6.20,6.40,-2.33
+Health Insurance,Google AI Mode,youtube.com,Both,3,3,0.92,1.67,7.46,5.20,4.28
+Health Insurance,Google AI Mode,forbes.com,Top 10,4,4,10.75,17.98,6.18,4.23,-6.52
+Health Insurance,Google AI Mode,cigna.com,Top 10,4,5,1.93,2.32,2.96,3.41,1.48
+Health Insurance,Google AI Mode,healthinsurance.org,Top 10,3,6,2.07,1.74,1.54,3.12,1.05
+Health Insurance,Google AI Mode,jamanetwork.com,Top 10,2,7,0.00,0.00,5.04,2.82,2.82
+Health Insurance,Google AI Mode,nerdwallet.com,Top 10,1,8,0.96,1.09,1.66,2.82,1.86
+Health Insurance,Google AI Mode,facebook.com,Both,2,9,1.01,0.58,3.55,2.62,1.61
+Health Insurance,Google AI Mode,healthcareinsider.com,Top 10,1,10,1.01,1.02,1.69,2.57,1.56
+Health Insurance,Google AI Mode,goodrx.com,Top 10,3,11,2.75,2.32,2.01,2.45,-0.30
+Health Insurance,Google AI Mode,reddit.com,Both,1,12,0.92,0.07,2.31,2.15,1.23
+Health Insurance,Google AI Mode,ehealthinsurance.com,Top 10,3,13,1.54,1.81,2.20,2.08,0.54
+Health Insurance,Google AI Mode,anthem.com,Top 10,1,15,2.60,1.38,1.71,1.88,-0.72
+Health Insurance,Google AI Mode,investopedia.com,Top 10,2,16,2.99,2.18,1.54,1.78,-1.21
+Health Insurance,Google AI Mode,aetna.com,Top 10,2,17,1.35,1.81,1.38,1.63,0.28
+Health Insurance,Google AI Mode,linkedin.com,Pinned social,0,23,0.63,0.51,1.06,0.81,0.18
+Health Insurance,Google AI Overviews,healthcare.gov,Top 10,4,1,9.66,6.54,6.26,5.87,-3.79
+Health Insurance,Google AI Overviews,jamanetwork.com,Top 10,3,2,0.12,6.23,8.00,5.39,5.27
+Health Insurance,Google AI Overviews,youtube.com,Both,4,3,3.81,6.01,6.04,5.31,1.50
+Health Insurance,Google AI Overviews,facebook.com,Both,4,4,3.16,4.29,5.35,4.91,1.75
+Health Insurance,Google AI Overviews,uhc.com,Top 10,4,5,7.70,5.42,5.23,4.91,-2.79
+Health Insurance,Google AI Overviews,forbes.com,Top 10,4,6,4.42,4.38,3.96,3.80,-0.62
+Health Insurance,Google AI Overviews,reddit.com,Both,3,7,1.75,2.41,2.39,2.79,1.04
+Health Insurance,Google AI Overviews,cigna.com,Top 10,2,8,1.31,2.06,1.72,2.35,1.04
+Health Insurance,Google AI Overviews,nerdwallet.com,Top 10,2,9,1.68,1.80,1.74,2.31,0.63
+Health Insurance,Google AI Overviews,doi.org,Top 10,1,10,0.00,0.00,0.00,2.26,2.26
+Health Insurance,Google AI Overviews,ehealthinsurance.com,Top 10,3,12,2.65,2.35,2.00,2.05,-0.60
+Health Insurance,Google AI Overviews,anthem.com,Top 10,3,13,4.66,1.95,2.60,1.88,-2.78
+Health Insurance,Google AI Overviews,goodrx.com,Top 10,1,14,2.25,1.85,1.60,1.76,-0.49
+Health Insurance,Google AI Overviews,healthinsurance.org,Top 10,1,15,2.18,1.50,1.67,1.66,-0.52
+Health Insurance,Google AI Overviews,investopedia.com,Top 10,1,18,2.03,1.47,1.53,1.23,-0.80
+Health Insurance,Google AI Overviews,linkedin.com,Pinned social,0,30,0.96,0.73,0.98,0.62,-0.34
+Health Insurance,Google Gemini,moneygeek.com,Top 10,4,1,8.34,6.95,7.39,7.54,-0.80
+Health Insurance,Google Gemini,healthcare.gov,Top 10,4,2,2.97,4.04,3.79,6.64,3.67
+Health Insurance,Google Gemini,forbes.com,Top 10,4,3,4.79,4.17,3.94,5.77,0.98
+Health Insurance,Google Gemini,uhc.com,Top 10,4,4,5.37,6.73,6.74,5.05,-0.32
+Health Insurance,Google Gemini,aetna.com,Top 10,4,5,2.35,2.83,2.19,3.60,1.25
+Health Insurance,Google Gemini,cigna.com,Top 10,4,6,3.55,3.75,3.97,3.60,0.05
+Health Insurance,Google Gemini,franklinbenefitsgroup.com,Top 10,3,7,1.53,1.89,2.56,3.30,1.77
+Health Insurance,Google Gemini,lendingtree.com,Top 10,4,8,3.73,3.38,4.31,2.94,-0.79
+Health Insurance,Google Gemini,anthem.com,Top 10,4,9,3.17,2.70,2.69,2.49,-0.68
+Health Insurance,Google Gemini,humana.com,Top 10,1,10,1.75,0.66,1.62,2.04,0.29
+Health Insurance,Google Gemini,withflex.com,Top 10,1,14,2.13,1.67,1.28,1.38,-0.75
+Health Insurance,Google Gemini,ehealthinsurance.com,Top 10,3,20,2.42,3.20,3.24,1.05,-1.37
+Health Insurance,Google Gemini,reddit.com,Pinned social,0,58,0.31,0.15,0.29,0.33,0.02

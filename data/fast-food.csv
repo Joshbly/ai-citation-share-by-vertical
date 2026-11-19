@@ -1,0 +1,65 @@
+vertical,model_name,rootdomain,channel_group,weeks_in_top10,rank_week4,citation_share_week1_pct,citation_share_week2_pct,citation_share_week3_pct,citation_share_week4_pct,change_week1_to_week4_pts
+Fast Food,ChatGPT,ubereats.com,Top 10,4,1,2.03,2.21,3.10,6.85,4.82
+Fast Food,ChatGPT,drivethruindex.com,Top 10,4,2,2.73,3.54,3.75,4.00,1.27
+Fast Food,ChatGPT,mcdonalds.com,Top 10,4,3,4.37,3.79,3.51,2.49,-1.88
+Fast Food,ChatGPT,mcdonalds.fr,Top 10,4,4,2.78,2.31,2.03,1.72,-1.06
+Fast Food,ChatGPT,uber.com,Top 10,3,5,0.67,1.33,1.64,1.45,0.78
+Fast Food,ChatGPT,essenspreise.de,Top 10,4,6,1.17,1.41,1.36,1.32,0.15
+Fast Food,ChatGPT,tripadvisor.com,Top 10,3,7,2.23,1.58,0.89,1.20,-1.03
+Fast Food,ChatGPT,google.com,Top 10,3,8,2.07,1.28,0.71,1.12,-0.95
+Fast Food,ChatGPT,chick-fil-a.com,Top 10,4,9,1.29,1.08,1.08,1.08,-0.21
+Fast Food,ChatGPT,burgerking.fr,Top 10,3,10,1.15,1.06,0.92,0.95,-0.20
+Fast Food,ChatGPT,deliveroo.co.uk,Top 10,1,11,1.08,0.79,0.98,0.92,-0.16
+Fast Food,ChatGPT,frugalfeeds.com.au,Top 10,1,12,1.07,1.21,0.92,0.79,-0.28
+Fast Food,ChatGPT,kilomate.com.au,Top 10,1,14,0.00,0.39,1.03,0.72,0.72
+Fast Food,ChatGPT,hungryjacks.com.au,Top 10,1,23,1.27,0.98,0.75,0.61,-0.66
+Fast Food,ChatGPT,reddit.com,Pinned social,0,103,0.16,0.07,0.09,0.20,0.04
+Fast Food,ChatGPT,linkedin.com,Pinned social,0,395,0.04,0.06,0.08,0.04,0.00
+Fast Food,ChatGPT,youtube.com,Pinned social,0,865,0.01,0.00,0.00,0.02,0.01
+Fast Food,ChatGPT,facebook.com,Pinned social,0,,0.01,0.00,0.00,0.00,-0.01
+Fast Food,Google AI Mode,google.com,Top 10,4,1,37.00,45.79,43.26,28.44,-8.56
+Fast Food,Google AI Mode,facebook.com,Both,4,2,3.10,2.26,5.00,5.22,2.12
+Fast Food,Google AI Mode,reddit.com,Both,4,3,3.33,2.77,3.13,3.78,0.45
+Fast Food,Google AI Mode,youtube.com,Both,4,4,2.20,1.05,3.33,3.62,1.42
+Fast Food,Google AI Mode,instagram.com,Top 10,4,5,1.28,1.04,2.17,2.50,1.22
+Fast Food,Google AI Mode,mcdonalds.com,Top 10,4,6,2.94,2.93,1.10,1.36,-1.58
+Fast Food,Google AI Mode,ubereats.com,Top 10,3,7,0.81,0.74,0.79,1.23,0.42
+Fast Food,Google AI Mode,tiktok.com,Top 10,2,8,0.30,0.18,0.87,1.10,0.80
+Fast Food,Google AI Mode,frugalfeeds.com.au,Top 10,4,9,1.19,1.17,0.68,0.67,-0.52
+Fast Food,Google AI Mode,macromenu.com.au,Top 10,1,10,0.46,0.52,0.46,0.65,0.19
+Fast Food,Google AI Mode,nutrola.app,Top 10,1,11,0.48,0.40,0.48,0.62,0.14
+Fast Food,Google AI Mode,calorieking.com,Top 10,1,13,0.93,0.64,0.23,0.55,-0.38
+Fast Food,Google AI Mode,nutracheck.co.uk,Top 10,1,15,0.75,0.94,0.30,0.51,-0.24
+Fast Food,Google AI Mode,mcdonalds.fr,Top 10,2,16,1.24,1.17,0.36,0.49,-0.75
+Fast Food,Google AI Mode,barometredesprix.fr,Top 10,1,17,0.70,0.83,0.32,0.40,-0.30
+Fast Food,Google AI Mode,linkedin.com,Pinned social,0,183,0.05,0.05,0.04,0.05,0.00
+Fast Food,Google AI Overviews,google.com,Top 10,4,1,7.70,13.22,11.65,13.38,5.68
+Fast Food,Google AI Overviews,facebook.com,Both,4,2,9.29,9.80,10.56,9.94,0.65
+Fast Food,Google AI Overviews,youtube.com,Both,4,3,6.66,5.68,6.22,5.50,-1.16
+Fast Food,Google AI Overviews,instagram.com,Top 10,4,4,5.00,5.12,5.26,4.55,-0.45
+Fast Food,Google AI Overviews,reddit.com,Both,4,5,5.30,4.95,4.81,4.44,-0.86
+Fast Food,Google AI Overviews,tiktok.com,Top 10,4,6,1.56,1.58,1.72,1.54,-0.02
+Fast Food,Google AI Overviews,ubereats.com,Top 10,4,7,2.04,1.53,1.38,1.49,-0.55
+Fast Food,Google AI Overviews,mcdonalds.com,Top 10,4,8,1.70,1.51,1.52,1.45,-0.25
+Fast Food,Google AI Overviews,burgerking.fr,Top 10,2,9,0.66,0.51,0.52,0.63,-0.03
+Fast Food,Google AI Overviews,quora.com,Top 10,3,10,0.45,0.54,0.65,0.61,0.16
+Fast Food,Google AI Overviews,bbcgoodfood.com,Top 10,2,11,0.63,0.51,0.56,0.58,-0.05
+Fast Food,Google AI Overviews,frugalfeeds.com.au,Top 10,1,13,0.67,0.46,0.50,0.52,-0.15
+Fast Food,Google AI Overviews,linkedin.com,Pinned social,0,207,0.05,0.08,0.08,0.05,0.00
+Fast Food,Google Gemini,reddit.com,Both,4,1,3.37,2.76,2.78,5.20,1.83
+Fast Food,Google Gemini,ubereats.com,Top 10,4,2,3.65,3.84,3.76,3.89,0.24
+Fast Food,Google Gemini,mitvergnuegen.com,Top 10,3,3,0.81,0.94,1.07,2.12,1.31
+Fast Food,Google Gemini,macromenu.com.au,Top 10,3,4,0.92,1.08,1.79,2.01,1.09
+Fast Food,Google Gemini,mcdonalds.com,Top 10,4,5,1.93,2.20,2.13,1.42,-0.51
+Fast Food,Google Gemini,speisekartemenus.de,Top 10,1,6,0.86,0.74,0.72,1.25,0.39
+Fast Food,Google Gemini,tastingtable.com,Top 10,3,7,1.48,1.11,0.85,1.20,-0.28
+Fast Food,Google Gemini,nutrola.app,Top 10,4,8,1.17,1.31,1.22,1.18,0.01
+Fast Food,Google Gemini,zelty.fr,Top 10,1,9,1.01,0.74,0.85,1.17,0.16
+Fast Food,Google Gemini,cooknblog.com,Top 10,4,10,1.12,1.07,1.20,0.95,-0.17
+Fast Food,Google Gemini,frugalfeeds.com.au,Top 10,3,11,1.49,1.08,1.17,0.95,-0.54
+Fast Food,Google Gemini,coolibri.de,Top 10,1,13,0.37,0.82,0.98,0.91,0.54
+Fast Food,Google Gemini,barometredesprix.fr,Top 10,2,24,1.08,1.29,0.89,0.65,-0.43
+Fast Food,Google Gemini,youtube.com,Pinned social,0,48,0.54,0.36,0.50,0.33,-0.21
+Fast Food,Google Gemini,cleaneatzkitchen.com,Top 10,2,50,1.03,0.83,1.01,0.32,-0.71
+Fast Food,Google Gemini,facebook.com,Pinned social,0,,0.11,0.02,0.00,0.00,-0.11
+Fast Food,Google Gemini,hitprotein.com.au,Top 10,1,,1.01,0.57,0.00,0.00,-1.01

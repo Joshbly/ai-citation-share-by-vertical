@@ -1,0 +1,57 @@
+vertical,model_name,rootdomain,channel_group,weeks_in_top10,rank_week4,citation_share_week1_pct,citation_share_week2_pct,citation_share_week3_pct,citation_share_week4_pct,change_week1_to_week4_pts
+Cybersecurity,ChatGPT,nist.gov,Top 10,4,1,13.66,13.11,12.94,13.73,0.07
+Cybersecurity,ChatGPT,microsoft.com,Top 10,4,2,11.38,10.83,9.77,10.46,-0.92
+Cybersecurity,ChatGPT,ncsc.gov.uk,Top 10,4,3,7.05,7.76,8.02,7.04,-0.01
+Cybersecurity,ChatGPT,cisa.gov,Top 10,4,4,7.56,3.79,4.95,6.98,-0.58
+Cybersecurity,ChatGPT,expertinsights.com,Top 10,4,5,5.14,6.00,6.85,6.17,1.03
+Cybersecurity,ChatGPT,ciopages.com,Top 10,4,6,2.48,2.45,2.66,3.16,0.68
+Cybersecurity,ChatGPT,owasp.org,Top 10,4,7,3.82,3.72,3.18,3.06,-0.76
+Cybersecurity,ChatGPT,gartner.com,Top 10,4,8,2.49,2.72,3.08,2.48,-0.01
+Cybersecurity,ChatGPT,owasp.github.io,Top 10,3,9,1.96,1.84,1.92,2.11,0.15
+Cybersecurity,ChatGPT,paloaltonetworks.com,Top 10,4,10,3.01,2.53,2.79,1.89,-1.12
+Cybersecurity,ChatGPT,cisco.com,Top 10,1,11,1.71,1.87,1.48,1.30,-0.41
+Cybersecurity,ChatGPT,linkedin.com,Pinned social,0,,0.01,0.00,0.00,0.00,-0.01
+Cybersecurity,Google AI Mode,youtube.com,Both,4,1,6.93,12.87,22.41,21.08,14.15
+Cybersecurity,Google AI Mode,microsoft.com,Top 10,4,2,3.48,3.53,3.18,3.33,-0.15
+Cybersecurity,Google AI Mode,fortinet.com,Top 10,4,3,3.05,2.94,2.73,2.90,-0.15
+Cybersecurity,Google AI Mode,ibm.com,Top 10,4,4,2.86,3.05,2.49,2.62,-0.24
+Cybersecurity,Google AI Mode,reddit.com,Both,2,5,0.88,0.92,2.43,2.48,1.60
+Cybersecurity,Google AI Mode,paloaltonetworks.com,Top 10,4,6,3.30,3.34,2.33,2.00,-1.30
+Cybersecurity,Google AI Mode,crowdstrike.com,Top 10,4,7,2.26,2.29,1.93,1.89,-0.37
+Cybersecurity,Google AI Mode,gartner.com,Top 10,4,8,2.93,4.49,1.97,1.87,-1.06
+Cybersecurity,Google AI Mode,cisa.gov,Top 10,4,9,2.15,2.14,1.21,1.39,-0.76
+Cybersecurity,Google AI Mode,ncsc.gov.uk,Top 10,4,10,1.46,1.46,1.10,1.29,-0.17
+Cybersecurity,Google AI Mode,facebook.com,Pinned social,0,11,0.21,0.24,0.97,1.09,0.88
+Cybersecurity,Google AI Mode,linkedin.com,Pinned social,0,16,0.68,0.69,0.74,0.85,0.17
+Cybersecurity,Google AI Mode,sentinelone.com,Top 10,1,17,1.52,0.97,0.91,0.75,-0.77
+Cybersecurity,Google AI Mode,nist.gov,Top 10,1,28,1.04,1.38,0.46,0.49,-0.55
+Cybersecurity,Google AI Overviews,youtube.com,Both,4,1,11.99,18.40,19.47,19.41,7.42
+Cybersecurity,Google AI Overviews,microsoft.com,Top 10,4,2,3.50,2.88,2.74,3.01,-0.49
+Cybersecurity,Google AI Overviews,fortinet.com,Top 10,4,3,2.97,2.68,2.73,2.82,-0.15
+Cybersecurity,Google AI Overviews,ibm.com,Top 10,4,4,2.69,2.55,2.57,2.57,-0.12
+Cybersecurity,Google AI Overviews,paloaltonetworks.com,Top 10,4,5,2.46,2.30,2.27,2.14,-0.32
+Cybersecurity,Google AI Overviews,crowdstrike.com,Top 10,4,6,2.07,1.94,1.92,1.95,-0.12
+Cybersecurity,Google AI Overviews,reddit.com,Both,4,7,1.25,1.88,1.78,1.73,0.48
+Cybersecurity,Google AI Overviews,ncsc.gov.uk,Top 10,3,8,1.16,1.26,1.17,1.34,0.18
+Cybersecurity,Google AI Overviews,gartner.com,Top 10,4,9,1.66,1.44,1.36,1.31,-0.35
+Cybersecurity,Google AI Overviews,cisa.gov,Top 10,2,10,1.08,1.02,1.06,1.14,0.06
+Cybersecurity,Google AI Overviews,proofpoint.com,Top 10,2,11,1.30,1.03,0.99,1.12,-0.18
+Cybersecurity,Google AI Overviews,facebook.com,Pinned social,0,12,0.43,0.85,0.93,0.97,0.54
+Cybersecurity,Google AI Overviews,linkedin.com,Pinned social,0,13,0.71,0.99,0.99,0.95,0.24
+Cybersecurity,Google AI Overviews,sentinelone.com,Top 10,1,14,1.46,0.98,0.97,0.86,-0.60
+Cybersecurity,Google Gemini,gartner.com,Top 10,4,1,5.17,5.10,5.88,6.89,1.72
+Cybersecurity,Google Gemini,microsoft.com,Top 10,4,2,2.44,2.50,2.26,2.95,0.51
+Cybersecurity,Google Gemini,crowdstrike.com,Top 10,4,3,1.97,2.29,2.53,2.24,0.27
+Cybersecurity,Google Gemini,paloaltonetworks.com,Top 10,4,4,2.28,2.38,2.39,2.17,-0.11
+Cybersecurity,Google Gemini,fortinet.com,Top 10,4,5,1.70,1.78,2.06,2.07,0.37
+Cybersecurity,Google Gemini,huntress.com,Top 10,4,6,1.76,1.55,1.37,2.02,0.26
+Cybersecurity,Google Gemini,cybermagazine.com,Top 10,1,7,0.63,0.07,0.04,1.72,1.09
+Cybersecurity,Google Gemini,ibm.com,Top 10,2,8,1.07,1.09,1.39,1.71,0.64
+Cybersecurity,Google Gemini,sentinelone.com,Top 10,4,9,1.96,2.12,2.41,1.60,-0.36
+Cybersecurity,Google Gemini,wiz.io,Top 10,3,10,1.41,1.23,0.99,1.42,0.01
+Cybersecurity,Google Gemini,puppygraph.com,Top 10,3,11,1.68,1.38,1.79,1.07,-0.61
+Cybersecurity,Google Gemini,acronis.com,Top 10,2,26,0.82,1.22,1.45,0.73,-0.09
+Cybersecurity,Google Gemini,miniorange.com,Top 10,1,47,1.14,0.86,1.23,0.45,-0.69
+Cybersecurity,Google Gemini,reddit.com,Pinned social,0,114,0.25,0.10,0.26,0.17,-0.08
+Cybersecurity,Google Gemini,facebook.com,Pinned social,0,,0.02,0.00,0.00,0.00,-0.02
+Cybersecurity,Google Gemini,youtube.com,Pinned social,0,,0.00,0.02,0.03,0.00,0.00

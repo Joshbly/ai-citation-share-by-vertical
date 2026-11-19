@@ -1,0 +1,65 @@
+vertical,model_name,rootdomain,channel_group,weeks_in_top10,rank_week4,citation_share_week1_pct,citation_share_week2_pct,citation_share_week3_pct,citation_share_week4_pct,change_week1_to_week4_pts
+Venture Capital,ChatGPT,rothschildandco.com,Top 10,2,1,1.81,1.91,5.00,7.24,5.43
+Venture Capital,ChatGPT,crv.com,Top 10,4,2,4.69,5.16,4.72,6.36,1.67
+Venture Capital,ChatGPT,inc.com,Top 10,4,3,2.22,3.37,3.28,3.35,1.13
+Venture Capital,ChatGPT,indexed.vc,Top 10,3,4,1.72,2.50,2.62,2.77,1.05
+Venture Capital,ChatGPT,cbinsights.com,Top 10,4,5,2.49,2.68,3.01,2.74,0.25
+Venture Capital,ChatGPT,a16z.com,Top 10,4,6,5.43,4.33,2.71,2.59,-2.84
+Venture Capital,ChatGPT,citeables.com,Top 10,4,7,2.06,2.37,2.38,2.53,0.47
+Venture Capital,ChatGPT,valueaddvc.com,Top 10,4,8,2.47,2.21,2.71,2.53,0.06
+Venture Capital,ChatGPT,crunchbase.com,Top 10,3,9,2.54,1.89,2.02,2.31,-0.23
+Venture Capital,ChatGPT,affinity.co,Top 10,3,10,1.99,2.07,1.66,2.10,0.11
+Venture Capital,ChatGPT,brightspotcdn.com,Top 10,2,12,1.74,2.05,3.37,1.70,-0.04
+Venture Capital,ChatGPT,bvp.com,Top 10,2,13,2.06,1.97,1.41,1.52,-0.54
+Venture Capital,ChatGPT,nvca.org,Top 10,1,15,1.99,1.30,1.26,1.37,-0.62
+Venture Capital,ChatGPT,reddit.com,Pinned social,0,223,0.00,0.00,0.03,0.06,0.06
+Venture Capital,ChatGPT,linkedin.com,Pinned social,0,353,0.18,0.19,0.03,0.03,-0.15
+Venture Capital,Google AI Mode,forbes.com,Top 10,4,1,9.93,11.77,6.32,5.94,-3.99
+Venture Capital,Google AI Mode,linkedin.com,Both,4,2,3.62,2.60,4.80,5.22,1.60
+Venture Capital,Google AI Mode,openvc.app,Top 10,4,3,9.49,6.06,6.21,5.11,-4.38
+Venture Capital,Google AI Mode,youtube.com,Both,2,4,1.25,0.69,7.68,4.42,3.17
+Venture Capital,Google AI Mode,privateequitylist.com,Top 10,4,5,3.68,3.12,4.24,3.37,-0.31
+Venture Capital,Google AI Mode,vcsheet.com,Top 10,1,6,2.00,2.08,1.83,3.07,1.07
+Venture Capital,Google AI Mode,time.com,Top 10,4,7,3.75,3.72,3.12,3.03,-0.72
+Venture Capital,Google AI Mode,dealroom.co,Top 10,2,8,1.94,1.56,2.39,2.62,0.68
+Venture Capital,Google AI Mode,substack.com,Top 10,4,9,7.62,6.23,3.56,2.40,-5.22
+Venture Capital,Google AI Mode,affinity.co,Top 10,3,10,3.25,3.12,1.57,2.32,-0.93
+Venture Capital,Google AI Mode,pitchbook.com,Top 10,1,12,2.12,4.50,1.94,2.03,-0.09
+Venture Capital,Google AI Mode,mercury.com,Top 10,1,13,2.37,1.99,1.52,1.95,-0.42
+Venture Capital,Google AI Mode,everythingstartups.com,Top 10,3,14,2.62,3.38,2.88,1.93,-0.69
+Venture Capital,Google AI Mode,rho.co,Top 10,3,15,3.37,3.46,3.16,1.93,-1.44
+Venture Capital,Google AI Mode,reddit.com,Pinned social,0,31,0.50,1.04,0.52,0.73,0.23
+Venture Capital,Google AI Mode,facebook.com,Pinned social,0,32,0.06,0.17,0.68,0.68,0.62
+Venture Capital,Google AI Overviews,openvc.app,Top 10,4,1,8.80,6.37,6.87,7.30,-1.50
+Venture Capital,Google AI Overviews,youtube.com,Both,4,2,4.82,8.35,7.88,6.85,2.03
+Venture Capital,Google AI Overviews,linkedin.com,Both,4,3,5.14,5.63,5.41,5.74,0.60
+Venture Capital,Google AI Overviews,forbes.com,Top 10,4,4,4.12,4.21,4.10,4.62,0.50
+Venture Capital,Google AI Overviews,time.com,Top 10,4,5,3.91,3.80,3.57,4.02,0.11
+Venture Capital,Google AI Overviews,republic.com,Top 10,4,6,2.78,2.43,2.98,2.90,0.12
+Venture Capital,Google AI Overviews,dealroom.co,Top 10,3,7,2.33,2.75,2.63,2.88,0.55
+Venture Capital,Google AI Overviews,vcsheet.com,Top 10,2,8,1.79,1.96,2.28,2.53,0.74
+Venture Capital,Google AI Overviews,substack.com,Top 10,3,9,2.78,2.61,2.10,2.51,-0.27
+Venture Capital,Google AI Overviews,wikipedia.org,Top 10,1,10,0.77,1.46,1.79,2.11,1.34
+Venture Capital,Google AI Overviews,affinity.co,Top 10,1,11,5.43,1.53,1.70,2.09,-3.34
+Venture Capital,Google AI Overviews,privateequitylist.com,Top 10,3,12,3.39,3.49,3.24,2.00,-1.39
+Venture Capital,Google AI Overviews,reddit.com,Pinned social,0,18,0.88,0.79,1.47,1.28,0.40
+Venture Capital,Google AI Overviews,rho.co,Top 10,3,19,4.14,2.57,2.40,1.21,-2.93
+Venture Capital,Google AI Overviews,facebook.com,Pinned social,0,22,0.43,0.74,0.96,1.14,0.71
+Venture Capital,Google Gemini,crv.com,Top 10,4,1,14.42,9.81,9.41,20.99,6.57
+Venture Capital,Google Gemini,openvc.app,Top 10,4,2,14.79,8.17,10.76,14.67,-0.12
+Venture Capital,Google Gemini,dealroom.net,Top 10,4,3,9.03,9.18,9.23,12.87,3.84
+Venture Capital,Google Gemini,cdtm.vc,Top 10,2,4,2.14,4.67,1.12,3.32,1.18
+Venture Capital,Google Gemini,rho.co,Top 10,3,5,4.45,3.07,4.01,2.58,-1.87
+Venture Capital,Google Gemini,getquantumgrowth.com,Top 10,1,6,0.90,1.01,2.05,2.47,1.57
+Venture Capital,Google Gemini,finta.ai,Top 10,1,7,0.74,0.93,0.70,2.33,1.59
+Venture Capital,Google Gemini,everythingstartups.com,Top 10,1,8,0.87,1.05,0.98,2.22,1.35
+Venture Capital,Google Gemini,affinity.co,Top 10,4,9,3.58,3.81,2.19,2.19,-1.39
+Venture Capital,Google Gemini,altss.com,Top 10,1,10,0.47,0.39,0.61,2.19,1.72
+Venture Capital,Google Gemini,pitchwise.se,Top 10,3,11,2.58,5.41,3.36,2.11,-0.47
+Venture Capital,Google Gemini,pitchbook.com,Top 10,2,12,2.14,3.62,3.49,1.85,-0.29
+Venture Capital,Google Gemini,vcsheet.com,Top 10,3,15,2.51,3.15,3.17,1.74,-0.77
+Venture Capital,Google Gemini,purplepath.io,Top 10,3,22,2.81,3.27,3.03,0.65,-2.16
+Venture Capital,Google Gemini,privateequitylist.com,Top 10,1,23,2.41,2.06,2.19,0.62,-1.79
+Venture Capital,Google Gemini,reddit.com,Pinned social,0,41,0.20,0.39,0.23,0.34,0.14
+Venture Capital,Google Gemini,web3futurepro.com,Top 10,3,51,2.64,3.93,3.68,0.25,-2.39
+Venture Capital,Google Gemini,youtube.com,Pinned social,0,,0.10,0.04,0.14,0.00,-0.10

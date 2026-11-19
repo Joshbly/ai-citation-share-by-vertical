@@ -1,0 +1,64 @@
+vertical,model_name,rootdomain,channel_group,weeks_in_top10,rank_week4,citation_share_week1_pct,citation_share_week2_pct,citation_share_week3_pct,citation_share_week4_pct,change_week1_to_week4_pts
+Oil & Gas,ChatGPT,mordorintelligence.com,Top 10,4,1,2.32,2.22,2.38,2.11,-0.21
+Oil & Gas,ChatGPT,eia.gov,Top 10,4,2,1.96,1.88,1.92,1.98,0.02
+Oil & Gas,ChatGPT,sec.gov,Top 10,4,3,1.88,1.57,1.73,1.89,0.01
+Oil & Gas,ChatGPT,spglobal.com,Top 10,4,4,1.41,1.51,1.49,1.76,0.35
+Oil & Gas,ChatGPT,iea.org,Top 10,4,5,1.49,1.58,1.46,1.45,-0.04
+Oil & Gas,ChatGPT,adac.de,Top 10,4,6,1.53,1.37,1.62,1.35,-0.18
+Oil & Gas,ChatGPT,ecologie.gouv.fr,Top 10,4,7,1.34,1.45,1.33,1.35,0.01
+Oil & Gas,ChatGPT,aral.de,Top 10,4,8,1.23,1.19,1.43,1.27,0.04
+Oil & Gas,ChatGPT,aramco.com,Top 10,4,9,1.49,1.32,1.31,1.14,-0.35
+Oil & Gas,ChatGPT,dkv-mobility.com,Top 10,1,10,1.14,1.03,1.01,1.07,-0.07
+Oil & Gas,ChatGPT,developpement-durable.gouv.fr,Top 10,1,11,0.86,0.89,1.12,1.03,0.17
+Oil & Gas,ChatGPT,reuters.com,Top 10,2,21,1.37,1.12,0.84,0.74,-0.63
+Oil & Gas,ChatGPT,linkedin.com,Pinned social,0,375,0.04,0.07,0.05,0.05,0.01
+Oil & Gas,Google AI Mode,youtube.com,Both,3,1,1.28,0.80,6.37,3.89,2.61
+Oil & Gas,Google AI Mode,facebook.com,Both,3,2,1.98,1.13,4.13,3.80,1.82
+Oil & Gas,Google AI Mode,linkedin.com,Both,2,3,1.26,0.51,1.97,2.82,1.56
+Oil & Gas,Google AI Mode,yahoo.com,Top 10,3,4,1.24,1.36,1.59,1.68,0.44
+Oil & Gas,Google AI Mode,wikipedia.org,Top 10,4,5,1.85,1.71,1.54,1.61,-0.24
+Oil & Gas,Google AI Mode,adac.de,Top 10,4,6,3.26,4.11,1.39,1.44,-1.82
+Oil & Gas,Google AI Mode,sphericalinsights.com,Top 10,4,7,2.18,2.07,2.32,1.43,-0.75
+Oil & Gas,Google AI Mode,google.com,Top 10,4,8,2.06,2.16,1.83,1.31,-0.75
+Oil & Gas,Google AI Mode,mordorintelligence.com,Top 10,1,9,0.74,0.71,0.92,1.22,0.48
+Oil & Gas,Google AI Mode,revenuebase.ai,Top 10,4,10,1.65,2.73,1.54,1.22,-0.43
+Oil & Gas,Google AI Mode,energydigital.com,Top 10,3,11,1.28,1.16,1.43,1.16,-0.12
+Oil & Gas,Google AI Mode,roole.fr,Top 10,1,16,1.11,1.29,0.62,0.72,-0.39
+Oil & Gas,Google AI Mode,totalenergies.fr,Top 10,1,18,1.57,1.09,0.54,0.65,-0.92
+Oil & Gas,Google AI Mode,hvo100.team,Top 10,2,21,1.57,1.91,0.76,0.59,-0.98
+Oil & Gas,Google AI Mode,aral.de,Top 10,1,25,0.84,1.24,0.70,0.57,-0.27
+Oil & Gas,Google AI Mode,reddit.com,Pinned social,0,29,0.31,0.31,0.94,0.50,0.19
+Oil & Gas,Google AI Overviews,youtube.com,Both,4,1,5.30,7.04,7.13,5.66,0.36
+Oil & Gas,Google AI Overviews,facebook.com,Both,4,2,5.09,4.83,5.30,4.55,-0.54
+Oil & Gas,Google AI Overviews,wikipedia.org,Top 10,4,3,1.81,2.26,2.10,2.07,0.26
+Oil & Gas,Google AI Overviews,adac.de,Top 10,4,4,1.56,1.34,1.42,1.89,0.33
+Oil & Gas,Google AI Overviews,linkedin.com,Both,4,5,1.30,1.59,1.51,1.82,0.52
+Oil & Gas,Google AI Overviews,revenuebase.ai,Top 10,3,6,0.91,1.29,0.98,1.21,0.30
+Oil & Gas,Google AI Overviews,yahoo.com,Top 10,3,7,1.06,1.42,1.06,1.20,0.14
+Oil & Gas,Google AI Overviews,investopedia.com,Top 10,2,8,1.11,1.04,0.83,0.97,-0.14
+Oil & Gas,Google AI Overviews,totalenergies.fr,Top 10,3,9,1.68,0.99,0.99,0.95,-0.73
+Oil & Gas,Google AI Overviews,energydigital.com,Top 10,3,10,1.38,1.20,0.95,0.91,-0.47
+Oil & Gas,Google AI Overviews,energy-oil-gas.com,Top 10,1,12,1.26,0.58,0.63,0.77,-0.49
+Oil & Gas,Google AI Overviews,sphericalinsights.com,Top 10,3,13,1.75,1.37,1.16,0.76,-0.99
+Oil & Gas,Google AI Overviews,instagram.com,Top 10,2,14,0.93,1.21,1.23,0.74,-0.19
+Oil & Gas,Google AI Overviews,reddit.com,Pinned social,0,18,0.73,0.82,0.84,0.66,-0.07
+Oil & Gas,Google Gemini,tank-pilot.com,Top 10,4,1,1.55,1.53,2.07,2.94,1.39
+Oil & Gas,Google Gemini,adac.de,Top 10,4,2,1.88,1.93,2.38,2.71,0.83
+Oil & Gas,Google Gemini,energydigital.com,Top 10,1,3,0.86,0.62,0.62,2.14,1.28
+Oil & Gas,Google Gemini,dtgv.de,Top 10,4,4,1.30,1.45,1.51,1.58,0.28
+Oil & Gas,Google Gemini,derspritfuchs.de,Top 10,4,5,2.05,2.81,1.97,1.54,-0.51
+Oil & Gas,Google Gemini,researchandmarkets.com,Top 10,1,6,1.11,0.58,0.71,1.53,0.42
+Oil & Gas,Google Gemini,revenuebase.ai,Top 10,1,7,0.36,0.18,0.15,1.51,1.15
+Oil & Gas,Google Gemini,testsieger-tankkarten.de,Top 10,2,8,1.10,1.02,1.31,1.31,0.21
+Oil & Gas,Google Gemini,verivox.de,Top 10,1,9,0.70,0.85,0.87,1.28,0.58
+Oil & Gas,Google Gemini,howstuffworks.com,Top 10,4,10,1.97,2.16,3.35,1.19,-0.78
+Oil & Gas,Google Gemini,heizoel24.de,Top 10,1,14,0.75,0.72,1.02,1.02,0.27
+Oil & Gas,Google Gemini,mordorintelligence.com,Top 10,3,15,1.14,1.17,1.31,1.02,-0.12
+Oil & Gas,Google Gemini,energy-oil-gas.com,Top 10,1,16,0.82,1.13,0.82,0.96,0.14
+Oil & Gas,Google Gemini,wikipedia.org,Top 10,3,18,1.20,1.38,1.07,0.91,-0.29
+Oil & Gas,Google Gemini,navit.com,Top 10,3,29,1.35,1.46,1.13,0.66,-0.69
+Oil & Gas,Google Gemini,marketsandmarkets.com,Top 10,1,30,1.36,0.98,0.62,0.65,-0.71
+Oil & Gas,Google Gemini,reddit.com,Pinned social,0,75,0.49,0.34,0.23,0.32,-0.17
+Oil & Gas,Google Gemini,youtube.com,Pinned social,0,146,0.15,0.10,0.15,0.17,0.02
+Oil & Gas,Google Gemini,facebook.com,Pinned social,0,,0.01,0.00,0.00,0.00,-0.01
+Oil & Gas,Google Gemini,sphericalinsights.com,Top 10,2,,4.10,3.11,0.00,0.00,-4.10
